@@ -9,12 +9,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Bootstrap 3, from LayoutIt!</title>
+        <title>Puesto Instructor v3.0</title>
 
-        <meta name="description" content="Source code generated using layoutit.com">
-        <meta name="author" content="LayoutIt!">
+        <meta name="description" content="Gestion de simulaciones">
+        <meta name="author" content="E.Lic Luciano Zapata">
 
-  	<title>Código Wolf</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/dataTables.bootstrap.min.css">
 	<link rel="stylesheet" href="css/estilos.css">
