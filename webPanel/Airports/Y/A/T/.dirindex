@@ -1,0 +1,16 @@
+version:1
+path:Airports/Y/A/T
+f:YATN.groundnet.xml:40e1b5170806fd20bdef91f0205b840c21a9f222:274
+f:YATU.twr.xml:fd19974a46583d1b1518fbf216f94768a6a1fc55:205
+f:YATU.groundnet.xml:0d782d5ec9a30bbdd2da3c55d43d04df790c541e:275
+f:YATU.threshold.xml:b3da9f505578eb7432d44cc2710217e7b7df24d2:502
+f:YATY.twr.xml:6e2caa3d76c71530e1aea3d5716b6b7b55e29c1b:200
+f:YATN.twr.xml:a3396e6441ccccd92a47faa3e8fda9d554fde117:205
+f:YATN.threshold.xml:f3914272bcd068de6fa60e5cdd38f3ece9019222:503
+f:YATP.threshold.xml:117bcb31816d30466f5dfe68a61748ec1e8abd1b:497
+f:YATP.groundnet.xml:5e3272b4a53cd997e332f252586febee8456a2a5:623
+f:YATY.threshold.xml:2241b338ee4d345662cf23388c474899c74b8a53:926
+f:YATY.groundnet.xml:957d4dd4bd38a19073fd93bf71ab76423a267b5c:279
+f:YATL.groundnet.xml:2de5c909d24446a6a4ba4e3d414de44dbaade3f8:277
+f:YATL.twr.xml:6ed163f467863a490719e2b04799ffc272537aab:205
+f:YATL.threshold.xml:78a9ec25249635e4d8d01d8da096d2e02412289f:504

@@ -1,0 +1,13 @@
+version:1
+path:Airports/E/N/K
+f:ENKR.threshold.xml:83d2b2b596d2c41cb2ab4c521bf6a89fbf0ad280:500
+f:ENKR.ils.xml:85e27e1daa9465ed9a86885b91aa1979c0a812c4:280
+f:ENKA.groundnet.xml:cb08846ae89506a49e96067d43eba178aa1cb3e8:258
+f:ENKR.groundnet.xml:8a041215db64e4c4584e8f312481f8519747e055:747
+f:ENKB.threshold.xml:6b70edfeec3c287de91cecf08354daaa59ce5f40:490
+f:ENKJ.threshold.xml:dba8771db87f4586e0742e81b5ca18901bc80f12:494
+f:ENKA.twr.xml:b31d58f243e4073aaf1e2376f50b594f9cdde4cf:198
+f:ENKB.twr.xml:b1e75c0e15e91b1a12b09decf8497e3ee138b363:199
+f:ENKB.groundnet.xml:fe57b77eeb559fe1277d214d0c448f544c6e5faa:258
+f:ENKB.ils.xml:921eab67ba8862f272424fc666b963f4fc61e690:278
+f:ENKA.threshold.xml:713aee8467e19986e1d9d80355b86184b9432bbf:498

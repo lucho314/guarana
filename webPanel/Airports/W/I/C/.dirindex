@@ -1,0 +1,9 @@
+version:1
+path:Airports/W/I/C
+f:WICB.threshold.xml:d0f91ff0274e822a95f4e0b49bb33b686ff5db78:1335
+f:WICC.groundnet.xml:ac59f85e85e26b8f9a2e51f00998833c042f3312:259
+f:WICC.threshold.xml:00f55e966a070a221e3fe395f08380f61e90d385:495
+f:WICB.groundnet.xml:4c2b71bc7b42df21aa3b162dff6e76488d4e9098:935
+f:WICT.threshold.xml:6fe118c16145845da97b5754852232bb13ba8cc0:494
+f:WICT.groundnet.xml:3343068f5ef361517990fdbc0d8ab26736e998ac:917
+f:WICC.twr.xml:e05d3d5e35cdc58e6b1641ff40057c9a5724c64b:203

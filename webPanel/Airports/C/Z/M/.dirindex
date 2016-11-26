@@ -1,0 +1,8 @@
+version:1
+path:Airports/C/Z/M
+f:CZML.threshold.xml:d07e3e00dab0880b0e5d92730b4edcb44de0c5f2:496
+f:CZMT.threshold.xml:9adc83795abe617b142bbfc6271943fa2cde6cde:495
+f:CZMT.twr.xml:5b4608f1619cbdd63f21f0b3cd68468f7df18bc3:206
+f:CZML.groundnet.xml:20d24ccb835a5c4c12fdd3026957a5576813ae67:264
+f:CZMT.groundnet.xml:b2d81affa0be9737a6d6a98b6fc786eaa6b85b38:270
+f:CZMD.groundnet.xml:a718a7cc6bba1577faeb7abd02cd80286b446005:267

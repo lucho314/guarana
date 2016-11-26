@@ -1,0 +1,6 @@
+version:1
+path:Airports/H/H/A
+f:HHAS.groundnet.xml:02c2512b8719a0fcfeacd1d7b1ea380e06b182e3:768
+f:HHAS.twr.xml:42e04d14f19adec5f0b7e0626eec6883717abca7:199
+f:HHAS.ils.xml:257c0c9f8d33e3014ff4d3afc7bd0d2c95dd0038:275
+f:HHAS.threshold.xml:5397120e925ef9ba5ffa9cf04baf45751f1cd62b:909

@@ -1,0 +1,6 @@
+version:1
+path:Airports/B/K/P
+f:BKPR.threshold.xml:fa3dae9524110060a3aab1ed6bdbcf77283e7ae9:502
+f:BKPR.ils.xml:eb2724e21e851c78df67ed765a690b854fe851fd:281
+f:BKPR.groundnet.xml:c41df8a6550d323fc995fd6d65d36fdeabcc1267:942
+f:BKPR.twr.xml:e5e5b892e997259dda982696271915233ac41ae0:204

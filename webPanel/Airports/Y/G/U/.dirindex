@@ -1,0 +1,17 @@
+version:1
+path:Airports/Y/G/U
+f:YGUW.groundnet.xml:3e75ef0ff84c04b565f67af52663703895c7a337:276
+f:YGUU.groundnet.xml:5742b7dcd3ea124f95e2a918dec5538a157fb29b:276
+f:YGUW.threshold.xml:0eacf534e5cea727a47804d1b6b8e90c85f0cf75:504
+f:YGUL.threshold.xml:983b255b2961c7be955245681e2d37a659671a8f:930
+f:YGUB.threshold.xml:be98e6751627f4670f43e024a7cc4e530a6785b9:502
+f:YGUU.twr.xml:7622d25b30e23ec04251e97cbcfe62a61ce1bf48:205
+f:YGUW.twr.xml:99c06f782b7221680cbeb8dc5ae4eb229ef864bc:205
+f:YGUB.twr.xml:e069d35f8f9e057ee7c10a053e6af283da075fe8:205
+f:YGUL.twr.xml:fd2ae29de1fc615d7202d7454c4dfbca0d18bdc9:204
+f:YGUM.twr.xml:cb6c8fa0955e9909dbea47320de554c9721d5d00:205
+f:YGUB.groundnet.xml:978a38b70f14fe9cb5edee9d1d38cbe6c3e5eea1:272
+f:YGUM.threshold.xml:42dea44e96793552611fddadb5c14620a46f6cb8:504
+f:YGUL.groundnet.xml:296878e2c07f3f8c2ecfe32523fb2cba4875e5fc:272
+f:YGUM.groundnet.xml:0a458577806fe8c4e0a294c204090000a7a9f47c:277
+f:YGUU.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60

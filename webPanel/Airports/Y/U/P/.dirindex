@@ -1,0 +1,11 @@
+version:1
+path:Airports/Y/U/P
+f:YUPG.threshold.xml:615d68fbe381791e879857f5b91c902543cde7a6:504
+f:YUPG.groundnet.xml:dbb74ce3b4b5d6cb09e5ab264d53b17fbbbd68c9:272
+f:YUPC.groundnet.xml:e744c568fd3a9e71ac496d4328e35a7139ce89c2:277
+f:YUPH.groundnet.xml:82697a39b94a5b6e914b4e16df7a7a8ed414421a:276
+f:YUPG.twr.xml:b30a9cfc395ce709170e01f8f1a75258994e62fa:205
+f:YUPH.twr.xml:a409f2394c44ac94b7c75be0949a755575466f87:205
+f:YUPC.twr.xml:f615ae623baae82343b4348f33036522a03ce4bf:205
+f:YUPH.threshold.xml:02b3e56af71004e2bd4f241ddb7638205322b187:500
+f:YUPC.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60

@@ -1,0 +1,17 @@
+version:1
+path:Airports/E/S/O
+f:ESOW.groundnet.xml:8ca35c9f81b04f2e43f082cdab88054b758d881d:754
+f:ESOL.threshold.xml:e2ebfe3efc167f66548462fe059a0d7185ea6f44:499
+f:ESOK.twr.xml:9fc07ed7aac28b15a317d1892e68ef64437cea9f:200
+f:ESOE.groundnet.xml:602e5b40cd64428965e726c561629395e62639dd:264
+f:ESOE.threshold.xml:235cf9a86300af52849639545d9e162064aa2c41:491
+f:ESOW.twr.xml:7295804612552a7fbe4fb4426c6151c40c1b5381:204
+f:ESOK.groundnet.xml:b4b0448a78f23bce17fd4cf546ad0c85a47026d5:265
+f:ESOE.twr.xml:22a8585aec383c11abd9cb7c3c2a37053da81d35:200
+f:ESOH.threshold.xml:16232a4d5574be10cdf179d79b26f874f5ef19d7:492
+f:ESOW.ils.xml:73843992b86ecfe8bd6acd86dbd0bd192ccedd5f:280
+f:ESOE.ils.xml:1f21efd464583d0aba71f7ce2d8b39e934536781:463
+f:ESOW.threshold.xml:03aae9ad76e891a88e96796de71f904b365d248b:492
+f:ESOK.ils.xml:866ee66f130d2f45f82f02c18858a374baa5a2fb:464
+f:ESOH.ils.xml:4e14de2d62f143f1f1fa13491cc03ae3388a99c8:282
+f:ESOK.threshold.xml:e45935ce7d90b5841de1b1db70ec0966254d3cd1:911

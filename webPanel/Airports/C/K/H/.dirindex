@@ -1,0 +1,9 @@
+version:1
+path:Airports/C/K/H
+f:CKH8.threshold.xml:0aeaf7d0c892c2cba0a7fa8f8ddb53ce7a0fa25e:503
+f:CKH3.groundnet.xml:9c3bac11dd53dfb7af3c13df1773c10a911e163c:270
+f:CKH2.groundnet.xml:1c339a6ffcae669d5eeda95c6b861d351c5b5cc6:267
+f:CKH8.groundnet.xml:97bf7061dc3070736371527213d38ee34b8c23ab:267
+f:CKH3.threshold.xml:cf5930896bb941adf727df4246d297aee10bc59d:504
+f:CKH2.threshold.xml:8cc1e47e0b83e921e5488e1daaf70b0651d64212:504
+f:CKH7.threshold.xml:0213a32154e0ca0989920f63f3e2bbf42f37f354:498

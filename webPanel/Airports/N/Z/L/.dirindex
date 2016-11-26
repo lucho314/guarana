@@ -1,0 +1,6 @@
+version:1
+path:Airports/N/Z/L
+f:NZLE.threshold.xml:cbbb5ca1e81c9453eaad1ef83a31b7ab0ab7e074:504
+f:NZLX.threshold.xml:17c96e1967d41d918ba43afeba82cf9460c86cb1:1337
+f:NZLX.groundnet.xml:cbff3b40f90dc19945f45c1cf6b18b0aa983cab2:260
+f:NZLX.twr.xml:a5cba0ee83eb781b8dcb3d0dbbc0b5c959107c30:199

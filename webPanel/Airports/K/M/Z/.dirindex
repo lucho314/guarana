@@ -1,0 +1,9 @@
+version:1
+path:Airports/K/M/Z
+f:KMZZ.groundnet.xml:f5dcfc5e9fd3a9ad161cd91a087fe6f12526b47f:287
+f:KMZH.threshold.xml:6d895545ed1cbea753e6ae4fefc39048d388b799:493
+f:KMZZ.threshold.xml:d4c76a16b6128ac57b8e6eb3b7244e550d31fe82:927
+f:KMZJ.groundnet.xml:3257e83ee0b153e33b3bff6795cb9c376e0754db:768
+f:KMZJ.threshold.xml:211f2b2d613cf939c51a8487a1104f61a7540534:504
+f:KMZZ.twr.xml:a9b298cdfba92df8e51e101eae02dc0dd5303e5b:203
+f:KMZZ.ils.xml:c8b4f013b4b753a3b38968ec408bb871274e3bbb:282

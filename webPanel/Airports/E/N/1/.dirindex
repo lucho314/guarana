@@ -1,0 +1,8 @@
+version:1
+path:Airports/E/N/1
+f:EN10.threshold.xml:f6610bc3a8e06d26dc6e865ad658221d22f2079a:500
+f:EN13.threshold.xml:cff05943473c03ba172f43257d5bb556b32530ed:492
+f:EN13.twr.xml:0f8d48957ec8aa0ad6cd01522e88ed3ad697d4b2:204
+f:EN13.groundnet.xml:e77d016773dd94812774686f3a5d2ba640637500:260
+f:EN10.twr.xml:0a390bd99af70e6ef16992b4d9a30498a0af1897:204
+f:EN10.groundnet.xml:bd7f76c4562fe45117ab14a44f08d472f020c62a:261

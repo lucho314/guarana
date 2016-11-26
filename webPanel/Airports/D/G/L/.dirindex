@@ -1,0 +1,14 @@
+version:1
+path:Airports/D/G/L
+f:DGLE.twr.xml:a20ea5be93b04017b2ead0ae02e5b754d32010ea:202
+f:DGLE.groundnet.xml:2827adbafbb5b0009135d394f97ac1db7f6d28fc:2455
+f:DGLY.twr.xml:4bbee80545343ac48149a18b613c16504712cc2f:203
+f:DGLN.twr.xml:fcf89486e1ada3141138873dcfdc98049defeac8:204
+f:DGLY.groundnet.xml:59d101dcf85f28580d990ee63dbcf43f340fd63b:422
+f:DGLW.threshold.xml:92b3a2ca9756286dbf0104bea1f00aaaa6508075:489
+f:DGLW.groundnet.xml:7fa19a59360713933666b0af2dc8008472c83b31:419
+f:DGLN.groundnet.xml:5cb8070cbeedfee024c403d0a88945ad46627d15:426
+f:DGLE.threshold.xml:5dc5220d16d2bec28c256535b364569e9aa45885:500
+f:DGLW.twr.xml:f95fd56b8e30257b9d94e2fe950ee5dc950afa1e:204
+f:DGLN.threshold.xml:0382b836438693c7b07b063d789fd1705980b903:493
+f:DGLY.threshold.xml:9386ce881813590f128329b34b2ced2fad00e7bd:488

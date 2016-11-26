@@ -1,0 +1,9 @@
+version:1
+path:Airports/K/V/I
+f:KVIH.threshold.xml:e1339cd6a9e62239259640ef109f92fbb24c6f9c:1338
+f:KVIS.twr.xml:098fd9666180073ddfae09cf573663ed372fc0cd:202
+f:KVIS.threshold.xml:59c96cedd4e68a9a3d35d9ceef899fa8794de479:495
+f:KVIQ.groundnet.xml:3f4e955f6d6789c84a8a1eced4b2f5f9f85830e2:271
+f:KVIS.groundnet.xml:e94ff2d9c8fbbdd1b2a1523212911aed2cea35a9:592
+f:KVIS.ils.xml:b4992bdcab4db27bc1137946df2a0b872bf7229b:284
+f:KVIQ.threshold.xml:2aa75dc88701927626fa8ad1603ca97cf7b21d50:493

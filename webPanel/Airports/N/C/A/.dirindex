@@ -1,0 +1,8 @@
+version:1
+path:Airports/N/C/A
+f:NCAI.groundnet.xml:47d9a3e5c20e55d083f82e49deea5b47ecef6237:275
+f:NCAT.twr.xml:711a0a79ed40b7f56adb989bbe3b453dafae4c87:206
+f:NCAI.threshold.xml:6bdba5977932d155707fc7ad339810bfbe6f1e7e:506
+f:NCAT.threshold.xml:160339c82e62fd9de8447a9299a054b4d938978a:506
+f:NCAT.groundnet.xml:b19d0307e35932c38e274e1ae71c12dcd19386ec:274
+f:NCAI.twr.xml:74fb32f48702da1f167c2c79bb9a18de9b485164:206

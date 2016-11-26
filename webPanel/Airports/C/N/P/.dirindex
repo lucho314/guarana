@@ -1,0 +1,7 @@
+version:1
+path:Airports/C/N/P
+f:CNP7.twr.xml:2c7737ace0ddc89dd630db38f36608d0e72b7fc8:205
+f:CNP7.threshold.xml:88e7e4c12a5e198a8b09ca53512cb1a2ee05f0a1:500
+f:CNP3.groundnet.xml:75bb6cb3cef1ddb9c3a52496da687b46a59c04b6:267
+f:CNP7.groundnet.xml:7750481812ebea4dd14ae1db3a9ea1098bed9731:266
+f:CNP3.threshold.xml:92b928e5912ab4a8d273a284616bad23ff9d24ac:1330

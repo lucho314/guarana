@@ -1,0 +1,16 @@
+version:1
+path:Airports/H/I/2
+f:HI25.threshold.xml:b97afaee952784b80d690ddf26c20a86a307b0f1:502
+f:HI28.twr.xml:7e7a95fec384b795cd9f74ee3deb4c83d98a3b44:205
+f:HI27.groundnet.xml:e98a6efefeab298ece0ab1530a174fdc3ba059d1:276
+f:HI28.groundnet.xml:e210eeaef49e23131c475ae4930fbba8ea0072ed:277
+f:HI29.threshold.xml:4955c1a87d5c39b24e34825c1fd78cc61b20fe45:502
+f:HI27.twr.xml:51aa493314360a03150b1ef637f64510717117d3:205
+f:HI23.groundnet.xml:e87bc7402c18bfecc4431bf472c57097cdff0204:276
+f:HI29.twr.xml:3715c35248b12f3b9d642bd9163dc6c00c9ac38a:205
+f:HI29.groundnet.xml:346c399f59e45da0ea87bb89c5c77a0ff2a6dec5:276
+f:HI27.threshold.xml:c09ce31197330e3e825d44ed418624cd8e12db0c:503
+f:HI22.threshold.xml:77bf1e9f6c4d36549c76b79dfa9b7f3971da71ff:500
+f:HI28.threshold.xml:92e8b8cfba6cab67daaeb2d039ed7826869a9af1:502
+f:HI23.twr.xml:353e3161670f37e86ec91baf04dbc2665bc6a44c:204
+f:HI23.threshold.xml:df08d324701aac0fce00cd8812b60b185d5b741c:503

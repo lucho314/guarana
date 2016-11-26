@@ -1,0 +1,14 @@
+version:1
+path:Airports/K/S/K
+f:KSKA.threshold.xml:4cf8f3dd2d744159bdc4710b29c3f79f1d0dc998:499
+f:KSKX.groundnet.xml:67725badb190f90c6275bee55b1f75d400500662:747
+f:KSKY.twr.xml:43b2d2d6157958b8a91c86318a322d7b81da8acb:205
+f:KSKI.threshold.xml:29da077346f1b97988af0a2cc32a3103ed5e3a6c:910
+f:KSKA.groundnet.xml:418682f37e2cdbb82ebdca0bd4929b9019826b10:43439
+f:KSKF.threshold.xml:d6283f4be15b9e09f271e4bc0474baa13a5a67a3:496
+f:KSKA.ils.xml:0d5c95f332f533123a74357c2f68a8c7bd1024ea:471
+f:KSKX.twr.xml:621ae3c33557e314123d3cd142beb14007dd3f21:201
+f:KSKX.threshold.xml:70e108151939fe7470a698b6a5bf0c633d9f8af6:495
+f:KSKY.threshold.xml:76cf59c08e555ea1442b3e71240b042f48fabd96:915
+f:KSKY.groundnet.xml:c70904625c357f7beccdbbb0062e6665179d6ed0:915
+f:KSKF.ils.xml:0243b0fcc64c06723cbae7542881da81e371bbef:467

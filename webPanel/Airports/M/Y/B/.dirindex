@@ -1,0 +1,8 @@
+version:1
+path:Airports/M/Y/B
+f:MYBC.threshold.xml:a07670898a98745abb413cda37ab33e7aba710fb:494
+f:MYBG.threshold.xml:11f84940e2088416ec5e0d2fea07d5684f6a4cbb:494
+f:MYBS.groundnet.xml:cb4b15a4434f18746e492b676a5859cd7ade6a1d:263
+f:MYBS.threshold.xml:cb15fd51f65b2eba07ee218ea83ac8fca3cd8fa9:493
+f:MYBG.groundnet.xml:0b793e42669911d4c2d4ec6a18c5096789820028:263
+f:MYBC.groundnet.xml:6dbbe8083272a8156669e63e367ad28b4297d9b6:262

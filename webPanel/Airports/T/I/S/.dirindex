@@ -1,0 +1,10 @@
+version:1
+path:Airports/T/I/S
+f:TIST.twr.xml:71089d4ef19168d00c356ff1a3941aca37bf8ca8:205
+f:TISX.ils.xml:a1a5025413b554f6ddb6053fcaa11969dc56effe:281
+f:TIST.ils.xml:c01e53e740f41f3b3ef77b56b1a403f1b45ac8e5:281
+f:TISX.groundnet.xml:74fce61d9b9329a8086812c4b90dacbe02f80b12:1135
+f:TIST.threshold.xml:be9a249a9ff822bbab60662723baa1175de15bd3:497
+f:TISX.threshold.xml:61bc7f1d2040f607f4dd70dc705ab08d5c81d690:496
+f:TISX.twr.xml:214ee046da65c9f186eba180085be8e92e61b0af:205
+f:TIST.groundnet.xml:019a829881ddbff366048608abf7177f008342d3:1471

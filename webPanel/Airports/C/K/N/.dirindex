@@ -1,0 +1,7 @@
+version:1
+path:Airports/C/K/N
+f:CKN8.threshold.xml:5ab50e9ebfcd8c91bc53446479b07bac5a7594ac:503
+f:CKN5.twr.xml:644b496faa7c37afd33b468cacc2ae8c99f9c8ca:201
+f:CKN5.threshold.xml:849f93cf6f351910097d360ca477c2d5b388be09:504
+f:CKN8.groundnet.xml:93dda76da9b048e6bc679ccdad0ac5679145069e:270
+f:CKN5.groundnet.xml:cde63e50d72c0ad8881894cd7d4e8e0ac53f19e3:270

@@ -1,0 +1,14 @@
+version:1
+path:Airports/Y/C/K
+f:YCKD.groundnet.xml:fb26b005d41cccfe11fd93417f6226061f5ca04d:275
+f:YCKY.twr.xml:7e09ec80bd35cc094f1a82f0389af3a55000522e:204
+f:YCKN.groundnet.xml:4ed1a4cdd47eabba42d026ffeb53e94dd299bf8b:274
+f:YCKN.twr.xml:db9cfa033b990b7210401f409a9596d642d1fb1e:205
+f:YCKD.threshold.xml:d1892a3dec97c53a478a1e7f8a6076fc89ef2994:1358
+f:YCKI.threshold.xml:739371e46acee92b5b2b5de3afbd1dea286d09d9:502
+f:YCKI.groundnet.xml:29e760652bd219358d712baeaa3f931c5ad7dcf1:274
+f:YCKY.groundnet.xml:9b124a8973e78e207e9d1e7bf96a07c82095f3c4:274
+f:YCKI.twr.xml:bc30bce692b361f5ec5b196cf748354513b1a59a:205
+f:YCKY.threshold.xml:e652cff17d473548d48f2df430dc7896fc9c5b2c:502
+f:YCKD.twr.xml:04d27e94a91dffde935b75a83907480ce9891e6f:205
+f:YCKN.threshold.xml:abb24e97334ff026e39cf464a973a47c61d1a82b:501

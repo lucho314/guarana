@@ -1,0 +1,8 @@
+version:1
+path:Airports/N/C/P
+f:NCPY.threshold.xml:23db2b63507e222b06b527ae302f4ff21951562d:504
+f:NCPK.groundnet.xml:93cde845fc3832288999f8c6ceae4ed4a7bf90b9:277
+f:NCPY.groundnet.xml:b153307d11578c1fc0ac83e6747d5eb0c749d596:274
+f:NCPK.twr.xml:6891b9302191ae04108430539f04869306e8f6e7:206
+f:NCPK.threshold.xml:7f2bf3adf6c3176251e4c71f5e3fc3524a64cd31:504
+f:NCPY.twr.xml:723890130b7771810d4b73b3c7976be492dd4c3b:205

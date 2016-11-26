@@ -1,0 +1,11 @@
+version:1
+path:Airports/Y/J/N
+f:YJNK.groundnet.xml:2ba4e837e61fa38aec5487ed1d1f575462322958:272
+f:YJNB.groundnet.xml:b69c599da968388d5342c0f5b2968592dc275a81:276
+f:YJNY.groundnet.xml:ce0f00508f4214a1f3acf7ef1727bc9c63a28596:272
+f:YJNK.twr.xml:cbbcf853ec0482879c0b4f1bce1ce392ec576a8e:205
+f:YJNB.threshold.xml:8ba5e20eb8709c27075e32bdb4f0f89e0150a634:503
+f:YJNK.threshold.xml:72989bb98c4ee934ce4288e437667a599e8c99b3:499
+f:YJNB.twr.xml:3b627cbe62f5edd9ecb98e15cf26a6c38c4acb17:204
+f:YJNY.threshold.xml:8b7c64e9345c598d1cf4f1f7a8cc10c40839c61b:501
+f:YJNY.twr.xml:2866b4583ceda5da8d10647d75d84edb0959a270:205

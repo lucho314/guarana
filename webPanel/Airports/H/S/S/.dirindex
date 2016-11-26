@@ -1,0 +1,8 @@
+version:1
+path:Airports/H/S/S
+f:HSSS.groundnet.xml:fcf0abb099138980690bf7ce96c2e19f98db1779:258
+f:HSSS.threshold.xml:83e14f7fa70ae4d77a6704382c1622cab96df3d4:494
+f:HSSM.threshold.xml:fd66ede2f2750b29d1f16fc447c9bcb9329a27b5:489
+f:HSSJ.threshold.xml:49a5554847dad307c26ed720e62168e12fb9f756:489
+f:HSSS.twr.xml:6034e1cde3ee6df9c55c4f0827678c34db918349:201
+f:HSSS.ils.xml:ff5afc7b8e1115a9a52fac9352833475ff8e88d5:466

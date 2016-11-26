@@ -1,0 +1,10 @@
+version:1
+path:Airports/K/F/R
+f:KFRG.ils.xml:2f014733e20664cfcafb1aa2d7d6c8b4bd6f203a:281
+f:KFRG.threshold.xml:00c2225f4f26df4163abb59ce14a667585d20068:916
+f:KFRG.groundnet.xml:22a3c8935b8d722eda6103ffeeb904fb2263fb0e:1102
+f:KFRR.groundnet.xml:bafb5778a32ced5b006602651c62fa96a28d7e74:772
+f:KFRM.threshold.xml:c266f43751c08452680dd738e45940c46ba4f4da:912
+f:KFRH.threshold.xml:28721e65581d77a10da512275fbe25c6c1aa527e:493
+f:KFRR.threshold.xml:924ca51fc728959d6d1dd41462fee7582d3e13a8:500
+f:KFRI.threshold.xml:5b6dfe978a2d8e1c97bf8a5aa186299f3a5df818:907

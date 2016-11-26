@@ -1,0 +1,5 @@
+version:1
+path:Airports/A/G/B
+f:AGBT.threshold.xml:6c8ac7e64d44abe6658ea5613501ecd71079a45c:500
+f:AGBT.groundnet.xml:1e9686f1fb3b7b52031e7e15f2ac8277d309e7eb:273
+f:AGBT.twr.xml:4aafb725fb7c1996bf8a993effbf05fa4b589c80:204

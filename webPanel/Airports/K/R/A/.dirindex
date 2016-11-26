@@ -1,0 +1,15 @@
+version:1
+path:Airports/K/R/A
+f:KRAL.ils.xml:44c3886e0a4ecbcd553b8bdf9f8f4b7cd968686e:285
+f:KRAL.groundnet.xml:2a4fcf827b93b85845eeab4396564c7b4e6d3779:1832
+f:KRAL.twr.xml:52ff94f16cedebdda51797a18c394b0b524f3be9:206
+f:KRAC.threshold.xml:a44a6ab8326c5f583aaa68c9dc49f41f7c53ef36:916
+f:KRAP.twr.xml:338fc23f1c6551256d933d8fc054cc7c866a691f:206
+f:KRAP.ils.xml:970ab00c07803d2963591559e63750793b0973cf:285
+f:KRAC.ils.xml:7c43095da23484b9e6f673e89c1ff91d80766f72:283
+f:KRAS.threshold.xml:41ce4516ff8937aa60743e0d9939b84c2d4d6e90:492
+f:KRAS.groundnet.xml:3adc2456c7176ce3a5311e4883a1142c18aa8c21:602
+f:KRAL.threshold.xml:236a900e52c346bbfa2d2444f4a113b7a257af0f:933
+f:KRAP.groundnet.xml:8a4c0399d2279613543f919f8d291d59335394a3:2098
+f:KRAP.threshold.xml:02a61e99c9022de29c710940c20ef9f406ee97b9:932
+f:KRAW.threshold.xml:f0ef0ac25554d8898210b45367ea9d3f1bab08b4:492

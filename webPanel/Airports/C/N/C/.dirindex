@@ -1,0 +1,10 @@
+version:1
+path:Airports/C/N/C
+f:CNC8.groundnet.xml:a386e1250c6ac26c83bc9dcef27ecee929ed5f30:275
+f:CNC7.groundnet.xml:66ec114bc35196b8dcf22f5bb2cc53a2d6db9ec7:439
+f:CNC8.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:CNC7.twr.xml:872e967922a1c790818740bacc75ab0fe2f82361:200
+f:CNC4.threshold.xml:95e61f96610078b420f73f5bccd2eda595269f9c:926
+f:CNC7.threshold.xml:389094fdc50e09694b770eab6d22a944d80b078d:494
+f:CNC3.threshold.xml:8a0a61fd98cb9f9669635349837772ddf428ed39:913
+f:CNC8.twr.xml:933c017df0fa0e11a3179a6b82569b3af4d33c89:203

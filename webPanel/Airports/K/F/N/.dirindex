@@ -1,0 +1,11 @@
+version:1
+path:Airports/K/F/N
+f:KFNT.twr.xml:cff227287a82b1ba9e5d294741dde08eaf8cf9a5:200
+f:KFNL.threshold.xml:3911b818b0fe5879c0b6f91559dc8eb94d6ebf11:930
+f:KFNT.threshold.xml:7290ca5d492d2d9d92e56ce92984387b3d1ce78f:1331
+f:KFNB.threshold.xml:1fa712d5073d314bb758c5791dd5c1215dd4a804:502
+f:KFNB.groundnet.xml:2220b7eb591bc214dba948c904171e1e3184a65e:425
+f:KFNL.ils.xml:04c911c4c68ddc33e4f032a89ac34e89b3efd341:286
+f:KFNB.twr.xml:5f249ca2440edc9b745368203ffc216463e53327:204
+f:KFNT.ils.xml:301e9d72db12701ecb2d2004e0d54d1fe02dd575:467
+f:KFNL.groundnet.xml:1c8530191bf7de18f99d4387a379a0b731e07125:435

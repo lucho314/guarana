@@ -1,0 +1,17 @@
+version:1
+path:Airports/Y/I/M
+f:YIMA.groundnet.xml:015b982d7b41e5a120e5d285eef4d8fa9eb3cd41:272
+f:YIMT.groundnet.xml:b20d10fea9e0bb67bec21e4dc57b7e9d0e143d71:271
+f:YIMB.groundnet.xml:952f1890483c0189831530e7f95d2d752debb2b2:275
+f:YIMP.groundnet.xml:584d7789ce65bd6b3f75bb444aeea89445995370:271
+f:YIMB.twr.xml:766da8154a15908e732022e2ab27233f24d99c4a:205
+f:YIMT.threshold.xml:fe4fe05615e2b6ebb901cf8944e50334299a0205:504
+f:YIMP.threshold.xml:bf2f86c556c5874f2b5bb4cb86b4f46578966fda:503
+f:YIMT.twr.xml:fbd49ccafc1eef996d424b5ed8a874c323f98456:205
+f:YIMA.threshold.xml:3383d3db712903433ca33b4639815717dd93ebec:504
+f:YIMB.threshold.xml:a5ada6b59c883eb66be6467e5a9adfbe3eff9f78:931
+f:YIMY.twr.xml:18c563e6ee9ce760720ce17bbe042c6e75218127:204
+f:YIMY.threshold.xml:ee3d69d09b31a88bc7424e7c754484d03b6cb85c:504
+f:YIMA.twr.xml:8546dc0d3af4d5bfc4f4f05cdd1d55a299822705:205
+f:YIMP.twr.xml:5a2a28a21d4cd02fd596b35b09be52fc0372a664:205
+f:YIMY.groundnet.xml:57f8564b7c310c027410efce99df42e9bfb99eb7:271

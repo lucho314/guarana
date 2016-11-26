@@ -1,0 +1,9 @@
+version:1
+path:Airports/L/P/C
+f:LPCR.groundnet.xml:03db4d8c7ed44cd49842fa46822105970360a400:430
+f:LPCO.threshold.xml:079046b8f7b018c90d98c592455e1e6ed90a5085:493
+f:LPCH.threshold.xml:eaf8a039d3407d742427369f7fde47ad11c325e2:500
+f:LPCS.threshold.xml:dd100d007f4a9cd0cd9cdbf84b637e67cf2d4661:494
+f:LPCS.twr.xml:62b78725aba0c60f5edae2d5da551ab20b3d9348:199
+f:LPCV.threshold.xml:49cfa28aa6667f539c334264a0c64dd85cfe2434:493
+f:LPCS.groundnet.xml:2e14473239ab6201852c558614e493e910556bb8:1065

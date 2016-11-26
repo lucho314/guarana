@@ -1,0 +1,7 @@
+version:1
+path:Airports/Y/O/C
+f:YOCG.groundnet.xml:895e1425e6d1e96188be22e8837cce529c212e14:272
+f:YOCR.threshold.xml:c9857e96f736c5f034ba26a8f0e0ab768a7b0471:500
+f:YOCR.twr.xml:198a71b18078c065e831983fb2a8e74a57fd4a48:205
+f:YOCR.groundnet.xml:4222ea87d6f82488bee222135d2a8a66516ebf6d:271
+f:YOCG.twr.xml:145b47ef98b2f1b8d82ddfb8966898a20e48958d:205

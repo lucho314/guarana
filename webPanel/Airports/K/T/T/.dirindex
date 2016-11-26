@@ -1,0 +1,15 @@
+version:1
+path:Airports/K/T/T
+f:KTTD.threshold.xml:005401d76bf752e0f7b53d88b426e5e230da43a3:497
+f:KTTN.groundnet.xml:d45cbaeff41402be4f78aabb9e4e6c9394df7eb5:1653
+f:KTTN.threshold.xml:d8272a2d8e0e03f90b568f10c14374695c83f87f:912
+f:KTTS.threshold.xml:6b3644b682f637aeea58fed5479f654a6c7fb81d:498
+f:KTTA.ils.xml:f2ed62e43b3fdf0c76c744781ac88bcb5a3a4c63:286
+f:KTTF.groundnet.xml:3cb8e1dfeb322c38fef3423886b965a6623cdc2c:1124
+f:KTTF.twr.xml:39ef6fc886aaa9fb425d8062a0cfcffe84e5bb02:205
+f:KTTN.ils.xml:839a19ba18dc1d7dc2d89832d05d74222fb541af:282
+f:KTTF.threshold.xml:4662494def0bc2ae60b11d9d79ca818da100faa6:495
+f:KTTN.twr.xml:9ad880b54f27edf758b9810ed6991701f5201887:205
+f:KTTD.groundnet.xml:158db7ee22ae3f5d595e5823b535542b66d330ae:1455
+f:KTTA.threshold.xml:51a1a3f649890f0a336e9b9d50bac7271ad57d66:492
+f:KTTS.groundnet.xml:ba7be3289494dcdf2c1341e7214ea192ad9918ab:266

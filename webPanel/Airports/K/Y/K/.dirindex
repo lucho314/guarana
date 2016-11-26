@@ -1,0 +1,7 @@
+version:1
+path:Airports/K/Y/K
+f:KYKN.ils.xml:7fa87ef0fdde6e7e703527cb5323c54254ba916f:284
+f:KYKM.ils.xml:f17f5a21fb7eb2757a4dad0fc8c37110f8ddd3e9:285
+f:KYKM.threshold.xml:c3695315dc0f7a6dc72d3c44dc47aa6d3b8bb565:916
+f:KYKN.threshold.xml:ae5c1b1dddf41d2529e02f446499170ef25652da:910
+f:KYKM.groundnet.xml:11e4df671a515d96157d8143a937ef798ab5accf:1415

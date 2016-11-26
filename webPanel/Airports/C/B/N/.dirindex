@@ -1,0 +1,8 @@
+version:1
+path:Airports/C/B/N
+f:CBN9.twr.xml:dc831911edd516b466bd1a9862e598eb0df46de5:205
+f:CBN9.groundnet.xml:a0cd003a1887d54db8334feca93eb176cccd139c:272
+f:CBN6.twr.xml:db44d7292adf5742d6010f8da17c8c980c0b371c:205
+f:CBN6.groundnet.xml:0b754a3822bddf1516bc8a2a611d7de22f996e62:275
+f:CBN6.threshold.xml:98928e935ecb4b03b7077b1aa17c3d74d465030a:495
+f:CBN9.threshold.xml:223cff306a67806a8478d3570b4dc4cc1e9f92da:503

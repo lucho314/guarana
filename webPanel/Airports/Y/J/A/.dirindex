@@ -1,0 +1,9 @@
+version:1
+path:Airports/Y/J/A
+f:YJAM.groundnet.xml:b1c66a68a78aa1c0d861a1b508205f4ba1bf9ab3:275
+f:YJAK.threshold.xml:62f97bc7b84923fa6d5add279179b12170e710ee:506
+f:YJAB.groundnet.xml:e669585603363299cc03e3591bd7d902e3bc8b85:274
+f:YJAB.threshold.xml:116689195fd2e7ebaab66415d1720aa9df4adeb0:503
+f:YJAM.threshold.xml:b3075e5ad9d35b9a7cfcbc6d21eae5715dba79e6:502
+f:YJAM.twr.xml:fd83b651b3134f5481eff11d33fec01c85cd9199:205
+f:YJAB.twr.xml:24fed4c2c24d468c3e3c582c90bc93f65c63aaa4:205

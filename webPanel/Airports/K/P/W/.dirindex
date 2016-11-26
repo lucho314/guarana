@@ -1,0 +1,17 @@
+version:1
+path:Airports/K/P/W
+f:KPWM.groundnet.xml:96728b3cdfcf6a909d53bb93278eae630a00aa87:1619
+f:KPWM.threshold.xml:a875c618642f68fa7c005126efdbcc18adad516c:914
+f:KPWK.ils.xml:93890f35c2c2bf420614d1489c5a502ef8f559a3:284
+f:KPWT.threshold.xml:c32ae3d716ecb82beb78727bb3811deb16e7c468:497
+f:KPWM.twr.xml:c780c98e20afaccc73ff3eb4303456e026d2bc07:205
+f:KPWT.groundnet.xml:fc80d01799cb6113e80987c27389248bfb35df1e:1285
+f:KPWD.threshold.xml:2a39a3d6473968e6c7bf2ef724114033feec15b6:1330
+f:KPWA.threshold.xml:8090442ec083981954b1c9f95d1d7ad33f46ee86:1784
+f:KPWC.threshold.xml:9cf34975ef87defda4a94a4ee7c13429a4fd9044:494
+f:KPWA.ils.xml:064640b5b80ecb8d02779e741809bee8e5a457e7:285
+f:KPWT.ils.xml:a1fd5ba1c253af0e997cfff664648bbfb2db210a:285
+f:KPWA.groundnet.xml:dc1f347347b5e7b499f7d286c0e26654597e7eda:1176
+f:KPWG.threshold.xml:d5ef944c6ac8990daa3fc09eaea4cde0bc517c9a:914
+f:KPWM.ils.xml:9f51d80e9fabe9d64cb99635c7ce27cf91f98922:465
+f:KPWK.threshold.xml:fd24725d0e7b437840124c76fd76f9084f53ae5b:1333

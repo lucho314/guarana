@@ -1,0 +1,14 @@
+version:1
+path:Airports/Y/P/I
+f:YPIR.groundnet.xml:915f6c479f0ba15a4a4dd2ad55b2fda173c29eb5:276
+f:YPIN.groundnet.xml:90f85a311b061a4342d694b430ab327eeb884de1:277
+f:YPIX.threshold.xml:c02d029585bd34b0b71b7cc2e58ac7a895b7e3a3:1359
+f:YPIN.twr.xml:564e3cd692bfd9bb69773473476db4b7bf05f82c:204
+f:YPIX.groundnet.xml:2b927de3900d338be6fd3f0fb487c022f1f09086:272
+f:YPIR.twr.xml:7e05bfca63ee42de0129624785a1306fd5c85b0c:203
+f:YPIX.twr.xml:f5b64c45907380011b83f34012dd397dd101f97b:204
+f:YPIR.threshold.xml:abee1c74bc98fa29367dd36146b62e76654c3b2b:1357
+f:YPID.threshold.xml:f84cf10bbc021b98ae072bc01f92d1b2c9402a64:925
+f:YPID.groundnet.xml:33fe97ce359ed7b118c750fb6ecc979515d6d1dc:276
+f:YPIN.threshold.xml:00991e3569fe3d5db6573328a87ff6943dcdb6fb:501
+f:YPID.twr.xml:8e194129193e9652519fada57c8becbab3af06ae:205

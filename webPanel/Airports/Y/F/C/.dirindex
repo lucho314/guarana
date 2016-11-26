@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/F/C
+f:YFCU.threshold.xml:8f0a1b5d43d70f55a5091b68ff989f8256a2f07a:504
+f:YFCN.twr.xml:f77b119f6983cd9c4ef3e4652aee36724905e09f:205
+f:YFCU.twr.xml:84d56027acac5bcbea8463d2cdff57652e54509a:204
+f:YFCN.threshold.xml:2317b401e83b2a52a1fccafc4bb1621a37cffc0f:501
+f:YFCU.groundnet.xml:5ec6a283afe0238be283dfca1adb68f5d6cd40ad:270
+f:YFCN.groundnet.xml:bdc90dc12808deea47118d8ce2e20d9c4b197038:276

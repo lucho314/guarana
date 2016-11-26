@@ -1,0 +1,14 @@
+version:1
+path:Airports/U/I/K
+f:UIKM.twr.xml:451d0c45e491dd91ea8d42ca164dff32bc82cd66:204
+f:UIKE.twr.xml:33bd1689e2538ad3ed04c562ca3f7b62336b3a64:205
+f:UIKM.threshold.xml:08058ac259fce3955c76906d10dfff20bd27a7be:504
+f:UIKM.groundnet.xml:32a2b7d8aa11ba33920431c5cfec0fd4a0e92ffe:1086
+f:UIKE.groundnet.xml:5ebe2ee3697b52bcadea5a8d66e9aa22d1534d3b:919
+f:UIKB.groundnet.xml:12d340c2621044da3a8e0231fe47e1624120e884:433
+f:UIKK.twr.xml:98fcf06506509a1dfaefb708659b018d99a7e64e:204
+f:UIKK.threshold.xml:5aba50a2ee62bcd98a17211c544c5c1c2737623e:503
+f:UIKE.threshold.xml:2a86c128acb9a4084edb74ac2f7b213fb1822944:501
+f:UIKB.twr.xml:6c93a410512944c4370cb7e9e4a191d8e8413b61:205
+f:UIKB.threshold.xml:38c9c9ca145cf514d60293d13f8127ace2b9d3b8:493
+f:UIKK.groundnet.xml:7e1db6ea85af5ca19d8d808bc30192507df3854e:3107

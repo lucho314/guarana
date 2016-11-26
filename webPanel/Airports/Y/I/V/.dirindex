@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/I/V
+f:YIVL.threshold.xml:2ffa19a3ce1c776d0d9fb974c2cada0aeee97c7d:932
+f:YIVL.groundnet.xml:6b40b5edb37cf9f24ee6d38534e1dfb2d7a3c48e:276
+f:YIVL.twr.xml:fac9e6fff0e098ec005d874c3d7f05912a2e96d2:205
+f:YIVO.twr.xml:3053c6a33d59aa4d523bb493b4a7226ef7bb0707:205
+f:YIVO.threshold.xml:0a6ebb4ab43ff82165332933bc043a1ef776351a:931
+f:YIVO.groundnet.xml:10e963317054fec2a523870f39091564389728fa:276

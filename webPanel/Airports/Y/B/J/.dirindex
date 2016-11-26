@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/B/J
+f:YBJP.threshold.xml:42fc4a49bf689224ed2b8c3e5729a82dc08a52e8:500
+f:YBJW.groundnet.xml:fe5e95384dc4fce74a04c45a72e189d7aa6e475c:275
+f:YBJP.groundnet.xml:2b9cb2498f504c2e0f40b8839fe70e3691acc9e3:277
+f:YBJW.threshold.xml:82f5e27939008d64023ecc058fa3fce4eecde2c9:932
+f:YBJW.twr.xml:81a0e55877eea54bb0a2338ef570b3f8b2ccaa6a:204
+f:YBJP.twr.xml:6bd6b0a6bbe3aeddc11a1524d295f4b526601402:205

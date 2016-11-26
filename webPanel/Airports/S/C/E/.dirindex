@@ -1,0 +1,12 @@
+version:1
+path:Airports/S/C/E
+f:SCER.threshold.xml:6a1feab25720686170c0942328e5f72e43d4211a:495
+f:SCES.threshold.xml:c6e73b4498f798eb34fd8f203e6ae7ae459c5efc:495
+f:SCEC.threshold.xml:957b6c56dd41876e3d562653ff1f09d7878096a8:496
+f:SCEL.twr.xml:47194dd5602c38374652ddfdb3dc8329eb17643a:202
+f:SCER.groundnet.xml:7380642911d0c01c341dfdbacd317110fd340773:6137
+f:SCEB.groundnet.xml:8ee377225482fb3e81eb29ec1fdd755b0a606b3f:427
+f:SCEY.groundnet.xml:af3e4dbb53673b21e0d945f85d6a542e2b4bb6d8:422
+f:SCEL.threshold.xml:0a1b74212656db1a7a202feb4c34c036d32a746b:936
+f:SCEL.groundnet.xml:adbc2d812706db2b210ee89bcbe249831324f566:423
+f:SCEL.ils.xml:1aa866eef27276b8e1b12f08cceabb7c3a846911:505

@@ -1,0 +1,8 @@
+version:1
+path:Airports/X/X/M
+f:XXME.groundnet.xml:ee6588c67b5239d2ecfcca68a9a867b78d3ff53e:260
+f:XXME.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:XXMW.groundnet.xml:53027052f3b12cc246e84cb753b0a9c70a15a632:263
+f:XXMW.twr.xml:17ddd9acbd683255b438f1f7d5b212926e00a9ae:201
+f:XXMW.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:XXME.twr.xml:e7376366b26070e4ed55bb7c3ee1231ea896bf99:201

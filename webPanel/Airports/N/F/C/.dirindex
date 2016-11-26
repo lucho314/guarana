@@ -1,0 +1,8 @@
+version:1
+path:Airports/N/F/C
+f:NFCI.groundnet.xml:cbaa1a4d22b02767158b3cbfe193391227e9138a:276
+f:NFCS.groundnet.xml:0138649e133c3f020ae64bcdc0ac3f5cfa74f412:271
+f:NFCI.threshold.xml:c566ff651a2defe239aeed7958dbbcd9ea7ec75c:501
+f:NFCS.twr.xml:719c85c53f30ef1f35e966443fa6ef364edfaf8a:205
+f:NFCI.twr.xml:229d6515663194fcbd4475698a40215fb7b83d4e:206
+f:NFCS.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60

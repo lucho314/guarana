@@ -1,0 +1,5 @@
+version:1
+path:Airports/B/G/B
+f:BGBW.threshold.xml:d6d91026221e79ff3f859ae0bc8e6e8a727faeb1:494
+f:BGBW.groundnet.xml:b056bc2eed7fa2105dd33a4ad3b05bb3e36c8fb6:907
+f:BGBW.twr.xml:f6eccf77b1bb22e1baa3d1e7f12534f6d1cabe42:199

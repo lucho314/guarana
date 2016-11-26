@@ -1,0 +1,12 @@
+version:1
+path:Airports/K/U/K
+f:KUKI.threshold.xml:e0fbef52938a5cc92a0d5a82737cea94b8935476:496
+f:KUKL.threshold.xml:62d2050b53d2881942daf4fee7a8692c329aa396:502
+f:KUKT.groundnet.xml:15b10e80704425f2ba152f79c5b124891ebc78b9:1604
+f:KUKF.twr.xml:41aefd633402d964db9c46830552f6dba3313449:201
+f:KUKI.ils.xml:d94426a31cfe9e2cf4f704dd7291d8e9f6ab294c:285
+f:KUKL.groundnet.xml:2181a1910011d8b939ac72c1c5fab7e8c4d7dd07:264
+f:KUKF.ils.xml:e12358d6136479b824d97e1a4d34d34ad6ccff1b:283
+f:KUKF.groundnet.xml:f3effb9af1193c10c5371ebe628ca7b075f2b1e1:759
+f:KUKT.threshold.xml:dd8cddb3fff645643cbb5721f1c01060a79a7e82:502
+f:KUKF.threshold.xml:cea260412b1d6908f11b6e9a87b1eb637af3553e:494

@@ -1,0 +1,11 @@
+version:1
+path:Airports/K/T/K
+f:KTKI.threshold.xml:69c7103a39b83a4bf811fae3482099521abe3a7e:914
+f:KTKI.twr.xml:3e0e8211f1931a99785d5a433890c98849720b7b:205
+f:KTKC.threshold.xml:0fcbbbc5053678c38d05034027783853d490fb31:1328
+f:KTKO.threshold.xml:6aab7b01572156471ff3195092dda2d18ee5408f:912
+f:KTKI.ils.xml:9b0a84b952ee49f256e731df4435aabda32db135:499
+f:KTKV.threshold.xml:0c4c19f40f2db22f5d8d706fb57c7045b0b698bb:493
+f:KTKV.groundnet.xml:38166ae967021976228e20456f1633713a0a49d9:256
+f:KTKX.threshold.xml:97309029c54679b6a29dab3d1563e053dea8c7e3:912
+f:KTKI.groundnet.xml:4bd55c73fa60b0e4ba08ac9b02da558ba221ec91:774

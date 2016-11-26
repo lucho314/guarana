@@ -1,0 +1,13 @@
+version:1
+path:Airports/Y/N/G
+f:YNGB.groundnet.xml:b64c9ec732a6e3131008a08a7d32dbd58012305c:275
+f:YNGB.threshold.xml:8edf4108d0c14a61860c21ee477357b31fea19f3:501
+f:YNGA.twr.xml:d7b4e584db43a7d8000242989598547daf2d1d04:205
+f:YNGT.twr.xml:e13bd7b812a0757ee1e201e83ba3ce1852e097a9:204
+f:YNGU.groundnet.xml:f4c356b6de85756ec38019d1ecba432ab22614f1:276
+f:YNGU.threshold.xml:688e958dd7facf0ebebb04b6a0da36ebf9d495da:504
+f:YNGU.twr.xml:5db7210df6e65290408787a161b974f6f150121d:205
+f:YNGA.groundnet.xml:3fee4c453feb57ce1f2425b8ba4e3486866423bc:271
+f:YNGT.groundnet.xml:485fe16d9d3b60c71c826cdd36830e0c49fdf238:272
+f:YNGT.threshold.xml:1fab1a5bc0fdc2725ef3c6c5322f7e7572ff1896:504
+f:YNGB.twr.xml:f08e2213cc1ddf7e87410dd32f143d6094011687:205

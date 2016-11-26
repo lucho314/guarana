@@ -1,0 +1,6 @@
+version:1
+path:Airports/E/S/D
+f:ESDF.groundnet.xml:539a14bed6712bf92ddea24e375786da4e0735be:265
+f:ESDF.twr.xml:a61f78f5b1f7514d70c0ea166c3dabee061e784c:200
+f:ESDF.threshold.xml:5c0fed9a40f97036c6efdcb1294ee73907d33000:915
+f:ESDF.ils.xml:efe917eef9e171da2d826edc14bc5d3cede173f6:280

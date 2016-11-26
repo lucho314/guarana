@@ -1,0 +1,15 @@
+version:1
+path:Airports/K/M/P
+f:KMPV.ils.xml:1e8db8d7c94c8d375e723942cbf29797d633ff3f:284
+f:KMPO.groundnet.xml:dfe7042a8ed31b11aa506dc9943dd208a7b116cc:259
+f:KMPZ.threshold.xml:9ed86a14d7f78650909f80f7223d4296865dee7c:912
+f:KMPE.threshold.xml:aad7b91c0ee4cf6240f45e2b48e585d3f9d24d62:492
+f:KMPI.groundnet.xml:ca5cac7726aeadc2e7301107a3f37042c421fa6f:752
+f:KMPI.threshold.xml:b65a650f2848c5e517dd53f0193ef25620c7e3b6:495
+f:KMPJ.threshold.xml:35fe8f74d8c92570049d981ec7300d715b87840e:496
+f:KMPO.threshold.xml:ae7bbf3a4c1504987f5658109ec2fdd83c797fd1:929
+f:KMPI.twr.xml:b3362403c28ac929b9837093f618e99c4a35b790:206
+f:KMPV.groundnet.xml:63298308569e34ccb449430aae9a960478ce8666:268
+f:KMPV.threshold.xml:ff5c3835f2da31f369d8dd93c15c32a67a55401a:922
+f:KMPO.twr.xml:e1a845b448740a44e4db4af266d75befee0252dd:200
+f:KMPR.threshold.xml:8ca857c0afc87ebd750f10762be9635b446e0fdc:906

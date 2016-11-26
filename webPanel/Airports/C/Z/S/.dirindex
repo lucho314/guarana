@@ -1,0 +1,11 @@
+version:1
+path:Airports/C/Z/S
+f:CZSN.threshold.xml:c41a39a911751c3a668d1a718ae10259150bb85d:490
+f:CZSW.groundnet.xml:94f2afba6f8212cf8ced90d4541f8f860f5c4412:960
+f:CZSW.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:CZSW.twr.xml:cad7afb85fbd9b03f5f62fe55f4f45e65516e99a:202
+f:CZST.groundnet.xml:b2cb7049b5370f3adea1fe7200de9b661a189a74:7718
+f:CZST.threshold.xml:066e099d65dea25bb7a4d78c8b500f04fd941a75:495
+f:CZSJ.groundnet.xml:7455ed7380e2c313370d54e4e579403c77d6cb8c:263
+f:CZSN.twr.xml:8f21f87e889bc5b8590dec39c4c654f64620e807:203
+f:CZSN.groundnet.xml:c7e5de3654cc2b7a8874d2265782ef6e11df7cd9:280

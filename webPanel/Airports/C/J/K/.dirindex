@@ -1,0 +1,10 @@
+version:1
+path:Airports/C/J/K
+f:CJK4.groundnet.xml:64cf4c0e5a2d4baf33bbb2cda51751a709ff6145:266
+f:CJK3.groundnet.xml:3cb1bb2c6bfc66c37b0eb011f63c7e906c5139f6:268
+f:CJK5.groundnet.xml:f9a8cc24e14a6278432c196280de68428f35ecfe:265
+f:CJK5.threshold.xml:f79d953237582b310e7fec58a21fa58918da68bd:929
+f:CJK4.threshold.xml:fa57a3d1614f6bfd09829d4801b59b21d48a242e:503
+f:CJK3.threshold.xml:3c0bc9684cd401fa0f48f33a541e46285f9cb4f1:504
+f:CJK9.threshold.xml:fd3c758b4bbb93f71f5d5b4acc44cd48808221e7:502
+f:CJK5.twr.xml:a1d003d0479f98f0d6647c78504538542a6a281e:201

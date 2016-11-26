@@ -1,0 +1,14 @@
+version:1
+path:Airports/Y/A/P
+f:YAPO.threshold.xml:f279b4259fbe93da486769961e8c0c855c85f560:926
+f:YAPK.groundnet.xml:7ae5ff610c9ede92511752a3f7a270d90df33c68:275
+f:YAPH.threshold.xml:da216205cacfb6f999387e2c08e4601a69bd10aa:500
+f:YAPO.twr.xml:65fdf094c6ce3c27dabf30b413b5cf19c189f267:205
+f:YAPA.twr.xml:94b0764373a71ca240281f1de471d3b5fb73e672:205
+f:YAPK.threshold.xml:bfa3f7af45a307dd9f2d10fa848cc7700cc23f78:504
+f:YAPH.groundnet.xml:f9fa5cff15ee8ef1eabb8f265b0770de9db5fa43:274
+f:YAPA.groundnet.xml:5e4434ca73158efeba020430562e75aff79c4611:277
+f:YAPO.groundnet.xml:751af357ca6e35e5d01d9ccb24ee783a3793731e:276
+f:YAPA.threshold.xml:a072c2ecc45751f20ab46361bdda33b6533aeb5a:499
+f:YAPK.twr.xml:53739c77d61ddd42e6e4ac1bd047627426530dc0:205
+f:YAPH.twr.xml:e1c33c15d529db87080a00c16ac08b1ef858ba7e:205

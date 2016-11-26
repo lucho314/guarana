@@ -1,0 +1,13 @@
+version:1
+path:Airports/M/M/S
+f:MMSD.threshold.xml:a832ec7a6bdaa2d680f41062554dc47d5e4409da:498
+f:MMSP.twr.xml:6d69ba6f4c5817c2861b50dc5a32cec882b954b3:201
+f:MMSD.groundnet.xml:6844f4b8e292c7f09673c55c208b1d1212eb37d2:267
+f:MMSP.threshold.xml:3cd75361d620c0c09a9f5b7a1f21500f9136fb77:919
+f:MMSD.twr.xml:755b5331c0b07987135de561cec0b7729df7543b:202
+f:MMSC.threshold.xml:ccfc479b8f8685e1b2b81c0a6e670f66e3eadfa8:496
+f:MMSC.twr.xml:6e12de1f64efc738b4ec3553a3547ff1eeb6e454:201
+f:MMSC.groundnet.xml:1333ce047338245a49e460da6491b53c39b5b49a:268
+f:MMSF.threshold.xml:9039a6b520c9ae62ee628fa18d67bd0f8d8b0082:496
+f:MMSP.groundnet.xml:7a4a4f715320881752935957c7f4505766668f15:269
+f:MMSF.groundnet.xml:134378b6b9ead2714e976c8dfeaca1c5480b7e4c:430

@@ -1,0 +1,7 @@
+version:1
+path:Airports/A/Y/T
+f:AYTK.groundnet.xml:df67ab0e3869c5c82704af78cdc3929021af30c5:764
+f:AYTE.threshold.xml:2703c34bb29632f2280409be8db7724fa8011416:500
+f:AYTE.groundnet.xml:bf9b5953db3757d978f005be5f6aff9048816ac1:436
+f:AYTK.threshold.xml:79886bcd89a0a0ffb235afda50ecc07db58bd2f5:500
+f:AYTK.twr.xml:55fa52b1fc84c741292388691ddfcec622d622ee:204

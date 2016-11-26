@@ -1,0 +1,8 @@
+version:1
+path:Airports/M/U/B
+f:MUBY.threshold.xml:b149d1afaa5d80c3a852024b1747be3a15ecc2fd:496
+f:MUBR.threshold.xml:9954724da4b8b66568fe0960fcff67989fb97439:491
+f:MUBY.groundnet.xml:a0d47c52f09739324cf8d4e40574527a61da7040:266
+f:MUBA.twr.xml:29e4d3a5baa47efba266f520c8657ea81950554d:200
+f:MUBA.groundnet.xml:5821711b0023702ec0b57cf3dfd129838c3c6ff7:262
+f:MUBA.threshold.xml:b58910f34da043391238de9b963fb94d35329d97:495

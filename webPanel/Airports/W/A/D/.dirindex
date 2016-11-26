@@ -1,0 +1,14 @@
+version:1
+path:Airports/W/A/D
+f:WADB.threshold.xml:faf051a0bf6a80b49e5aacd9f923e40171489074:496
+f:WADA.threshold.xml:2ffa34018b82983dc3add8d874a5d24ef87e86ca:495
+f:WADD.ils.xml:8f0ee75a8683e3f7dfcf069af6fe27cd4bdb37b4:282
+f:WADW.twr.xml:fdbe6fd6ac39baf47f2854917d3439c696572814:200
+f:WADA.groundnet.xml:e6cf15a6d019d27a872ca73f9a07f88f55308874:746
+f:WADD.threshold.xml:869d8daf5e1912e608fe5f7fab5b71208f178cbf:496
+f:WADA.twr.xml:23fafcb6a4b489f594d5d0dd0e4820f95dc7708a:200
+f:WADD.groundnet.xml:d90a1f7be5a507f69f182836c46e646ce744a423:51411
+f:WADW.groundnet.xml:6a4cba0afe8eda7ffbd47dfd44a378ba4ff4942c:275
+f:WADD.twr.xml:e3e03da3caebdff6f30c010f3f2783b036f3346e:204
+f:WADB.groundnet.xml:882a4b920d0cd3d52b6827c812e7696cb2b3f4c4:264
+f:WADW.threshold.xml:b9d84ec6d9ab7584269eeed9bbcbbfadec31a47a:492

@@ -1,0 +1,12 @@
+version:1
+path:Airports/K/A/K
+f:KAKR.ils.xml:aff2a91af04f4678722a80d4d27637897e1ed266:284
+f:KAKO.threshold.xml:3a684139ecca97bd18e2d705a2688c71e460cb93:496
+f:KAKH.twr.xml:9c00357ed1bc55484163bf193c4827e18d92d64b:200
+f:KAKR.groundnet.xml:9f66071cd6cc96eef1131721c8a18dff0431a9bc:1251
+f:KAKH.groundnet.xml:2549d2c977e4c44393ad8b43dd5e7bf458a561d9:259
+f:KAKR.twr.xml:dcc96fcb081f560440baea55e8ca2b1d9d4daf92:205
+f:KAKQ.threshold.xml:c5ae5502af17469ec16301314740bf77b9581052:496
+f:KAKR.threshold.xml:5a721a0d7c000ea00e6fa67e5360de33f2dec29f:913
+f:KAKQ.groundnet.xml:bc21727c0ecb4bbbfca5584601462879b0799979:7444
+f:KAKH.threshold.xml:91370f8ef667b5e70e646d1aa3e94c88d984c8d4:494

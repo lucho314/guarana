@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/A/Y
+f:YAYE.groundnet.xml:0b94c20ba6e61c5d83ce2000504d221683850187:1885
+f:YAYR.threshold.xml:5a5ae9a7f5f1a6815e59877b4a18b115d9009fd5:916
+f:YAYR.twr.xml:e399c7c08397a36aaf69248476913f3dbf25a6f8:201
+f:YAYR.groundnet.xml:6175fa4a3e2b4f1cd4a56d47a7477e607569388f:936
+f:YAYE.threshold.xml:fd8e9ca2275268024a3cf1c31a066b5a77a53cf8:504
+f:YAYE.twr.xml:d1cc09eeba59ceeaad53b780494a9726438d6fde:205

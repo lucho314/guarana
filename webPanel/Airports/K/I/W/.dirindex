@@ -1,0 +1,14 @@
+version:1
+path:Airports/K/I/W
+f:KIWS.groundnet.xml:1c7bb2a2c505806ce140978d731a92d178e5f4e0:948
+f:KIWD.groundnet.xml:f67e0799e72cef0dbd36ca727d79f76adfcb98e2:277
+f:KIWH.threshold.xml:4df73b764972f408938372fece54d899a9098cf7:914
+f:KIWS.threshold.xml:b8f66152a2079fe2d3f62a46de34be1789b76c8d:494
+f:KIWA.groundnet.xml:299adab985af82794ae2429a33a716c2d2d311f7:777
+f:KIWA.twr.xml:1592297710634a3419d6a1affcd6f20c7a348f9d:205
+f:KIWD.threshold.xml:439e424a0e96e16baf62712b580bdd3ceb1f1c14:493
+f:KIWA.ils.xml:3a7566341b23c65c9ecef7c53cb9e5ef06b25619:286
+f:KIWA.threshold.xml:aec09d6457d535b2e3d6ecc457e6eba530e6e9bc:1366
+f:KIWI.groundnet.xml:9cc1ca7caf5c9e84fa75dc80b5591412fa3a32da:275
+f:KIWD.ils.xml:7f70981a8d686e678d1d5121bc11ea895493848a:284
+f:KIWI.threshold.xml:e8cbe041d010ed238fd6d0d6ab280448088c6ac0:926

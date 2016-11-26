@@ -1,0 +1,9 @@
+version:1
+path:Airports/H/I/0
+f:HI02.threshold.xml:fb80d6d9f7962059b6ea8671b2e3687b61a5fd8d:502
+f:HI01.groundnet.xml:f84f9c3436c29e922b27431c30e2ad8d3510051a:268
+f:HI02.twr.xml:0b8ca53aac27a3e8cde7854e471d5f139778ebbb:205
+f:HI02.groundnet.xml:f48c717603c85049c90aa9d695851413df3c8779:276
+f:HI05.threshold.xml:d78dcbc254a6a77674ddb1fbed1325146b551723:504
+f:HI01.threshold.xml:372e157f3c34f7e9d24d871bcaf7002fa0cc623d:503
+f:HI03.threshold.xml:9dbb2d1b4a2571a4f51b299b9bf3001ad5c928d2:495

@@ -1,0 +1,9 @@
+version:1
+path:Airports/M/M/G
+f:MMGL.threshold.xml:a274ed5a44fd3c9215a36edd3131632334bfedf3:916
+f:MMGM.threshold.xml:da339598adfcf63af0c20e5b17785b198c0d4210:497
+f:MMGM.groundnet.xml:49824de440cb23b9bf3bca78e620dd57d3c690b5:269
+f:MMGM.twr.xml:187c93561944db8b478161e8774bd834f0be8a52:202
+f:MMGL.twr.xml:18683df323ce281854a34bf451600211842ff74f:202
+f:MMGL.ils.xml:6106f0b9757c4471a1c34258114c7cf78ce366b0:474
+f:MMGL.groundnet.xml:0aa2a5f5cd567b92f63419177577bae2cf9f3ca2:268

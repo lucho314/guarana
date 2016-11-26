@@ -1,0 +1,10 @@
+version:1
+path:Airports/K/A/W
+f:KAWM.threshold.xml:20aca7af77434adf36c82daa83ec2ec3815f5cb0:492
+f:KAWO.threshold.xml:e69177ba9a36d4cc547e964fa163a45569bf61bf:930
+f:KAWO.ils.xml:d7d413d0e24a06cb72abd6772dea0eebbcb98ff3:285
+f:KAWO.groundnet.xml:b0985e0cd6a0c50763ec1e30653d210c1f8f174b:2228
+f:KAWG.threshold.xml:8b99c7642f60abd30081c492a69e69bfc824d65e:911
+f:KAWM.groundnet.xml:25f7c0522a0d4323f0b450a24b3969aa6dcf3707:606
+f:KAWO.twr.xml:83ecfaac812c6fb914ba5bb8fd091814787ea83e:205
+f:KAWM.twr.xml:f2470a828408b50b3803f71c289615be42924b7a:202

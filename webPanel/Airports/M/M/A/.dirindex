@@ -1,0 +1,11 @@
+version:1
+path:Airports/M/M/A
+f:MMAS.threshold.xml:37dff47a5fd3e12f135645cda919923ab3f6ef4f:918
+f:MMAA.twr.xml:f34af0200f324d15f317884793e7486f741f132f:201
+f:MMAA.threshold.xml:a11922928eca0eec9041312168681ff0f5b7d2de:916
+f:MMAA.groundnet.xml:d6a09adb053cf6f36cb4008a3c81a937dafcad52:267
+f:MMAN.threshold.xml:4dfbfa9fbdbe2f61ace7fb70e5c2c4c7cad0ee40:921
+f:MMAA.ils.xml:be0c9264fcd9779b6cda4d632e8213a75d44417a:466
+f:MMAS.groundnet.xml:583366e035427e822fe6859f7493fe18e9eda7b3:268
+f:MMAL.threshold.xml:d011291687c4f95da6a2f448efda44e63d624cd1:494
+f:MMAS.twr.xml:52b90b7e7089ecf05a0dea42c1d9a184e87266f9:202

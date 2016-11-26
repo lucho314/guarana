@@ -1,0 +1,16 @@
+version:1
+path:Airports/A/U/6
+f:AU63.threshold.xml:fcf6ec2e8a64e0aa7d2956dd570e0ca8269046ab:500
+f:AU62.twr.xml:f273758203588c320532f0bea5ea1d3851cb3e5e:205
+f:AU60.threshold.xml:3a6e99c2a839d7a41f1180aed49ba50f4340bc59:927
+f:AU62.threshold.xml:0daa5a6b6d44d958ba6420704c04d86330a9c115:931
+f:AU61.groundnet.xml:80703220b9f3e2ccebc3a3d5e6fdba345b66920a:270
+f:AU63.groundnet.xml:69166af587573862fda1e28f8db7c7d45cedc3e4:266
+f:AU61.threshold.xml:82cb26390c18f3042fa31a75f35f397d1d829fcf:502
+f:AU69.threshold.xml:5ede7bdbe216c5a1db9cf2495cdd2cf838258d68:929
+f:AU69.groundnet.xml:e53d27d7371fb853212760cb92ad43a13666cc2f:613
+f:AU62.groundnet.xml:9305cb6964dca33fc87ebde903189b341ee79176:276
+f:AU69.twr.xml:064fa1202b964a1617a863d1df986134b348b5c8:205
+f:AU61.twr.xml:ca6f8c8fcf69ef0f8d584f48d3b6ae12e3a76f95:205
+f:AU60.groundnet.xml:8a1b3929a033d9f7aef578be9a4e033c18e5d12f:276
+f:AU60.twr.xml:0a5d8513024f702336dcd8f55635d04d9f4f628b:205

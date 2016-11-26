@@ -1,0 +1,7 @@
+version:1
+path:Airports/T/G/P
+f:TGPZ.threshold.xml:a6b5bef0a3cdfb79a6d1fb1c83a99ca2ee0a1459:500
+f:TGPZ.groundnet.xml:f0be37f2f1334e5f26d9408d978067da8f1f2ce3:260
+f:TGPY.twr.xml:0d015694db7441964f17d7348dd8dfd37bfaca98:205
+f:TGPY.threshold.xml:8e2e1df9ad4e1605984e37ad0ee057305c64d16c:501
+f:TGPY.groundnet.xml:403bab7531e2f545d1760ab20c21b98126784ff4:1540

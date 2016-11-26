@@ -1,0 +1,5 @@
+version:1
+path:Airports/M/M/B
+f:MMBT.threshold.xml:2df6f4f558e5ff11226f52f72c90fb6802a56468:495
+f:MMBT.groundnet.xml:8d9cfb43d7422454652d8838feee2127671525c3:268
+f:MMBT.twr.xml:44b6fe22373888e332cb553a2cdb049553a8d855:201

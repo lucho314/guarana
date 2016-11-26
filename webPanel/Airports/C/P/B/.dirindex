@@ -1,0 +1,8 @@
+version:1
+path:Airports/C/P/B
+f:CPB5.threshold.xml:ad30fcd27dc684fabd1543de045c06c179f55047:502
+f:CPB5.twr.xml:302f753f26c2fd3fafa6b9e0358af72af1c98b40:201
+f:CPB6.twr.xml:0fa6cc0227547cb6dbb1ff087345a30f1bcf9486:201
+f:CPB6.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:CPB5.groundnet.xml:89c5ea1e33b9898e6ae11892103ee34ac7f9a213:269
+f:CPB6.groundnet.xml:74873b863df57d9af192a6ec2a627a4ef8975da0:273

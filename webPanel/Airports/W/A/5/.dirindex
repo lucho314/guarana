@@ -1,0 +1,9 @@
+version:1
+path:Airports/W/A/5
+f:WA52.threshold.xml:349b15f9d6aab590064dde47a00cad15b0774a90:503
+f:WA52.groundnet.xml:805b3d8391ca622f9fc82e72b3124d2ea673a23c:424
+f:WA56.threshold.xml:74b0f72a9f64e6269d6defbf08a4f58067f48a03:503
+f:WA51.threshold.xml:d4844a9d76f62267ec87e3855c0edb8c3a902014:930
+f:WA57.threshold.xml:9e8bd735179b21eb11d37037777b6a3a9fc473c5:504
+f:WA59.threshold.xml:a7fa799efa8532be67335376e6efd620140ac6f8:503
+f:WA57.groundnet.xml:a5d902477a62e3be7416ca40b656f794c8553351:266

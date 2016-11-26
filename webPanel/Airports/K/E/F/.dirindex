@@ -1,0 +1,10 @@
+version:1
+path:Airports/K/E/F
+f:KEFK.threshold.xml:5daef5f4ec3f147d469ad4dfab52ceeb0eea582b:912
+f:KEFK.groundnet.xml:0aca8eecb979972a75b35b500093a7958ad39da1:434
+f:KEFD.ils.xml:fc398be50eb57ea7b7baca172f89d5197faa60c6:675
+f:KEFD.groundnet.xml:440789b65ac51d42b4cd1cace453429317db0644:1467
+f:KEFW.threshold.xml:44a84739c053470a5c959c3b3e2e8c7cc0948f8d:912
+f:KEFC.threshold.xml:c0ecf51b61d8986045a1889b1189c78908b506e5:916
+f:KEFD.threshold.xml:6847579aa98ae30789fd482b17556ac1a1c008a1:1343
+f:KEFT.threshold.xml:97f2c14656fbb6a97779cb1c41c91fb14d4033ce:913

@@ -1,0 +1,14 @@
+version:1
+path:Airports/Y/N/T
+f:YNTM.threshold.xml:5c5e3e140a93959b1bf9eb820ccaae3ca78d0eb8:498
+f:YNTI.groundnet.xml:0ca7c112f7d975d6c5c287467f957feb4414c811:272
+f:YNTN.threshold.xml:8eaff5d9d89ceb64bdc229c90c889d872a7bf6c7:500
+f:YNTN.twr.xml:7d045d52fa43f40b7ce5b1d8a72c617303d1abd1:205
+f:YNTM.twr.xml:08bec0a62b2fb57470bd583c178c6b973c5f12ba:200
+f:YNTJ.twr.xml:f0cb1acdef3634bf2d601c038844d24861c0913e:205
+f:YNTN.groundnet.xml:6b3d76f574a61f94501755f44929ead25d6f58b2:275
+f:YNTI.twr.xml:d0f3929c1ceb166455dd64fd86a2eed1d13ace5f:205
+f:YNTM.groundnet.xml:2494219a3b2c2da75983139f4eba1b8de720b828:280
+f:YNTI.threshold.xml:eb2fe590595c318f0907539b6d99e73d3871d1e9:503
+f:YNTJ.groundnet.xml:2c6921e31720a50817a638ddff288080f352c5ed:277
+f:YNTJ.threshold.xml:d4de61c5faf0bab36b0ec64ec3d1019d09ca7f23:500

@@ -1,0 +1,7 @@
+version:1
+path:Airports/C/A/M
+f:CAM3.groundnet.xml:4c4b0d18f98031c7712f6639527f594ef189d770:605
+f:CAML.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:CAM3.threshold.xml:d533b01f997ac7e1872d46796e5bc6853b2c3f84:934
+f:CAML.groundnet.xml:a410aa9536781a6b094176021498eadeccd0eeac:431
+f:CAM3.twr.xml:9a831f04dd7950e2a83abbb823ada6c5af3b8f15:206

@@ -1,0 +1,8 @@
+version:1
+path:Airports/3/3/N
+f:33NY.threshold.xml:4279a7a78124a4ed7eea02715cc6ffb721665e46:502
+f:33NE.threshold.xml:f23675f280c966072a930d2720d3722281752854:925
+f:33NE.groundnet.xml:5bb3bc9641c41e5c4fcad9f9898423ce2a1a787c:275
+f:33NE.twr.xml:2286fb0ab796e87adcdc7b5105ea6a4508bbc26b:205
+f:33N.twr.xml:1bd0f4d72479ceb65d743ba04eb2d12dc463a36f:200
+f:33N.threshold.xml:ed5d797a45932178eed5fe8e53ffe325468ba27e:495

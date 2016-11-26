@@ -1,0 +1,8 @@
+version:1
+path:Airports/A/G/R
+f:AGRC.threshold.xml:c380f6ffdd70f59eefa3d642edc6c7db6ffb7bc6:501
+f:AGRM.threshold.xml:0ac95a0860a78d0382584571fc1d5839cb37f453:498
+f:AGRC.twr.xml:dc5dc8d921dbba9747f9d0f6845e16d99f7c0ce7:204
+f:AGRM.twr.xml:c3beb6c8d929a6dd20400022a0c4a8367cf087c3:204
+f:AGRM.groundnet.xml:6d29cc713cfa2ed310c82166218eb5ac298583ef:276
+f:AGRC.groundnet.xml:d4314b35f6cee6fb15b23b9f0daacb6b73b39a85:273

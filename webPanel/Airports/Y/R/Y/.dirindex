@@ -1,0 +1,11 @@
+version:1
+path:Airports/Y/R/Y
+f:YRYH.threshold.xml:ddb4890f94d8b3744fd7d10b895f51feb4126d54:504
+f:YRYH.groundnet.xml:147d95e77244d880a016f537a30b13ae1e39d6a3:277
+f:YRYW.groundnet.xml:bd5063d3cf1e4ee5de8d69a98c227e3db06c537e:272
+f:YRYW.threshold.xml:981ceffc9b931b2a1ce36df4f1ce90bf296baf11:503
+f:YRYW.twr.xml:4212c84f7721a899def531ffc5cc77b245b614d9:205
+f:YRYK.threshold.xml:54468054b896580a457c2b9a11f01721f56991ca:502
+f:YRYK.twr.xml:c025ecfded646a4d216e59787e87122439c72dec:205
+f:YRYH.twr.xml:b763122721697e993450c15096f261e49ba513fc:205
+f:YRYK.groundnet.xml:08c02ce5e63ea279e0404c366f70df73a9e4e158:277

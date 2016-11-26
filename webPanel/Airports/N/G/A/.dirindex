@@ -1,0 +1,5 @@
+version:1
+path:Airports/N/G/A
+f:NGAB.threshold.xml:a2d8ecafef59ebbf2f58e6bf99195641f658dfcc:500
+f:NGAB.groundnet.xml:da715edba7012781228b2bca3b11e3bce5778a3d:275
+f:NGAB.twr.xml:631255df66d863c40f7074b2ad9033265b828f82:203

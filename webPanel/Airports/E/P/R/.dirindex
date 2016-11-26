@@ -1,0 +1,11 @@
+version:1
+path:Airports/E/P/R
+f:EPRA.groundnet.xml:b68d51b12936182b08e0c312e44afb3008298567:904
+f:EPRP.threshold.xml:85c63c69fd6aef6d6bf56d96556f9967f4761e7b:924
+f:EPRZ.threshold.xml:5e619709b58746f04660bc84565410e13c7962df:921
+f:EPRZ.ils.xml:d0984461abc2bf837d7fe6433aa14700f6e9fe82:282
+f:EPRP.twr.xml:1dc618de7bf384e7f32d204941df9eb08f2b25cb:203
+f:EPRZ.groundnet.xml:b1954a9a041aa70e0e95a28d67fe05b071fab3a9:1344
+f:EPRA.threshold.xml:d30fbc9bb16569d47c982e4e1d272a8f74d59cf7:496
+f:EPRZ.twr.xml:b65991a4c74d1dd7fe30b1850edbf2079efbe437:200
+f:EPRA.twr.xml:2e79bd2a4a21b24291c6aa3833f3a4789c9a0c07:203

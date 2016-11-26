@@ -1,0 +1,5 @@
+version:1
+path:Airports/Y/I/C
+f:YICE.groundnet.xml:fc549fc90e508bac0ee3390f2ff98d79147629ff:275
+f:YICE.threshold.xml:249ad4943c479da4eeeaf7466c600fdf8704339f:503
+f:YICE.twr.xml:2f9bd5008042a436292f8fe1f2aeaf0aea83956c:205

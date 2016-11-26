@@ -1,0 +1,11 @@
+version:1
+path:Airports/Y/P/J
+f:YPJT.twr.xml:b54299a9183abe3d4e6838be347d156055b36102:205
+f:YPJI.threshold.xml:ec935765cddb8997d3e5f54170ea040a6f7d29bf:927
+f:YPJN.twr.xml:486d06d7362de746849e52cc4e2a386a2b00dd8b:205
+f:YPJT.threshold.xml:5d4ba1ff0b6315ad4413b8267b48193bd90fd990:1368
+f:YPJI.twr.xml:368b113b442ef8db929694c2eb426676d731cc22:205
+f:YPJN.threshold.xml:fd12ab26237a7d1c6755a4ed89022776520b317b:502
+f:YPJT.groundnet.xml:63a954447e947c1ccb9ac479e28a15f8e88cccf2:2336
+f:YPJI.groundnet.xml:df81d7ecbd1a5c08f9e8d1bbbebd57b891ef88f5:272
+f:YPJN.groundnet.xml:219420c657baa681bec060bb45c37ab731245d0e:271

@@ -1,0 +1,9 @@
+version:1
+path:Airports/W/R/R
+f:WRRU.threshold.xml:6242aa996feeb01aca3671135c44266a370701c2:504
+f:WRRU.twr.xml:af162de265026aedb0fe16a160bed858275a4ad8:204
+f:WRRS.twr.xml:4091a5a11e62decca03426ad369ae0a2871263e2:200
+f:WRRS.groundnet.xml:30b6d5d81e64623bb49fc6abdac51377eda2afc9:275
+f:WRRS.threshold.xml:24634bee17530769abf8c0672c9d261bc5612e50:492
+f:WRRT.threshold.xml:eb0bed425a4faadecd06068864880cee8dd6813b:493
+f:WRRU.groundnet.xml:f4ae2e1b88b98eface089b11698c185c5d658ec7:274

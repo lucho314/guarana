@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/T/K
+f:YTKS.groundnet.xml:9e4abd1e38b7cb255b50669dfcda426b4c771be6:276
+f:YTKY.threshold.xml:d7cf2c0baeaf3cae5bfe733ac0dca3799fec7bad:501
+f:YTKS.twr.xml:889c9e2598dd9f10ac0b7ec3c322b611748ce3f5:205
+f:YTKY.groundnet.xml:4c52e4211ec91fa52a0686d44af7609e091c63d7:276
+f:YTKS.threshold.xml:4c4e91ce116313d15bc37951e5430357bfaec217:504
+f:YTKY.twr.xml:17f29b7ce190044dc552894fa36f4c9bde7b67dd:205

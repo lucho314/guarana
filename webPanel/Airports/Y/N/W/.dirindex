@@ -1,0 +1,14 @@
+version:1
+path:Airports/Y/N/W
+f:YNWT.threshold.xml:99a149b51a10131d64746e04cd3fb15bf7888627:1352
+f:YNWL.groundnet.xml:7c2dc4af422fa2953151511b61aa608f08854789:272
+f:YNWL.twr.xml:7328390a08e055efb3d361ca68fe5b2eeb2fffe9:205
+f:YNWY.twr.xml:20e2aa3a875d6368126576104fdbe8646896c77d:204
+f:YNWY.groundnet.xml:bf93e9cf5adedf9a142e4dab12c46aad89efc1b1:271
+f:YNWT.twr.xml:2ee9148c9c34a07204b31f4a12e470c49414c4e2:205
+f:YNWT.groundnet.xml:f6a3f6d78c785e7d6077b413e88e3dde1ae8237c:275
+f:YNWY.threshold.xml:ad9cd7926e7d6c996b063773b52ba9bfc0d27775:929
+f:YNWN.groundnet.xml:4e10f25bcb09c29712fb302abae19e8ebbae26d4:1096
+f:YNWN.threshold.xml:f18bc803ed65149adae5371109239d966611b3fa:495
+f:YNWL.threshold.xml:80d0d7c534fcf2cf568d20a52236dd7164939a06:1357
+f:YNWN.twr.xml:6d9392b14016ad9ba88e144ef8d23826c7a28a0c:201

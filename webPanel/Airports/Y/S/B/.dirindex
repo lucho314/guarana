@@ -1,0 +1,11 @@
+version:1
+path:Airports/Y/S/B
+f:YSBO.groundnet.xml:34a6002186d69cf42b73380336245e8aa6e5e635:272
+f:YSBK.groundnet.xml:d7a1d80d00a5faf300f227c8ecfbf9699681a610:5657
+f:YSBK.threshold.xml:e4fcd3467e695481b0c998d0cd058e6f1d1158b4:1359
+f:YSBE.groundnet.xml:70ebab2a45a5457094bb4e43ec1ac1e529e01192:272
+f:YSBO.twr.xml:626fb829200abec259c581e43f276795077786b1:205
+f:YSBO.threshold.xml:71ae032203d92de9483a150d1e583545e51f8ac8:932
+f:YSBE.threshold.xml:d8f13b11f5127aaa00472d8389f4064b6420a3a2:498
+f:YSBE.twr.xml:e93bc918d63ec575db7220e4b4703dd0453d3cee:205
+f:YSBK.twr.xml:1872afd62f0e71ad7880b9a98a81432bdeec92e3:206

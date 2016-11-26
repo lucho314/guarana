@@ -1,0 +1,9 @@
+version:1
+path:Airports/M/D/C
+f:MDCR.threshold.xml:488e245ff2c20775a0a99799da12b32d82e8a4bb:496
+f:MDCR.twr.xml:20c7b6d58a3ae45d49bc28f5c552485de8ce21b6:201
+f:MDCZ.threshold.xml:3003c137111e2d5b9b7d63200e9a485a68014399:501
+f:MDCY.groundnet.xml:fe469300ced28be7d5b8fe307b602d254f83a3d6:267
+f:MDCY.threshold.xml:8092769d8c223096adb70dd994577f384abb2f66:489
+f:MDCY.twr.xml:f62c66cbe896664683fdbcdd6b14cde64caea2f9:205
+f:MDCR.groundnet.xml:3b470a243f5e490663f2aeeb95ac753b628ad3ff:277

@@ -1,0 +1,14 @@
+version:1
+path:Airports/U/A/F
+f:UAFL.threshold.xml:b9687c4b173d5966519d21ee22fd6ffddf18d80a:485
+f:UAFC.threshold.xml:060c09b29f0781b59a2f5a0f218c0cb5d0089f06:498
+f:UAFW.threshold.xml:7ed4663f202a3b02809964b057e72f15437b89e9:492
+f:UAFM.ils.xml:c2c1456a56ef79717f408db18894c1d8daffd5d2:464
+f:UAFP.threshold.xml:52bf104975731866545ce7405d316238c7b8b3bd:500
+f:UAFO.ils.xml:1bedffb2e70511676191b9b71778761198134c6e:272
+f:UAFC.groundnet.xml:20b43a3f5c93216999262a376dd99b7f9b352a29:262
+f:UAFP.groundnet.xml:9f51715f3b1d2ae10c1e0c70b20c9eb7a07bf0d9:262
+f:UAFN.threshold.xml:58b5d5c950900f607be852b53794ac46e86ae0a7:498
+f:UAFO.threshold.xml:e6837e0f9947b117671fc56a7ebbd225f88af003:493
+f:UAFN.groundnet.xml:49a33c03a89fb19d4dd4c0caf611de62f9dc1ee3:264
+f:UAFM.threshold.xml:c517bcdb15b0305fe6a02463f7b4cff9158b1be2:493

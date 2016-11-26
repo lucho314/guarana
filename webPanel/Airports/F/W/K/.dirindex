@@ -1,0 +1,8 @@
+version:1
+path:Airports/F/W/K
+f:FWKI.groundnet.xml:5d35049c267654d82a4bc4d75ee66cb05b185710:260
+f:FWKI.threshold.xml:0d9ba7fa4b95c1a96e94c80420d12939157b7bd0:496
+f:FWKG.threshold.xml:158adff672b821067ce069b54141c26f4192bd7e:491
+f:FWKI.twr.xml:957cc1b6438da0b982e1102c527c4a54fcab1cc4:202
+f:FWKI.ils.xml:34b2c943a05aa875a31190029c8e477f21c54869:283
+f:FWKA.threshold.xml:0384138c0425d4625a50aab86b734c185e065ff4:492

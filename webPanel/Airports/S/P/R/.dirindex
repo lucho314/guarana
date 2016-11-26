@@ -1,0 +1,11 @@
+version:1
+path:Airports/S/P/R
+f:SPRC.twr.xml:e3db9b2ee344d08c88cd308d65e245f205d6a12c:202
+f:SPRC.groundnet.xml:f855e41ff44c7baf972d71c11ea37aac532e2133:266
+f:SPRC.threshold.xml:9d1f07547c2944aaca93477d4289b19ff506afdc:493
+f:SPRU.threshold.xml:3c65e715193641d3117b9d693796257d10794480:495
+f:SPRM.threshold.xml:0638f2206c0c2f6075b78f748924ec2e6cb1fbc7:496
+f:SPRH.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:SPRU.ils.xml:66b9ce5d785c6968b9205b072128cefdfac89fbd:282
+f:SPRF.threshold.xml:0ec20125b63dd7d4346085e8b04541ab04273509:513
+f:SPRH.groundnet.xml:f3f463f51fadbf78100123e93166a6e692136470:430

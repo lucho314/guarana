@@ -1,0 +1,11 @@
+version:1
+path:Airports/Y/L/C
+f:YLCG.twr.xml:aed54e1468d110b2e050143ae407c4cb3eda4a06:205
+f:YLCK.threshold.xml:1eee95af2b433d102aabaa93fca7495ab998bbba:504
+f:YLCS.twr.xml:2dddcb9199e0601aab51951835cef54d4016055f:205
+f:YLCK.twr.xml:a8161b63a41a00839e2d1f1310940d3e7a42e25c:205
+f:YLCG.groundnet.xml:df6e594c921aefcba68a24f23e7d0452cf5670c2:276
+f:YLCK.groundnet.xml:b6c390679486c3dce90b70512be86fab4341b60c:274
+f:YLCS.threshold.xml:de9ae15786301ccc3c53a08ff48ee717ab2ba726:502
+f:YLCG.threshold.xml:fc777b31c6b601724b81d9b0e42eb14ff1c05334:930
+f:YLCS.groundnet.xml:15dd09a4435ec5caa63e8f92927df3525c58a7b9:621

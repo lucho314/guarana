@@ -1,0 +1,17 @@
+version:1
+path:Airports/W/Y/2
+f:WY25.twr.xml:f73f6292747a3b83c25fc13e7486d067e5aec686:204
+f:WY28.twr.xml:81c63213cd52077c8ff318eaef0dbc21c2df32cd:205
+f:WY25.groundnet.xml:6ffa42ac11379073adf7a1364cbd35db44d294c0:275
+f:WY20.groundnet.xml:7b155a250cc49fb4a342f8024de0220e81e2f6a3:275
+f:WY28.threshold.xml:0497e8011b3c47c1ff9a54a7f90670dbb7148a71:499
+f:WY27.threshold.xml:5bb54d415266b02c26dd9b970460227f940ae703:503
+f:WY29.threshold.xml:a4c864a0ed7333edf0619f52003e0f1886bf8561:503
+f:WY29.twr.xml:bad2f09b07ff125b927d85d13f34b270e6143a24:205
+f:WY27.groundnet.xml:9e7f1c1ba7aaec545f5233a9122310d1e8b66c13:276
+f:WY27.twr.xml:2d2ec16ef996db8c6b5fd9ff68292407effbf44f:205
+f:WY23.threshold.xml:881a43c7954658c8bc724f0feea05e19e0814ebf:501
+f:WY22.threshold.xml:d9eef9fee772d1eaecc3eb25fd647fc903b19a80:503
+f:WY29.groundnet.xml:15550ba49ad24879e5e9909f34ce5f1fe7414e23:277
+f:WY25.threshold.xml:964b6aa1e14dbf2996698a1188701fd25832965c:499
+f:WY28.groundnet.xml:5ce1455b3405dfcc4ae4f76a12f145de5f8b4e23:277

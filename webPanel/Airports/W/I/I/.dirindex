@@ -1,0 +1,16 @@
+version:1
+path:Airports/W/I/I
+f:WIIG.threshold.xml:d579c83535cb16040280da2bbbfc3d4c31551355:502
+f:WIIP.twr.xml:40b1a404f80cb9cabac05855ca5d2b9733bf8a82:200
+f:WIIG.groundnet.xml:452b9d91f27a2f1e0a2dc69d8511c84da7f21a9e:280
+f:WIIP.groundnet.xml:4ba3f47d970d27f90e907fdaff6793780c580dce:264
+f:WIII.ils.xml:3e8babbbc1a4bcdb973d917fa7cd38fbf03243fe:860
+f:WIIU.threshold.xml:a2bf6512a0f26dd5941ccf2ed42ab0335db5ddca:502
+f:WIIU.groundnet.xml:274e569f037b7d42ebd1425007b5fc96ec4ed606:269
+f:WIIU.twr.xml:5cfa53b6e24e52edec4efd5e4113aea8146d98c1:203
+f:WIIC.threshold.xml:4dfa9717138afeccd1a95eaa2ff0c563fef11307:494
+f:WIII.twr.xml:4a65ff9449e1300432c4c2a4765e06ab6a5e1496:201
+f:WIII.groundnet.xml:0172acb05d29cd912a8b34ba1a8d19295ec2913b:257
+f:WIIP.threshold.xml:ffbfb7b034e870e565d48012306916e559e7daaa:493
+f:WIIG.twr.xml:a4dc39dcd6a2f6af2c96bb6000ec2c197f5f1d31:203
+f:WIII.threshold.xml:3d6dbd3c6ab8435a18e5e42dd6692ba40c043763:919

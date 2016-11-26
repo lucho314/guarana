@@ -1,0 +1,8 @@
+version:1
+path:Airports/E/I/S
+f:EISP.threshold.xml:ab2030b02f1078ac09ddb36d4bb9217720e4fd61:494
+f:EISP.groundnet.xml:e7dbc2a7ed22e175b09e2e357762033cd466d94f:265
+f:EISG.groundnet.xml:3da149e7a073d7e28eaeb93ba9af521d68ed9dbd:921
+f:EISG.threshold.xml:1b52819dd155fd2b3286ecc8776c6c337853229e:502
+f:EISP.twr.xml:f56a7cb46fd2c40390af43fbd21fe4730cb10506:204
+f:EISG.twr.xml:c91a888ff2f5575b7a4e1bcf7c1f54bfb94cdaa9:203

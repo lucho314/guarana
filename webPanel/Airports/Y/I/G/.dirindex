@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/I/G
+f:YIGM.twr.xml:b493d5306bf4d626c39edc214024f077b0e597bc:205
+f:YIGM.threshold.xml:45976f4d6154ef6c47544939b0857e8e708a3579:503
+f:YIGR.twr.xml:5ae5c2028a14e39116675c429c81317fff9c49d9:205
+f:YIGM.groundnet.xml:c03ab2023fe422ffacb4bf3487cef16b44e38b13:276
+f:YIGR.groundnet.xml:82fb8b35909468e79fa35a5490f59e2711abd813:277
+f:YIGR.threshold.xml:65154f34c1d30431c8b2566ec349193bdb72c402:932

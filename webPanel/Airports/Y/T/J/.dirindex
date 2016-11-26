@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/T/J
+f:YTJI.threshold.xml:ac21c9ab875ae1cc91733e37765982b0fbb0bbe3:930
+f:YTJI.groundnet.xml:707ecd7b878ee7accf47f07354b8882cacd0d316:273
+f:YTJU.threshold.xml:47f41d16a62425490b1c03c71cbc756e4831243d:502
+f:YTJU.twr.xml:621da757782dd4a655f97e9ac7dde336169ac8b6:202
+f:YTJI.twr.xml:178ad2eed6abc13a504b864e88ba7f457ad6959f:205
+f:YTJU.groundnet.xml:cdee759d7a0ff807058c4867830e45c0fd970199:275

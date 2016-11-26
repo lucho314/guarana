@@ -1,0 +1,16 @@
+version:1
+path:Airports/Y/S/O
+f:YSOH.groundnet.xml:05b6f9094197aff42409ff93a96d61525920d613:275
+f:YSOB.twr.xml:4e5605f52029b61dc3f9741cefb3dda354dde10d:205
+f:YSOW.twr.xml:fb169b90be65766a780d8e2d84d608e04fa88133:205
+f:YSOP.groundnet.xml:540fce91928134188cfc4725c5f4fa7e0943c164:276
+f:YSOE.groundnet.xml:78ed9422bf8656b4e9db2cf84e57bf731fbb440a:275
+f:YSOE.threshold.xml:2e3f3579b15a8c56b216b41c59150c03dd79cfb1:499
+f:YSOP.twr.xml:3c3fb510c8b63673dfa786f4ec2482ca733d5c20:205
+f:YSOW.threshold.xml:8ae9bfe9c94d59633c6c7b26b2e688d3560e3bc1:504
+f:YSOB.groundnet.xml:f6dad1d767c0b12a11f3257f55aef3a38823bc5f:277
+f:YSOB.threshold.xml:44331ef6d7ac40564c8d40ce3495258276327b9f:502
+f:YSOE.twr.xml:596646290d18392c827ac0d98d2390aaa293d0a1:205
+f:YSOH.twr.xml:32fa44b52d0742aba36ee8ccbf87279e6fa8faad:205
+f:YSOW.groundnet.xml:82fbb21d337d6a0b96b89fd97ed7fe0f0329d178:273
+f:YSOH.threshold.xml:b4c7532266cdf23ae6ac6764cdfa88221bd649a5:500

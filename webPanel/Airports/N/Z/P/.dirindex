@@ -1,0 +1,13 @@
+version:1
+path:Airports/N/Z/P
+f:NZPK.twr.xml:760c6143abb57ae9973dc43adac62fac170be3f3:201
+f:NZPG.threshold.xml:4b4a9be14590d9cfbab3e5f3595b8f1e301b3cf7:504
+f:NZPH.threshold.xml:896c07fb1a0ed0779c3256b5a6238603b043a701:500
+f:NZPN.threshold.xml:346946af0c63a4d946d1187dba80f21f2a8a54b7:503
+f:NZPK.groundnet.xml:c1b933aa8dfa0d7446b1b6b9e9b4807ff0df63af:260
+f:NZPP.threshold.xml:a8d44841f7ec8dd855553d896931c3dd070548d1:1784
+f:NZPI.threshold.xml:ab92b23803484fa6e0ee0b64962d7b29ce4e8dca:501
+f:NZPM.groundnet.xml:efc3b005f2c4a0816235e720d12d7915e1cd65b8:585
+f:NZPM.threshold.xml:e114f95dd7def481fc3ae46df810e9e7cacb91d5:930
+f:NZPM.twr.xml:d7ac9030d4f5418d2272c915148975b85b67d622:201
+f:NZPK.threshold.xml:1502bccb32c0f7dce5491cbab03651c7f90f2771:503

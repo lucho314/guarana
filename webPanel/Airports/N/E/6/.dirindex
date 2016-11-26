@@ -1,0 +1,8 @@
+version:1
+path:Airports/N/E/6
+f:NE64.twr.xml:bc01fc9dd2cbc00b41e4c81bc53d5bac8b719237:204
+f:NE65.threshold.xml:66968c6f79b4025be10ab25e90b0c93f3a3af247:499
+f:NE64.threshold.xml:715c971b98fddec684032d75c669d3bd96d312c6:495
+f:NE65.groundnet.xml:da735c49f69e30f70a6f9718c173e98147b8791a:274
+f:NE65.twr.xml:75bdd00f4d193aac9990fa011f2bd1e5d0be87de:204
+f:NE64.groundnet.xml:21e74d9a77341ac010fe893bb6b72be7d8becb31:274

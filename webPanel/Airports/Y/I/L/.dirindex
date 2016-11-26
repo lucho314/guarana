@@ -1,0 +1,12 @@
+version:1
+path:Airports/Y/I/L
+f:YILA.threshold.xml:6b39bd0894657de046e5905ba3fc5722677966bf:498
+f:YILF.twr.xml:1c0558419dcd6b5d2d7d871307d4d0d735393c06:204
+f:YILF.groundnet.xml:ab4795b8401772bc3ce757ec57f4bc6882c92adc:276
+f:YILT.groundnet.xml:970105ac341f798ddc7d025472b16e1546868f8d:272
+f:YILW.twr.xml:d9d90d915d548f877e19b74fd9645d23f6ddc6ca:205
+f:YILW.groundnet.xml:ad3afdf74ac22151b211236b531fb32841d1289a:276
+f:YILA.twr.xml:112982fa0e295f00d45f2d2855961b0272b9fe68:204
+f:YILF.threshold.xml:3a3ea78270af2d2de82f179f656819901307b6b4:504
+f:YILA.groundnet.xml:7d549e5e715cfd727aba22858e590a08ad47e393:277
+f:YILW.threshold.xml:df36d0364c7c86dda4789dd57dabcfa15b3bf8f7:502

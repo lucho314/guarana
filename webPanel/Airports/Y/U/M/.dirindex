@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/U/M
+f:YUMU.groundnet.xml:ecfe4450afd6e7d3d1aa6dbd2354aff53a982d2f:274
+f:YUMB.twr.xml:27d3b5266eada6f3445e2f4cbb7a47b8a5855d0d:205
+f:YUMU.twr.xml:09e6758f74239691b2f71bc1218c39d586c81d1c:203
+f:YUMB.groundnet.xml:e661d76ebeaef9cda246f2ea0f27ba149419ceda:277
+f:YUMU.threshold.xml:d89c9375cf67739be33a2ffba5852ab83f730d7d:503
+f:YUMB.threshold.xml:4bf781db09865d322c914a519da463173783b84f:504

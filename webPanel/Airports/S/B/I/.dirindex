@@ -1,0 +1,13 @@
+version:1
+path:Airports/S/B/I
+f:SBIL.threshold.xml:d46233720dcc79e04eb84f698b0097a919fcd817:497
+f:SBIZ.threshold.xml:842335c0cbba57e178684df23fa7535ef1466cac:495
+f:SBIT.threshold.xml:27f873a17ee8e91da7990203303bdd1d0ba49af9:498
+f:SBIL.groundnet.xml:1ee70faa8ebe7d2bc523a31cc5a5648ec6fec76b:257
+f:SBIZ.twr.xml:55f96a2b58ef0291ad69ffb9c3a0310f4dc03da9:200
+f:SBIP.threshold.xml:de36452b5abe49ade80daf5e7aec6ebc74a6a437:496
+f:SBIH.groundnet.xml:f1b6673e40343882b864570bd668c81df54b6d7d:2018
+f:SBIZ.groundnet.xml:9f1b251b0ab68c1c11d578b467316de0564f98f3:259
+f:SBIL.twr.xml:e3bdf6b34499519c3aaa1cefa26592c2477fd8c8:201
+f:SBIH.threshold.xml:924e57243fecb05e374a109dbc4c33eeca2b54e5:493
+f:SBIC.threshold.xml:8d394bf15cd7c52b0570023137b2e7abcf0fef47:494

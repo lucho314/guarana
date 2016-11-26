@@ -1,0 +1,7 @@
+version:1
+path:Airports/Z/M/U
+f:ZMUB.groundnet.xml:2b05f20ad50fe6ca4326dce00648969afeda71a7:1559
+f:ZMUG.groundnet.xml:f63e2863b117fa54b474dee2f77e8f2ee318674d:272
+f:ZMUH.groundnet.xml:9c9cb3025922758126ef7ec90426760e33ece1e5:272
+f:ZMUB.threshold.xml:3908ea9c706726ac23782b0a4376edd65efe398a:924
+f:ZMUB.ils.xml:7c75e61a400a7346623b81b7db84e0a5700337ce:288

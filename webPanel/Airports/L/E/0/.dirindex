@@ -1,0 +1,14 @@
+version:1
+path:Airports/L/E/0
+f:LE01.threshold.xml:4fcb530c680e5fa7932868bb025be1ff8771a1f2:500
+f:LE03.groundnet.xml:328aa93786466402e688c44dcbf2d7580cf158e2:4188
+f:LE05.groundnet.xml:ca77496b7e3824d6257444db3ddfbd8381e5b62c:262
+f:LE06.threshold.xml:7c2568baeeee3ce5063b8c098e63943dc7cb86f2:497
+f:LE07.groundnet.xml:f04bdb4d076d4d4d0ccd5103f083219ae8be4075:264
+f:LE04.groundnet.xml:bfd560d9cc71d3fb5c18dc84aded6856c634543a:748
+f:LE01.groundnet.xml:e98c9d7a5486d26add834f3dd0799ce70c9efa65:412
+f:LE03.threshold.xml:51fe4a11289ebb350016160bd0c3473a2aae30eb:496
+f:LE04.threshold.xml:21e3b0f26796a4a86ae8684e0605bf266169d029:494
+f:LE06.groundnet.xml:1751d51cce3b5b210e262f042dbb87643eb2d889:261
+f:LE05.threshold.xml:4674a13faaf3a47e316a89c09cceacbbb7513ad4:498
+f:LE07.threshold.xml:71b9dd7bbca350e4cadac487356fc14fac5769bb:497

@@ -1,0 +1,14 @@
+version:1
+path:Airports/E/G/8
+f:EG86.groundnet.xml:01fb0aac9cc7f235007b2e439f0808eeebc18204:270
+f:EG85.threshold.xml:b20a7613646c7b07a8bd57acf47b9814f6a6add7:499
+f:EG80.twr.xml:6d865166459ecccce187459f261d2e2f369d7599:203
+f:EG83.groundnet.xml:dd6d25684690837cdcbc169bc66fc58e9e99fb31:272
+f:EG85.twr.xml:98471151285b9a996e0c16bd1fc20526dc4fd890:200
+f:EG86.threshold.xml:2a3395be572e788d1022a50566a11224b0706929:499
+f:EG80.groundnet.xml:b0cac42bd4aad02c9631c342d0c506f1ba72e622:595
+f:EG83.threshold.xml:0c533d87563345b9db1409e4b97bb209e909fa6e:497
+f:EG86.twr.xml:95eb28f42b0115c0aa0957acfcbb87035c1b4d5a:203
+f:EG85.groundnet.xml:79dcfe017506c334622b35e798a4f27bc07fb8ba:270
+f:EG80.threshold.xml:ef1fc5e8bacd8c5f2d13a72505d1c889d482bf35:927
+f:EG83.twr.xml:a694d1f4c6764866fd93b1526ae769be6621abc1:202

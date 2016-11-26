@@ -1,0 +1,14 @@
+version:1
+path:Airports/N/Z/N
+f:NZNE.threshold.xml:6526622393e6f9a14a5373b8602ab27a72fc34ff:935
+f:NZNR.groundnet.xml:d8a2a53e06967a0acc4b5f74cb2eb6625eaffd5b:757
+f:NZNS.twr.xml:446e5fc6eb771b6253fa09bbff7e8ab93abc425a:202
+f:NZNV.groundnet.xml:c04119893e1598ce3ab6438cf734177112cd3731:933
+f:NZNP.threshold.xml:269c2dc227c73a11cdcea0812cd3d9495aa52c1b:1343
+f:NZNV.threshold.xml:cf187999079ed053c253200a007038da9ce9d284:1792
+f:NZNR.threshold.xml:b8378432f78add4bf77fd8153f3727c90ba6da01:1770
+f:NZNS.groundnet.xml:4e7ee61a6a97c9e3ed47b68b06ad9ac79250eb79:3603
+f:NZNS.threshold.xml:eca5b7d0434ffe8c78ae60888b7bbed194d862c5:1753
+f:NZNE.groundnet.xml:a2aeabec10255104f9524af055803da0b3ff224a:586
+f:NZNE.twr.xml:597a13df2e552d73c98329de874ca70f0d41d490:201
+f:NZNV.twr.xml:a61d6fc1b8a8bff30b8ac4b37cc3d8fdddc81f0e:205

@@ -1,0 +1,9 @@
+version:1
+path:Airports/M/Y/C
+f:MYCI.groundnet.xml:baec1ccc56e10807fbcda255e71b90ebfeb13a92:259
+f:MYCI.threshold.xml:1ebc1f1b261a4c71a2cb43f77c160a60f91bb20f:494
+f:MYCX.threshold.xml:1366765c0b318d48ac4394808431c73dbf2cd4e4:502
+f:MYCA.threshold.xml:5bd8fff1e387083cf515d03981aaddd938fd663f:497
+f:MYCB.groundnet.xml:d905796f4f708001250bceae392f76924821e59f:262
+f:MYCC.threshold.xml:437ccb599e7d83469dd7da170af622403b4d4e8c:498
+f:MYCB.threshold.xml:5b4f599e80913a66530d26b830a6c7a81a636fa5:493

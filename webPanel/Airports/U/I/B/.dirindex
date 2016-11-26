@@ -1,0 +1,8 @@
+version:1
+path:Airports/U/I/B
+f:UIBV.threshold.xml:b4c9d26e76635ca4b942484e0b489883d1c4caee:493
+f:UIBB.threshold.xml:c347a2b7894d5cc2b3f710ad7176adaa621fe231:925
+f:UIBB.ils.xml:b7663734dc8fbd59fe0a5259d43d350c1b8290d9:283
+f:UIBB.groundnet.xml:7712709288d0a220d3d07d244c2ba52a8e6a4dd9:5080
+f:UIBV.groundnet.xml:ca91f5fe53c2ac7fe6f16f6436861aec7f571d7d:1243
+f:UIBV.twr.xml:9ece85dd98c2d035c5cafc253bdfac4a7857a69e:205

@@ -1,0 +1,13 @@
+version:1
+path:Airports/K/C/C
+f:KCC.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:KCCY.threshold.xml:9976b394cdad09535fe35d38f7f873f786b0263b:1328
+f:KCCR.threshold.xml:ff9a5985d4a356adeb2a2a264e99d80ffd358951:1821
+f:KCCO.threshold.xml:eed2deb29723ccfb1e1d501aa4613c3066fdb2e4:494
+f:KCCO.ils.xml:005ca83180a264f22536f17c7a0a11f06fc6cfa1:288
+f:KCCR.twr.xml:82e10414192aa76c41a4c659245300ac3c5b7540:205
+f:KCCA.threshold.xml:f88af883e0c78cd18f6b7024833988df503d4d53:927
+f:KCCR.groundnet.xml:fbd3dea18d732ddf5038206d133a6ae18699c0d3:1130
+f:KCCB.threshold.xml:7c3c63d179cbee0696af3de9fbd271475863d101:497
+f:KCCB.groundnet.xml:ef7e9ef292ee5388a30260d2a3206ea8774c1db0:1276
+f:KCCR.ils.xml:4b1e0a4850abdbd45dd391467b145ac8b1075f8c:262

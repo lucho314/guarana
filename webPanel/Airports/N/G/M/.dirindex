@@ -1,0 +1,11 @@
+version:1
+path:Airports/N/G/M
+f:NGMA.groundnet.xml:fa3ab4dd2d7c38ae8a93b3f7c085e399902d2868:272
+f:NGMN.twr.xml:2597e9224c938975e2feefcc23cb0b84b11ac126:201
+f:NGMA.twr.xml:aa3c0dfc5fddb09bf345e8d480246999bf452c26:203
+f:NGMN.threshold.xml:d8df54982b9f775036444ff57a4e16daef03d140:499
+f:NGMN.groundnet.xml:ddeb1251578e99b579b98783c15113301b806177:274
+f:NGMA.threshold.xml:cb88e77c6ebf4913e5155cda5af1eb5156621ce8:500
+f:NGMK.twr.xml:810e4c1bba4d208376a64c01f24f087fd7e263b4:203
+f:NGMK.groundnet.xml:e0442ab7e7e6dcb8ee44d79ae79334ace84c720b:273
+f:NGMK.threshold.xml:630de58f9c4ea06c48283b687b0ad6245c61f0b1:497

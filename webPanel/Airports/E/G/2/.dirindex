@@ -1,0 +1,16 @@
+version:1
+path:Airports/E/G/2
+f:EG26.twr.xml:c94a94b08b2091178ed17fc4f470f1e2233ab08b:204
+f:EG20.threshold.xml:c7d340a2d54b5efb70c420f67a2284ffa79abc3b:922
+f:EG26.threshold.xml:9415685604d6d1fb295bde6b2abf6c76c50b0cb1:922
+f:EG22.threshold.xml:8f900dbc6d4528e4ef714315218645db915b40f8:500
+f:EG22.groundnet.xml:43f1f79e11ae8f3c0b86a1a5a14eb91b4e011549:439
+f:EG26.groundnet.xml:996edfdc4d2a6304d59626143505c729df0051da:269
+f:EG24.groundnet.xml:9a3f514ca1f90e3989bd1754f8360d64fd5f5b4d:609
+f:EG24.threshold.xml:82488edb3ee8696932882556fcc5dce46cb964c7:498
+f:EG2.threshold.xml:a3af55281660e1d33907ecd38429c52dc6372894:932
+f:EG20.groundnet.xml:18ee272d15c70d0f898ce274eb7785f3bacc60e4:271
+f:EG22.twr.xml:0189e424da52221428b04736926d05d2f87f9771:202
+f:EG21.threshold.xml:6a85b84cd392c8359926dadd2ae5ea6dcc91121d:498
+f:EG20.twr.xml:eef710e50e743d9999a72ed6ddcc89b2696db1fb:204
+f:EG21.groundnet.xml:12d5a1d0b2097d47ff3f66169f2c358b3a26959d:428

@@ -1,0 +1,8 @@
+version:1
+path:Airports/E/I/T
+f:EITT.groundnet.xml:5eafe210a07a298082cb2775781af31c7660f8c6:268
+f:EITM.twr.xml:436f3397912d2a8b1f20d124cee40327bbd8425f:204
+f:EITM.groundnet.xml:303a06d0881ef86629fdb7190534beccd8b959c6:433
+f:EITT.twr.xml:af06a6f9a0ad862c96bb2d43c305c2161b292a85:202
+f:EITT.threshold.xml:392db3a1c2cdcf8717f998f7d6d72d1e26e94267:499
+f:EITM.threshold.xml:1694ed9e0ee90515e4054b47a394332a0ec6baf2:490

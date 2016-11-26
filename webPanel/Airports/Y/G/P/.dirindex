@@ -1,0 +1,14 @@
+version:1
+path:Airports/Y/G/P
+f:YGPT.threshold.xml:38da434f31af4c694d2b655aa2ebad98705cb2d1:504
+f:YGPE.threshold.xml:503d10c9bdcc9146d5299e037434bbd648ce3180:502
+f:YGPE.groundnet.xml:063dfc53abc190e88691172d70fea39f4ceaee66:271
+f:YGPA.groundnet.xml:bd5495e2bd8f9dc22d3f0f658a05b57a07952ed0:271
+f:YGPI.twr.xml:d24f9627e51ca380a9bbd5949d78a85abf9bc9c8:205
+f:YGPA.threshold.xml:6b45067e93365a4f3ffdd2172b5e207b3d69017a:500
+f:YGPA.twr.xml:764c8c18a2a8b9a2d22193e819ea647fd4e1fd54:204
+f:YGPE.twr.xml:552c4719da63a40880d99063676cfd41ed7e8294:205
+f:YGPI.threshold.xml:b453da0569984040dc44454fade8bce1a6b4ef16:496
+f:YGPT.groundnet.xml:18d00bf9579ae68ab78145ef0d0a2cd39945da58:275
+f:YGPT.twr.xml:c039c84616995763f3ca3466809a2d040f40ad96:205
+f:YGPI.groundnet.xml:18eb4ead75d82565fb5205039765d5ed6910b92b:275

@@ -1,0 +1,9 @@
+version:1
+path:Airports/N/T/A
+f:NTAA.threshold.xml:f9774e96d79ad8b3c4aab1a815171714be04e395:508
+f:NTAA.ils.xml:e2bc773236f15ec58984748db5921cbb69e56197:281
+f:NTAA.twr.xml:7c06d4491d0ee39f79d45b85d5ee216797528781:205
+f:NTAR.threshold.xml:3f429b77e71c233ed7c53926693a98e8fc0d1474:496
+f:NTAV.threshold.xml:e064844ad3ed7a4f7b326060132efb17ae46e4de:497
+f:NTAT.threshold.xml:18df2801264f078adbd14bb6631b55d173718b4f:497
+f:NTAA.groundnet.xml:4dcdb39377d711281ed5cc189ed1b28d766b3c2c:2070

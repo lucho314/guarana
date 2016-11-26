@@ -1,0 +1,7 @@
+version:1
+path:Airports/C/S/R
+f:CSR3.threshold.xml:651d733f4df5826b8bfc0b71f7f5501f28b633aa:493
+f:CSR.threshold.xml:6d79b3eb947c010f53675fe295ff91f7a480857c:503
+f:CSR8.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:CSR8.groundnet.xml:b4a91c200f2972bcb6924c8c46ed4c7921683b36:263
+f:CSR8.twr.xml:eb2a72dc9981d46ca5126135908dfb29daf3c074:201

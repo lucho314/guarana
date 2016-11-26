@@ -1,0 +1,15 @@
+version:1
+path:Airports/V/N/B
+f:VNBJ.threshold.xml:622f609f84fc0d83711bf728cedd44b4c8236df6:500
+f:VNBW.twr.xml:6388bda713f2972db684f526b54e578a8395f709:204
+f:VNBR.twr.xml:ea3c90e5c047289fc5b732f404b97ebc7b30cf3c:203
+f:VNBR.threshold.xml:70cdf4c7c71d8800925fdd9d0f013010a4476b86:487
+f:VNBG.threshold.xml:cd019038771434657adc94649a520fa2ba189f5a:499
+f:VNBL.threshold.xml:14ec3b48dbadabb9997daa793e562beef6e0da20:497
+f:VNBR.groundnet.xml:189eddff79930483d47c9b18a0b72a2941cfb31d:266
+f:VNBW.threshold.xml:f7fc0eea37a4171371734918f83e8b183767598b:491
+f:VNBT.threshold.xml:0277ca52d0d76537b236101958e51c1f53f17159:497
+f:VNBW.groundnet.xml:6e2b613ec714d08b9bd1d86d47681bf911e9f035:434
+f:VNBL.groundnet.xml:aba5029293a7a141873dd7f29fcd9d1925688c1d:266
+f:VNBP.threshold.xml:cdeb2f5b5b78d3d6528d05569c093a3c465a4441:500
+f:VNBL.twr.xml:4b458c16ef4f54ae19c27f88d11d0752dc5b1db7:203

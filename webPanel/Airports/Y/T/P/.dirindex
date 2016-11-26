@@ -1,0 +1,7 @@
+version:1
+path:Airports/Y/T/P
+f:YTPA.threshold.xml:8d73cd6f15018d872e978c554d0f9de26969151b:504
+f:YTPA.groundnet.xml:b4d5a9cf7ae3c1d0dba0d42ec4935e5ba7d0b6e9:274
+f:YTPD.groundnet.xml:66fa9b8bc2be39de4ab1d3d7cc68869d6c967b95:271
+f:YTPD.twr.xml:c9b49de854c2bfd4b4c323f2b80eb1451814f93d:205
+f:YTPA.twr.xml:e730f26fd432623609d93550d4d77b3a16e99707:204

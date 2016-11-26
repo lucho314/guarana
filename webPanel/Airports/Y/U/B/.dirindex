@@ -1,0 +1,8 @@
+version:1
+path:Airports/Y/U/B
+f:YUBT.threshold.xml:954c3950bba78bee4865a367a7d8d1e44af3d120:502
+f:YUBK.threshold.xml:4b6a0be43e325fa131d1da6a5c3503097170d329:502
+f:YUBT.twr.xml:73e1a1824c17cfe8475fe75c40f35778315c4ef9:205
+f:YUBK.twr.xml:73a20ef7d215ee5a4a166d0a01f07f0c65d3570c:205
+f:YUBK.groundnet.xml:ffd969155c7dba9de3231b63069598d82aabe8d0:276
+f:YUBT.groundnet.xml:9480ded1df801d9943ae5bf07aa8ea690b33963e:273

@@ -1,0 +1,11 @@
+version:1
+path:Airports/Y/T/F
+f:YTFD.twr.xml:6c33d20eea20a526581e058e5cc49731f4a7bde2:202
+f:YTFA.threshold.xml:b8ec72001ff40d67c49323c059dcc56e3dffbc25:1354
+f:YTFD.threshold.xml:14fcf333b26f5ef670fe3ccd30f92863fbb3634e:502
+f:YTFR.threshold.xml:8d792670734b1e267a6822479a2c3b426189ba55:60
+f:YTFA.groundnet.xml:59efcf1e268b2a5d6adc7d73775733dd99134291:277
+f:YTFR.twr.xml:dc64e20d1f56cdc24ec7849396540581ac3b207c:201
+f:YTFA.twr.xml:cb49c2f7af5d4acc05781977daf694111999395b:205
+f:YTFR.groundnet.xml:704efdc765872aa94f5fd7842a59503b5554bbf3:275
+f:YTFD.groundnet.xml:c40d567a78129217a23ea540f80875f32d6e2067:277

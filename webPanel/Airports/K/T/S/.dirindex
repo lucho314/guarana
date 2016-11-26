@@ -1,0 +1,8 @@
+version:1
+path:Airports/K/T/S
+f:KTSO.groundnet.xml:70897926e508e95d6fdd530b54868f7280cac708:756
+f:KTSP.twr.xml:49d070eb2ad877fa791639dcac309d719d8ffbac:206
+f:KTSP.threshold.xml:0178032df3a2c1cd9dfa2b7d7ea80d9e8f67db52:505
+f:KTSO.threshold.xml:4370df17bcd5d19b3dd86737305e8f81ff2012fe:495
+f:KTSO.twr.xml:0aab1e86a0a173d5d2d3fb69eee645a67d678fa4:205
+f:KTSP.groundnet.xml:7398cba7e97d5b549e9ddd9db2baebcd227d2348:439

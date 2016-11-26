@@ -1,0 +1,8 @@
+version:1
+path:Airports/T/A/P
+f:TAPH.threshold.xml:20b9d8ea8ab609bb39c835cfda151d9935a1ddf3:503
+f:TAPA.threshold.xml:cf899403c2dad0459fbf76f2fa40edbb4475107f:495
+f:TAPA.groundnet.xml:4786a44706608ffe0bea0cab9a3f3bde5736a805:1903
+f:TAPA.twr.xml:a2683384863db073d202578d43c1f16d29dae8ee:200
+f:TAPH.groundnet.xml:bf663fb675aaa9d8af854bb29e797d6a1678ab0e:260
+f:TAPT.threshold.xml:52eec4deb584ea7d2bf1a8d78140ff0d1b7b1d12:500

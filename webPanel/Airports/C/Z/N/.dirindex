@@ -1,0 +1,6 @@
+version:1
+path:Airports/C/Z/N
+f:CZNL.threshold.xml:225a56996993e7dd9807de456de75ff7ae406cda:504
+f:CZN.threshold.xml:dd85acfef44c5ff92524298b76ff75a893872ee2:504
+f:CZNL.groundnet.xml:cbb98fd8cef2d8fc323102c1ec7548747df0742a:776
+f:CZNL.twr.xml:599e79e70547436282b218f43d13aaaed771e2ca:206

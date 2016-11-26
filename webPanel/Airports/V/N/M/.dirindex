@@ -1,0 +1,8 @@
+version:1
+path:Airports/V/N/M
+f:VNMA.groundnet.xml:163928c3a0ee2469edbc09cfbcad80e09038e224:266
+f:VNMA.twr.xml:1f07aa16171578a523d5f0cd0279c49a29b68796:201
+f:VNMG.groundnet.xml:208f8776e080b5d3fb9654c93d8ef414742d7157:266
+f:VNMG.threshold.xml:41e48724094e3c4217d4815d760843d509302be9:499
+f:VNMN.threshold.xml:f56bdcaa342f345ba90a97b9c8ed4d431d2273db:500
+f:VNMA.threshold.xml:44f11450aa3743539798c9262458d1e8097f2c12:500

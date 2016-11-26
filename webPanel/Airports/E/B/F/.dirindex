@@ -1,0 +1,9 @@
+version:1
+path:Airports/E/B/F
+f:EBFN.groundnet.xml:d06c89914aa0f9fd32256e77ee191d3842c39c13:945
+f:EBFS.threshold.xml:3c7d55b80d87f0a84f68365317de22a77a590eb2:931
+f:EBFS.twr.xml:71bbd825a8b3e01a7af7795fa772f513251a3d00:202
+f:EBFS.groundnet.xml:3d6dc00296839063a96e2ce1de7e8f4f8fa9599e:1961
+f:EBFN.twr.xml:888d44ff7374e32848a3a09ec440e42968a7ba4b:202
+f:EBFN.threshold.xml:7ce744f8868b62057718aef30880b7400f88a02f:499
+f:EBFS.ils.xml:81b44acfe8950223723f670feb7393497e90236f:282

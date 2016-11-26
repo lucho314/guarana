@@ -1,0 +1,12 @@
+version:1
+path:Airports/S/C/M
+f:SCMB.threshold.xml:8e7fd7666af0f1dec25361c6896b39e447d050b9:495
+f:SCMP.groundnet.xml:060621c5e63346bdf1e843dd33f97c5ce57851ec:947
+f:SCMK.threshold.xml:841165ebeb0c886998cd3d8ba7875b224bd0299f:503
+f:SCMK.groundnet.xml:4d51f4776a94d8f140110f5761ea82c566a47b32:6029
+f:SCML.twr.xml:8a45948b8ce0ac2b1387a9aab51641bbe7e3c6eb:205
+f:SCMK.twr.xml:2f7c812c09b4140848cd63781bd49c84f1e695b0:205
+f:SCMA.groundnet.xml:e3ebd4d1fedfa439b75c628ef30e227a2688e42e:742
+f:SCML.threshold.xml:c1ca205f4f954fd6f4993501861998d178ab71f0:502
+f:SCMF.groundnet.xml:885393556838e747770c75c1fbfe48e981190e62:426
+f:SCML.groundnet.xml:1d71ff65d6eb0054dc0c2d0f0bd814e39a457ff9:749

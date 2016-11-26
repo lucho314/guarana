@@ -1,0 +1,8 @@
+version:1
+path:Airports/E/F/E
+f:EFET.groundnet.xml:15cbf1640ad9158292e840ca4aa4c5dbd8b60754:569
+f:EFET.twr.xml:3c61f2a711c9f1fc9901fb41094fbb45e9d5ef14:199
+f:EFEK.groundnet.xml:a7b8141d9a918f0e4eca3319b30d2d2967d3fa71:406
+f:EFET.ils.xml:08760002b6fb4dce605bf4eb5ba9c04c587b4625:281
+f:EFET.threshold.xml:b59097b6b1ee69b3f6df642201b9943e211042cb:491
+f:EFEU.threshold.xml:c534e0d4b2981b73054f4390781eea0ce9b7ac1b:492

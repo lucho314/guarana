@@ -1,0 +1,11 @@
+version:1
+path:Airports/C/F/Q
+f:CFQ6.twr.xml:839c9e389b532e9b13c1faba8a0966e9731006e2:205
+f:CFQ7.twr.xml:3d913c9f50efb8a3f55da6868e5b3d2e546a6753:205
+f:CFQ5.twr.xml:1c3a897d8b662748446a42ecbd397dd1c284fb66:205
+f:CFQ7.groundnet.xml:52934aaa78ec040a079cccff6546ca3913cbb4f1:271
+f:CFQ6.groundnet.xml:4928e6b83ede967b5ea01b1bcfe16e0c3698a8e5:279
+f:CFQ5.groundnet.xml:cb591080a5f268b141c81c1c4a555ad1f28fb15b:270
+f:CFQ7.threshold.xml:d33b068903431712b7bf23623a93d17f77c26212:496
+f:CFQ5.threshold.xml:b0c3b9e771e64ff662f1b638ed8ff3139e39e19f:495
+f:CFQ6.threshold.xml:5f307570ebab6d9d5a5962b18199648419d5649d:495
