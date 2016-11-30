@@ -1,13 +1,13 @@
 <?php
-if (!isset($_POST['nuevaSimulacion'])) {
-    die(header("Location: clases.php"));
-}
+ if (!isset($_POST['nuevaSimulacion'])) {
+  die(header("Location: clases.php"));
+  }
 
-include 'Classclase.php';
-$clase = new Classclase();
-$clase->nuevaSimulacion();
-$id = $clase->getClaseId();
-
+  include 'Classclase.php';
+  $clase = new Classclase();
+  $clase->nuevaSimulacion();
+  $id = $clase->getClaseId();
+ 
 include 'cabecera.php';
 include 'lib/variables.php';
 ?>
@@ -30,7 +30,7 @@ include 'lib/variables.php';
         </div>
     </div> 
 
-    <div class="col-md-8">
+    <div class="col-md-8" id="panel">
         <iframe class="row" src="<?= $nro ?>/aircraft-dir/WebPanel/" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:700px;width:100%;" SCROLLING="no"></iframe>
     </div>
     <div class="col-md-2 row">
@@ -111,6 +111,7 @@ include 'lib/variables.php';
 
 </div>
 </div>
+<button id="captura">presionar</button>
 <?php
 include 'pie.php';
 echo $nro;
@@ -124,15 +125,34 @@ echo $nro;
 
 <script>
     var time;
-    
-    $(function(){
-        $("#fallas").prop("href",'acciones/fallas.php');
-        $("#mapa").prop("href",'<?= $nro ?>/mapa.html#Map');
-        $('#posicion').prop("href",'acciones/posicion.php');
-        $('#posicion-aterrizaje').prop("href",'acciones/posicionAterrizar.php');
+
+    $(function () {
+        $("#fallas").prop("href", 'acciones/fallas.php');
+        $("#mapa").prop("href", '<?= $nro ?>/mapa.html#Map');
+        $("#time").prop("href", '<?= $nro ?>/time.html#Environment/Date & Time')
+        $('#posicion').prop("href", 'acciones/posicion.php');
+        $('#posicion-aterrizaje').prop("href", 'acciones/posicionAterrizar.php');
     })
-    
-    
+
+
+
+
+
+    $('#captura').click(function () {
+        alert('hola');
+        html2canvas('#panel', {
+            onrendered: function (canvas) {
+                var a = document.createElement('a');
+                // toDataURL defaults to png, so we need to request a jpeg, then convert for file download.
+                a.href = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
+                a.download = 'somefilename.jpg';
+                a.click();
+            }
+        });
+    })
+
+
+
     $('#iniciar').click(function () {
         var id =<?= $id ?>;
         $('#boton-iniciar').hide();
@@ -210,5 +230,9 @@ echo $nro;
     $('#form-detalle').submit(function () {
         window.open('generaPDF.php');
     })
+
+
+
+
 
 </script>

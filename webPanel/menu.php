@@ -23,14 +23,13 @@
                     <li>
                         <a class="fancybox fancybox.iframe" id="posicion-aterrizaje" href="#">Seter posicion de aterrizaje</a>
                     </li>
-                    <li class="divider">
+                    <li>
+                        <a class="fancybox fancybox.iframe" href="acciones/climatologia.php">Clima</a>
                     </li>
                     <li>
-                        <a href="#"></a>
+                        <a class="fancybox fancybox.iframe" id="time" href="#">Hora</a>
                     </li>
-                    <li class="divider">
-                    </li>
-                   
+
                 </ul>
             </li>
         </ul>
