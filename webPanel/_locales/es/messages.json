@@ -1,0 +1,317 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "NO QUITE"
+   },
+   "aboutMe": {
+      "message": "Sobre mi"
+   },
+   "advancedEditing": {
+      "message": "Opciones avanzadas de edición en Pixlr"
+   },
+   "alreadyDonated": {
+      "message": "Ya donó?"
+   },
+   "amount": {
+      "message": "Cantidad"
+   },
+   "andMore": {
+      "message": "y mucho más ..."
+   },
+   "byRightClicking": {
+      "message": "pulsando el botón derecho de la imagen"
+   },
+   "capturing": {
+      "message": "La captura de ..."
+   },
+   "changeFontSize": {
+      "message": "Ajustar el tamaño de la fuente en la función texto"
+   },
+   "changelog": {
+      "message": "Lista de cambios"
+   },
+   "chooseAWebsite": {
+      "message": "Elija un sitio web para subir su imagen para obtener una relación compartida ..."
+   },
+   "chooseColor": {
+      "message": "Elige un color"
+   },
+   "choosePaymentMethod": {
+      "message": "Elegir un método de pago"
+   },
+   "clickAndDrag": {
+      "message": "Haga clic y arrastre"
+   },
+   "clickToShare": {
+      "message": "O haga clic en uno de estos para compartir rápidamente ..."
+   },
+   "continue": {
+      "message": "Continuar"
+   },
+   "continueWithoutFeatures": {
+      "message": "Sigue usando esta extensión con muchas opciones pero sin estas características adicionales."
+   },
+   "contribute": {
+      "message": "Contribuir"
+   },
+   "contributeToContinue": {
+      "message": "Donar"
+   },
+   "copyImage": {
+      "message": "Copiar imagen"
+   },
+   "copyLink": {
+      "message": "Copiar enlace"
+   },
+   "copyToClipboard": {
+      "message": "Copiar al portapapeles"
+   },
+   "copyToClipboardDesc": {
+      "message": "Haga clic en la imagen y elija"
+   },
+   "createLink": {
+      "message": "Crear un enlace"
+   },
+   "creditCardOrPaypal": {
+      "message": "Usted puede utilizar su tarjeta de crédito o PayPal, para"
+   },
+   "currencyCode": {
+      "message": "EUR"
+   },
+   "currencyCodeForGoogleCheckout": {
+      "message": "EUR"
+   },
+   "currencySymbol": {
+      "message": "€"
+   },
+   "currencySymbolForGoogleCheckout": {
+      "message": "€"
+   },
+   "deleteLink": {
+      "message": "enlace Eliminar"
+   },
+   "description": {
+      "message": "Capte cualquier parte de una página web, explicando con flechas, círculos y textos. Envíelo como enlace o archivo adjunto"
+   },
+   "discoverMyApps": {
+      "message": "Descubre mis aplicaciones"
+   },
+   "donateButton": {
+      "message": "https://www.paypal.com/es_ES/i/btn/btn_donate_SM.gif"
+   },
+   "done": {
+      "message": "Terminado"
+   },
+   "drawArrow": {
+      "message": "Dibuja una flecha"
+   },
+   "drawCircle": {
+      "message": "Dibuja un círculo"
+   },
+   "drawFreehand": {
+      "message": "Dibujar a mano alzada"
+   },
+   "drawLine": {
+      "message": "Dibuja una línea"
+   },
+   "drawRectangle": {
+      "message": "Dibuja un rectángulo"
+   },
+   "editingInstructions": {
+      "message": "Dibuja flechas o escriba el texto si lo desea."
+   },
+   "enterAnAmount": {
+      "message": "Debe introducir una cantidad!"
+   },
+   "example": {
+      "message": "ejemplo"
+   },
+   "extraFeatures": {
+      "message": "Características adicionales"
+   },
+   "grabEntirePage": {
+      "message": "Captura toda la página"
+   },
+   "grabEntireScreen": {
+      "message": "Captura la pantalla entera"
+   },
+   "grabSelectedArea": {
+      "message": "Captura un área seleccionada"
+   },
+   "grabVisiblePart": {
+      "message": "Captura la parte visible de esta página"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "helpContact": {
+      "message": "Ayuda - Contacto"
+   },
+   "hurried": {
+      "message": "En una prisa, haga clic derecho esta imagen ahora para copiar al portapapeles o Guardar imagen"
+   },
+   "imageFormat": {
+      "message": "Formato de imagen"
+   },
+   "justInstalled": {
+      "message": "Probablemente simplemente instalaste esta extensión o se ha producido una actualización, ¡así que necesitarás $1 esta pestaña primero o capturar la $2!"
+   },
+   "justInstalled2": {
+      "message": "recargar"
+   },
+   "justInstalled3": {
+      "message": "parte visible de la página"
+   },
+   "large": {
+      "message": "grandes"
+   },
+   "minimumAmount": {
+      "message": "Debe donar al menos $1"
+   },
+   "name": {
+      "message": "Explica y Envía Capturas de Pantalla"
+   },
+   "normal": {
+      "message": "normal"
+   },
+   "openFile": {
+      "message": "Abrir archivo..."
+   },
+   "openFromClipboard": {
+      "message": "Abrir desde el portapapeles"
+   },
+   "option": {
+      "message": "Opción"
+   },
+   "options": {
+      "message": "Opciones"
+   },
+   "or": {
+      "message": "o"
+   },
+   "otherExtensions": {
+      "message": "Trate de mis aplicaciones populares de otros!"
+   },
+   "pastingProblem": {
+      "message": "* Pegar en algunas aplicaciones no funcionen, así que esperar después del tratamiento para copiar"
+   },
+   "presetButtonAction": {
+      "message": "Acción de presión de botón"
+   },
+   "processing": {
+      "message": "Transformación"
+   },
+   "readyForPasting": {
+      "message": "Listo para pegar!"
+   },
+   "readyToShare": {
+      "message": "Está dispuesto a compartir, aquí está el enlace ..."
+   },
+   "removeDonationLink": {
+      "message": "Ocultar el enlace para hacer una donación al autor en la vista rápida"
+   },
+   "removeFooter": {
+      "message": "Eliminar texto de pie de página?"
+   },
+   "removeHeader": {
+      "message": "Quitar texto de cabecera?"
+   },
+   "removeHeaderFooter": {
+      "message": "Quitar texto del encabezado y el pie de página en la imagen"
+   },
+   "removeMenuItems": {
+      "message": "Eliminar elementos del menu con el click derecho"
+   },
+   "removeToolbarInPopup": {
+      "message": "Eliminar barra de herramientas en flotante"
+   },
+   "restart": {
+      "message": "Reiniciar"
+   },
+   "rightClickImage": {
+      "message": "Haga clic derecho me Copiar al portapapeles o guardarla"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "saveImageAs": {
+      "message": "Guardar imagen como ..."
+   },
+   "saveImageAsAFile": {
+      "message": "Guardar imagen como un archivo ..."
+   },
+   "saveImageAsDesc": {
+      "message": "Haga clic en la imagen y elija"
+   },
+   "securely": {
+      "message": "de forma segura."
+   },
+   "selectionTool": {
+      "message": "Selección de herramienta para cortar, copiar, pegar o borrar el contenido"
+   },
+   "shareAsLink": {
+      "message": "Compartir o como un enlace"
+   },
+   "shareLinkOn": {
+      "message": "Compartir enlace"
+   },
+   "small": {
+      "message": "pequeño"
+   },
+   "supportExtension": {
+      "message": "para apoyar esta ampliación"
+   },
+   "undo": {
+      "message": "Deshacer"
+   },
+   "unlockFeatures": {
+      "message": "Desbloquea éstas y otras futuras características con una donación única de cualquier cantidad y estarán disponibles de inmediato."
+   },
+   "uploadImage": {
+      "message": "Subir imagen"
+   },
+   "uploading": {
+      "message": "Subir"
+   },
+   "whyContribute": {
+      "message": "¿Por qué debo participar?"
+   },
+   "whyContributeReason1": {
+      "message": "Le dedico muchas horas a la actualización semanal de $1 en respuesta a tus sugerencias"
+   },
+   "whyContributeReason1_1": {
+      "message": "todas mis extensiones"
+   },
+   "whyContributeReason2": {
+      "message": "Leo y proporciono información rápida a tus comentarios y críticas a través de mi $1 :)"
+   },
+   "whyContributeReason2_1": {
+      "message": "propio monitor de revisiones para esta extensión"
+   },
+   "whyContributeReason3": {
+      "message": "Tú puedes contribuir con sólo 1$ para desbloquear las características y ambos nos beneficiaremos de ello"
+   },
+   "whyContributeReason4": {
+      "message": "Esta extensión de Google Chrome tiene cada vez más $1 gracias a ti"
+   },
+   "whyContributeReason4_1": {
+      "message": "revisiones"
+   },
+   "whyContributeReason5": {
+      "message": "Para saber más acerca de mí, entra en $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Ser un usuario de Google Calendar más productivo para usted o su empresa"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Mucho más barato de $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "writeText": {
+      "message": "Escritura de texto"
+   }
+}

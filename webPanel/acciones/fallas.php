@@ -1,6 +1,7 @@
 <?php
 include '../lib/variables.php';
 echo $ip;
+$claseId=$_GET['claseId'];
 ?>
 <link rel="stylesheet" href="../css/bootstrap.min.css">
 <script src="../js/jquery-1.12.3.js"></script>
@@ -40,7 +41,7 @@ echo $ip;
                 {
                     instrumentoId: instrumentoId,
                     eventoId: eventoId,
-                    claseId: '10',
+                    claseId: <?= $claseId?>,
                     function: 'generarFalla'
 
                 }, function () {});

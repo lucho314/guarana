@@ -1,0 +1,68 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "alreadyDonated": {
+      "message": "Již přispěl?"
+   },
+   "amount": {
+      "message": "Částka"
+   },
+   "choosePaymentMethod": {
+      "message": "Vyberte si způsob placení"
+   },
+   "continue": {
+      "message": "Pokračovat"
+   },
+   "continueWithoutFeatures": {
+      "message": "Pokračovat v používání tohoto rozšíření se spoustou možností, ale bez těchto dalších funkcí."
+   },
+   "contributeToContinue": {
+      "message": "Přispět"
+   },
+   "creditCardOrPaypal": {
+      "message": "Můžete použít kreditní kartu nebo PayPal"
+   },
+   "description": {
+      "message": "Zachyťte jakoukoliv část internetové stránky, na snímku použijte šipky, nebo text. Snímek sdílejte nebo ho pošlete jako odkaz"
+   },
+   "enterAnAmount": {
+      "message": "Musíte zadat částku!"
+   },
+   "extraFeatures": {
+      "message": "Další funkce"
+   },
+   "minimumAmount": {
+      "message": "Musíte darovat nejméně $1"
+   },
+   "myPreference": {
+      "message": "moje preference"
+   },
+   "name": {
+      "message": "Upravte a pošlete snímek obrazovky"
+   },
+   "option": {
+      "message": "Možnost"
+   },
+   "options": {
+      "message": "Možnosti"
+   },
+   "or": {
+      "message": "nebo"
+   },
+   "orPayUsing_": {
+      "message": "Nebo můžete zaplatit pomocí"
+   },
+   "removeDonationLink": {
+      "message": "Odstranit odkaz darování"
+   },
+   "save": {
+      "message": "Uložit"
+   },
+   "securely": {
+      "message": "bezpečně."
+   },
+   "unlockFeatures": {
+      "message": "Uvolnit tyto vlastnosti a budoucnost ty s jednou darování jakoukoli částku, a oni budou okamžitě k dispozici!"
+   }
+}

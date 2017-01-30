@@ -1,0 +1,23 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "currencyCode": {
+      "message": "PLN"
+   },
+   "currencySymbol": {
+      "message": ""
+   },
+   "description": {
+      "message": "Zrób zdjęcie dowolnej części strony, opisz ją strzałkami, kółkami, tekstem i współdziel lub wyślij jako link lub załącznik"
+   },
+   "minimumDonation": {
+      "message": "1.50"
+   },
+   "minimumDonationForGoogleCheckout": {
+      "message": "0.50"
+   },
+   "name": {
+      "message": "Opisz i wyślij screen"
+   }
+}

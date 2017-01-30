@@ -115,13 +115,10 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
     $(function () {
         lista();
     });
-
     $('#btn_listar').click(function () {
         lista();
     });
-
     var lista = function () {
-
         $('#cuadro1').slideDown("slow");
         $('#cuadro2').slideUp("slow");
         var table = $('#dt_proveedor').DataTable({
@@ -149,15 +146,12 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
         obtener_data_editar("#dt_proveedor tbody", table);
         obtener_id_eliminar("#dt_proveedor tbody", table);
     };
-
     agregar_nuevo_usuario = function () {
         limpiar_datos();
         $('#cuadro2').slideDown("slow");
         $('#cuadro1').slideUp("slow");
-
     }
     var obtener_data_editar = function (tbody, table) {
-
         $(tbody).on('click', 'button.editar', function () {
             var data = table.row($(this).parents("tr")).data();
             $('#nombres').val(data.nombre);
@@ -170,7 +164,6 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
            <?= ($tipo==='2')?'get_profesor(data.id);':'' ?>
             $('#cuadro2').slideDown("slow");
             $('#cuadro1').slideUp("slow");
-
         })
     }
     var obtener_id_eliminar = function (tbody, table) {
@@ -179,7 +172,6 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
             usuarioId = $("#frmEliminarUsuario #idusuario").val(data.id);
         })
     }
-
     var guardar = $("form").submit(function (e) {
         e.preventDefault();
         var frm = $(this).serialize();
@@ -194,10 +186,8 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
             //console.log(json_info);
             limpiar_datos()
             lista();
-
         })
     })
-
         $("#eliminar-usuario").click(function () {
             var idusuario = $('#idusuario').val();
             $.ajax({
@@ -211,7 +201,6 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
                 lista();
             })
         })
-
     var mostrar_mensaje = function (informacion) {
         var texto = "", color = "";
         if (informacion.respuesta == "BIEN") {
@@ -227,14 +216,12 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
             texto = "<strong>Advertencia!</strong> debe llenar todos los campos solicitados.";
             color = "#ddb11d";
         }
-
         $(".mensaje").html(texto).css({"color": color});
         $(".mensaje").fadeOut(5000, function () {
             $(this).html("");
             $(this).fadeIn(3000);
         });
     }
-
     var limpiar_datos = function () {
         $('#nombres').val("");
         $('#apellidos').val("");
@@ -243,11 +230,9 @@ $profesores=  Classusuarios::listaUsuarioInstructor();
         $('#password').val("");
         $('#function').val('nuevo');
     }
-
 function get_profesor(id){
     $.post('Classusuario.php',{id:id,function:'idInstructorAlumno'},function(data){
            $('#profesor').val(JSON.parse(data));
         }, "html")
 }
-
 </script>

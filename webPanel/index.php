@@ -8,10 +8,11 @@
             <div class="form">
                 <div class="form button" id="caja-texto">
 				INICIAR SESI&Oacute;N
-				</div>
-                <form class="login-form" action="panel.php" method="post">
-                    <input type="text" name="user" placeholder="Nombre Usuario"/>
-                    <input type="password" name="pass" placeholder="Contrase&#241;a"/>
+                </div>
+                
+                <form action="clases.php"  method="post">
+                    <input type="text" name="user" placeholder="Nombre Usuario">
+                    <input type="password" name="pass" placeholder="Contrase&#241;a">
                     <button>Entrar</button>
                    
                 </form>

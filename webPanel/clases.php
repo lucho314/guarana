@@ -129,7 +129,7 @@ $alumno = Classusuarios::listaUsuarioAlumno();
                 {"data": "fecha"},
                 {"data": "inicio"},
                 {"data": "fin"},
-                {"defaultContent": "<button type='button' class='btn btn-primary' title='Mas informacion'><i class='glyphicon glyphicon-info-sign'></i></button>	<button type='button' class='eliminar btn btn-danger' data-toggle='modal' data-target='#modalEliminar' title='Eliminar'><i class='fa fa-trash-o'></i></button>"}
+                {"defaultContent": "<button type='button' class='info btn btn-primary' title='Mas informacion'><i class='glyphicon glyphicon-info-sign'></i></button>	<button type='button' class='pdf btn btn-default' title='Ver PDF'><i class='fa fa-file-pdf-o'> </i></button>"}
             ],
             "dom": "Bfrtip",
             "buttons": [{
@@ -140,7 +140,9 @@ $alumno = Classusuarios::listaUsuarioAlumno();
                     }
                 }]
         });
-        obtener_id_eliminar("#dt_clases tbody", table);
+        mas_informacion("#dt_clases tbody", table);
+       pdf("#dt_clases tbody", table)
+
     };
 
     function  nueva_clase() {
@@ -160,22 +162,44 @@ $alumno = Classusuarios::listaUsuarioAlumno();
             usuarioId = $("#frmEliminarClase #idClase").val(data.id);
         })
     }
-    
-    
-     $("#eliminar-clase").click(function () {
-            var idClase = $('#idClase').val();
-            $.ajax({
-                method: "POST",
-                url: "Classclase.php",
-                data: {"idClase": idClase, "function": 'eliminar'}
-            }).done(function (info) {
-                var json_info = JSON.parse(info);
-                mostrar_mensaje(json_info);
-                lista();
-            });
+
+
+    var mas_informacion = function (tbody, table) {
+
+        $(tbody).on('click', 'button.info', function () {
+            var data = table.row($(this).parents("tr")).data();
+            var id = data.id;
+            window.location.href = 'detalleClase.php?id=' + id;
+        })
+    }
+
+    var pdf=function (tbody, table){
+
+        $(tbody).on('click', 'button.pdf', function () {
+            var data = table.row($(this).parents("tr")).data();
+            var id = data.id;
+            window.location.href = "detallePdf.php?claseId="+ id;
+        })
+    }
+
+
+
+
+
+    $("#eliminar-clase").click(function () {
+        var idClase = $('#idClase').val();
+        $.ajax({
+            method: "POST",
+            url: "Classclase.php",
+            data: {"idClase": idClase, "function": 'eliminar'}
+        }).done(function (info) {
+            var json_info = JSON.parse(info);
+            mostrar_mensaje(json_info);
+            lista();
         });
-        
-        var mostrar_mensaje = function (informacion) {
+    });
+
+    var mostrar_mensaje = function (informacion) {
         var texto = "", color = "";
         if (informacion.respuesta == "BIEN") {
             texto = "<strong>Bien!</strong> Se han guardado los cambios correctamente.";

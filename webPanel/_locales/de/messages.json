@@ -1,0 +1,449 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "aboutMe": {
+      "message": "Über mich"
+   },
+   "advancedEditing": {
+      "message": "Erweiterte Bearbeitung in Pixlr"
+   },
+   "afterGrabAction": {
+      "message": "Aktion nach Erfassung"
+   },
+   "alreadyDonated": {
+      "message": "Bereits gespendet?"
+   },
+   "amount": {
+      "message": "Betrag"
+   },
+   "andMore": {
+      "message": "und mehr..."
+   },
+   "blurTool": {
+      "message": "Löschen / Verwischen"
+   },
+   "byRightClicking": {
+      "message": "mit einem Rechtsklick auf das Bild"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "canceledInAppPurchase": {
+      "message": "Versuchen Sie PayPal oder kontaktieren Sie mich für Fragen unter"
+   },
+   "capturing": {
+      "message": "Erfasse..."
+   },
+   "changeFontSize": {
+      "message": "Schriftgröße ändern"
+   },
+   "changelog": {
+      "message": "Versionshinweise"
+   },
+   "chooseAWebsite": {
+      "message": "Wählen Sie eine Website zum Hochladen, um einen teilbaren Link zu erhalten..."
+   },
+   "chooseColor": {
+      "message": "Wählen Sie eine Farbe"
+   },
+   "choosePaymentMethod": {
+      "message": "Wählen Sie eine Zahlungsmethode"
+   },
+   "clickAndDrag": {
+      "message": "Klicken und Ziehen"
+   },
+   "clickToShare": {
+      "message": "Oder klicken Sie hier um schnell zu teilen..."
+   },
+   "close": {
+      "message": "Schließen"
+   },
+   "contactHelp": {
+      "message": "Kontakt - Hilfe"
+   },
+   "continue": {
+      "message": "Weiter"
+   },
+   "continueWithoutFeatures": {
+      "message": "Diese Erweiterung ohne die zusätzlichen Funktionen weiternutzen."
+   },
+   "contribute": {
+      "message": "Beitragen"
+   },
+   "contributeToContinue": {
+      "message": "Leisten Sie einen BELIEBIGEN Beitrag"
+   },
+   "copyImage": {
+      "message": "Bild kopieren"
+   },
+   "copyLink": {
+      "message": "Link kopieren"
+   },
+   "copyToClipboard": {
+      "message": "In die Zwischenablage kopieren"
+   },
+   "copyToClipboardDesc": {
+      "message": "Rechtsklicken Sie auf das Bild und wählen Sie"
+   },
+   "createLink": {
+      "message": "Link erstellen"
+   },
+   "creditCardOrPaypal": {
+      "message": "Sie können Ihre Kreditkarte oder PayPal verwenden, um"
+   },
+   "cropTool": {
+      "message": "Bild zuschneiden"
+   },
+   "currencyCode": {
+      "message": "EUR"
+   },
+   "currencySymbol": {
+      "message": "€"
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "deleteLink": {
+      "message": "Link löschen"
+   },
+   "deleteSelection": {
+      "message": "Auswahl löschen"
+   },
+   "description": {
+      "message": "Erfassen Sie Webseiten, erläutern diese mit Text, Pfeilen und Kreisen und teilen diese mit einem direkten Link zum Bildschirmfoto!"
+   },
+   "discoverMyApps": {
+      "message": "Meine Apps entdecken"
+   },
+   "dismiss": {
+      "message": "Verwerfen"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "Keine Benachrichtigung über neue Versionen"
+   },
+   "donateButton": {
+      "message": "https://www.paypal.com/de_DE/i/btn/btn_donate_SM.gif"
+   },
+   "done": {
+      "message": "Fertig"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "drawArrow": {
+      "message": "Pfeil zeichnen"
+   },
+   "drawCircle": {
+      "message": "Kreis zeichnen"
+   },
+   "drawFreehand": {
+      "message": "Freihand zeichnen"
+   },
+   "drawLine": {
+      "message": "Linie zeichnen"
+   },
+   "drawRectangle": {
+      "message": "Rechteck zeichnen"
+   },
+   "editInPixlr": {
+      "message": "In Pixlr bearbeiten"
+   },
+   "editingInstructions": {
+      "message": "Zeichnen Sie Pfeile oder schreiben Sie einen Text."
+   },
+   "enterAnAmount": {
+      "message": "Sie müssen einen Betrag angeben!"
+   },
+   "example": {
+      "message": "Beispiel"
+   },
+   "extensionUpdated": {
+      "message": "Erweiterung aktualisiert!"
+   },
+   "extensionUpdates": {
+      "message": "Erweiterung aktualisiert"
+   },
+   "extraFeatures": {
+      "message": "Zusätzliche Funktionen"
+   },
+   "failureWithInAppPurchase": {
+      "message": "Abgebrochen oder Fehler bei der Transaktion? Versuchen Sie stattdessen PayPal!"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "Abgebrochen oder Fehler bei der Transaktion? Versuchen Sie stattdessen $1!"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "grabEntirePage": {
+      "message": "Erfasse die gesamte Seite"
+   },
+   "grabEntireScreen": {
+      "message": "Erfasse den ganzen Bildschirm"
+   },
+   "grabSelectedArea": {
+      "message": "Erfasse einen ausgewählten Bereich"
+   },
+   "grabVisiblePart": {
+      "message": "Erfasse sichtbaren Teil der Seite"
+   },
+   "grabWindow": {
+      "message": "Erfasse den Browser oder das Fenster"
+   },
+   "help": {
+      "message": "Hilfe"
+   },
+   "helpContact": {
+      "message": "Hilfe - Kontakt"
+   },
+   "highlight": {
+      "message": "Hervorheben"
+   },
+   "hurried": {
+      "message": "Wenn Sie es eilig haben, rechtsklicken Sie jetzt das Bild um es in die Zwischenablage zu kopieren oder es zu speichern"
+   },
+   "imageFormat": {
+      "message": "Bildformat"
+   },
+   "justInstalled": {
+      "message": "Sie haben diese Erweiterung wahrscheinlich erst installiert oder ein Update durchgeführt, daher sollten Sie diesen Tab $1 oder den $2 erfassen!"
+   },
+   "justInstalled2": {
+      "message": "neu laden"
+   },
+   "justInstalled3": {
+      "message": "sichtbaren Teil der Seite"
+   },
+   "large": {
+      "message": "Groß"
+   },
+   "linkCopied": {
+      "message": "Link kopiert"
+   },
+   "minimumAmount": {
+      "message": "Sie müssen mindestens $1 spenden"
+   },
+   "myPreference": {
+      "message": "meine Vorliebe"
+   },
+   "name": {
+      "message": "Explain & Send Screenshots"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open": {
+      "message": "Öffnen"
+   },
+   "openEditor": {
+      "message": "Editor öffnen"
+   },
+   "openFile": {
+      "message": "Datei öffnen..."
+   },
+   "openFromClipboard": {
+      "message": "Aus Zwischenablage öffnen"
+   },
+   "openInGoogleDrive": {
+      "message": "In Google Drive öffnen"
+   },
+   "option": {
+      "message": "Option"
+   },
+   "options": {
+      "message": "Einstellungen"
+   },
+   "or": {
+      "message": "oder"
+   },
+   "orPayUsing_": {
+      "message": "Oder Sie können per"
+   },
+   "otherAmount": {
+      "message": "Anderer Betrag"
+   },
+   "otherExtensions": {
+      "message": "Meine Apps entdecken"
+   },
+   "pagesFromOtherExtensions": {
+      "message": "Seiten aus anderen Erweiterungen"
+   },
+   "pagesThatStartWith": {
+      "message": "Seiten beginnend mit"
+   },
+   "particularPages": {
+      "message": "Diese $1 können aufgrund der Sicherheitsrichtlinien von Chrome nicht erfasst werden. Bitte versuchen Sie eine andere Seite!\u003Cbr>\u003Cspan style='color:gray'> Hinweis: Ein Neustart des Browsers oder die erneute Installation der Erweiterungs könnten das Problem beheben.\u003C/span>"
+   },
+   "particularPages2": {
+      "message": "speziellen Seiten"
+   },
+   "paste": {
+      "message": "Einfügen"
+   },
+   "paste2": {
+      "message": "in eine E-Mail oder die sozialen Medien"
+   },
+   "pastingProblem": {
+      "message": "* Das Einfügen in andere Anwendungen funktioniert möglicherweise nicht. Warten Sie daher nach dem Kopieren einen Moment ab."
+   },
+   "popupWindow": {
+      "message": "Popup-Fenster"
+   },
+   "presetButtonAction": {
+      "message": "Voreingestellte Schaltflächenaktion"
+   },
+   "processing": {
+      "message": "Bearbeite"
+   },
+   "readyForPasting": {
+      "message": "Fertig zum Einfügen!"
+   },
+   "readyToShare": {
+      "message": "Es ist bereit zum Teilen, hier ist der Link..."
+   },
+   "removeDonationLink": {
+      "message": "Spenden-Link entfernen"
+   },
+   "removeFooter": {
+      "message": "Fußzeile entfernen?"
+   },
+   "removeHeader": {
+      "message": "Kopfzeile entfernen?"
+   },
+   "removeHeaderFooter": {
+      "message": "Kopf- und Fußzeile entfernen"
+   },
+   "removeMenuItems": {
+      "message": "Menüelemente bei rechtem Mausklick entfernen"
+   },
+   "removeToolbarInPopup": {
+      "message": "Werkzeugleiste im Popup verstecken"
+   },
+   "restart": {
+      "message": "Neu starten"
+   },
+   "rightClickImage": {
+      "message": "Rechtsklicken Sie das Bild, um es zu kopieren oder zu speichern"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "saveImageAs": {
+      "message": "Bild speichern als..."
+   },
+   "saveImageAsAFile": {
+      "message": "Als Datei speichern..."
+   },
+   "saveImageAsDesc": {
+      "message": "Rechtsklicken Sie das Bild und wählen Sie $1"
+   },
+   "saveToGoogleDrive": {
+      "message": "In Google Drive speichern"
+   },
+   "securely": {
+      "message": "sicher."
+   },
+   "seeUpdates": {
+      "message": "Versionshinweise anzeigen"
+   },
+   "selectionTool": {
+      "message": "Auswählen"
+   },
+   "share": {
+      "message": "Teilen"
+   },
+   "shareAsLink": {
+      "message": "oder teilen Sie es als Link"
+   },
+   "shareButtons": {
+      "message": "Schaltflächen zum Teilen"
+   },
+   "shareImageBlurb": {
+      "message": "Ich empfehle die $1 oder $2"
+   },
+   "shareLinkOn": {
+      "message": "Bild teilen auf"
+   },
+   "shareableLink": {
+      "message": "Link zum Teilen"
+   },
+   "small": {
+      "message": "Klein"
+   },
+   "supportExtension": {
+      "message": " um diese Erweiterung zu unterstützen"
+   },
+   "thankYouForYourContribution": {
+      "message": "Die zusätzlichen Funktionen sind freigeschaltet! Vielen Dank für Ihren Beitrag!"
+   },
+   "thankYouForYourContribution2": {
+      "message": "Schließen Sie das Fenster und viel Spaß mit der Erweiterung!"
+   },
+   "undo": {
+      "message": "Rückgängig"
+   },
+   "unlockFeatures": {
+      "message": "Diese und zukünftige Funktionen können Sie mit einer einmaligen Spende in beliebiger Höhe sofort freischalten!"
+   },
+   "upload": {
+      "message": "Upload"
+   },
+   "uploadImage": {
+      "message": "Bild hochladen"
+   },
+   "uploading": {
+      "message": "Hochladen"
+   },
+   "viewUploadedFiles": {
+      "message": "Hochgeladene Dateien anzeigen"
+   },
+   "wantALink": {
+      "message": "Ich brauche einen Link"
+   },
+   "whyContribute": {
+      "message": "Warum sollte ich mich beteiligen?"
+   },
+   "whyContributeReason1": {
+      "message": "Ich verbringe viele Stunden, um $1 zu aktualisieren und Ihre Anregungen zu integrieren"
+   },
+   "whyContributeReason1_1": {
+      "message": "meine Erweiterungen"
+   },
+   "whyContributeReason2": {
+      "message": "Ich lese und gebe schnelles Feedback auf Ihre Kommentare und Bewertungen über mein $1 :)"
+   },
+   "whyContributeReason2_1": {
+      "message": "eigenes Feedback-System"
+   },
+   "whyContributeReason3": {
+      "message": "Ich bin sehr glücklich und dankbar über jede Spende!"
+   },
+   "whyContributeReason4": {
+      "message": "Diese Erweiterung erhält immer wieder gute $1 - Dank Ihnen!"
+   },
+   "whyContributeReason4_1": {
+      "message": "Bewertungen"
+   },
+   "whyContributeReason5": {
+      "message": "Erfahren Sie mehr über mich unter $1"
+   },
+   "whyContributeReason5_1": {
+      "message": "JasonSavard.com/bio"
+   },
+   "whyContributeToCalendarReason1": {
+      "message": "Werden Sie produktiverer Google Kalender Nutzer für sich selbst oder Ihr Unternehmen"
+   },
+   "whyContributeToCalendarReason2": {
+      "message": "Viel preiswerter als $1"
+   },
+   "whyContributeToCalendarReason2_1": {
+      "message": "Microsoft Outlook"
+   },
+   "writeText": {
+      "message": "Text schreiben"
+   }
+}

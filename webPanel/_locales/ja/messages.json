@@ -1,0 +1,41 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "choosePaymentMethod": {
+      "message": "お支払い方法を選択"
+   },
+   "contributeToContinue": {
+      "message": "寄付する"
+   },
+   "currencyCode": {
+      "message": "JPY"
+   },
+   "currencyCodeForGoogleCheckout": {
+      "message": "JPY"
+   },
+   "currencySymbol": {
+      "message": "¥"
+   },
+   "currencySymbolForGoogleCheckout": {
+      "message": "¥"
+   },
+   "minimumDonation": {
+      "message": "100"
+   },
+   "minimumDonationForGoogleCheckout": {
+      "message": "100"
+   },
+   "name": {
+      "message": "Explain and Send Screenshots"
+   },
+   "otherExtensions": {
+      "message": "私の他の人気のアプリをお試しください！"
+   },
+   "removeDonationLink": {
+      "message": "寄付のお願いリンクを表示しない"
+   },
+   "save": {
+      "message": "保存"
+   }
+}

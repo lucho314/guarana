@@ -20,7 +20,7 @@ if (isset($_POST['user']) && isset($_POST['pass'])) {
     require 'lib/conexion.php';
 
 // realizamos la consulta a la BD para chequear datos del Usuario.
-echo $sql_usuario = "SELECT usuarios.id,usuario,password,tipo_usuarios.descripcion as 'tipoUsuario' FROM usuarios INNER JOIN tipo_usuarios on tipo_usuarios.id=usuarios.id WHERE usuario='".$_POST['user']."'";
+echo $sql_usuario = "SELECT usuarios.id,usuario,password,tipo_usuarios.descripcion as 'tipoUsuario' FROM usuarios INNER JOIN tipo_usuarios on tipo_usuarios.id=usuarios.tipo_usuario_id WHERE usuario='".$_POST['user']."'";
 $usuario_consulta = mysqli_query($conexion,$sql_usuario) or die(header ("Location:  user_mal.php"));
 
  if ($_POST['user']=='' AND $_POST['pass']=='') {

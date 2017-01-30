@@ -1,0 +1,419 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "aboutMe": {
+      "message": "על אודותיי"
+   },
+   "addXDelay": {
+      "message": "הוסף תזמון של $1"
+   },
+   "advancedEditing": {
+      "message": "עריכה מתקדמת ב־Pixlr"
+   },
+   "afterGrabAction": {
+      "message": "לאחר ביצוע הלכידה"
+   },
+   "alreadyDonated": {
+      "message": "כבר תרמת?"
+   },
+   "amount": {
+      "message": "כמות"
+   },
+   "background": {
+      "message": "רקע"
+   },
+   "black": {
+      "message": "שחור"
+   },
+   "blurTool": {
+      "message": "מחיקה / טשטוש"
+   },
+   "buttonIcon": {
+      "message": "סמל התוסף"
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "canceledInAppPurchase": {
+      "message": "נסה את Paypal במקום זאת? או צור עמי קשר ב"
+   },
+   "capturing": {
+      "message": "...לוכד"
+   },
+   "changeFontOptions": {
+      "message": "אפשרויות לשינוי הגופן"
+   },
+   "changeFontSize": {
+      "message": "שינוי גודל הגופן"
+   },
+   "changelog": {
+      "message": "רשימת שינויים (Changelog)"
+   },
+   "chooseColor": {
+      "message": "בחירת צבע"
+   },
+   "clickAndDrag": {
+      "message": "לחץ וגרור"
+   },
+   "close": {
+      "message": "סגור"
+   },
+   "continue": {
+      "message": "המשך"
+   },
+   "contribute": {
+      "message": "תרומה"
+   },
+   "copy": {
+      "message": "העתק"
+   },
+   "copyImage": {
+      "message": "העתק תמונה"
+   },
+   "copyLink": {
+      "message": "העתק קישור"
+   },
+   "copyToClipboard": {
+      "message": ".העתק ללוח הגזירים"
+   },
+   "copyToClipboardDesc": {
+      "message": "לחץ קליק־ימני בעכבר על התמונה ובחר"
+   },
+   "cropTool": {
+      "message": "חיתוך תמונה"
+   },
+   "delete": {
+      "message": "מחק"
+   },
+   "deleteLink": {
+      "message": "מחק"
+   },
+   "deleteSelection": {
+      "message": "מחק את הקטע הנבחר"
+   },
+   "description": {
+      "message": "צילום חלקים מדף אינטרנט, הוספת עיגולים, חיצים וכיתוב. שיתוף ושליחת התצלום והתוספות בקישור או קובץ מצורף."
+   },
+   "discoverMyApps": {
+      "message": "גלה את התוספים של המפתח"
+   },
+   "dismiss": {
+      "message": "דחה"
+   },
+   "doNotNotifyMeOfUpdates": {
+      "message": "תודיעו לי על עדכונים של לא"
+   },
+   "done": {
+      "message": "בוצע"
+   },
+   "download": {
+      "message": "הורד"
+   },
+   "drawArrow": {
+      "message": "הוספת חץ"
+   },
+   "drawCircle": {
+      "message": "הוספת עיגול"
+   },
+   "drawFreehand": {
+      "message": "ציור ביד חופשית"
+   },
+   "drawLine": {
+      "message": "הוספת קו"
+   },
+   "drawRectangle": {
+      "message": "הוספת מלבן"
+   },
+   "editInPixlr": {
+      "message": "ערוך ב־Pixlr"
+   },
+   "editingInstructions": {
+      "message": "באפשרותך לצייר חצים או להוסיף טקסט"
+   },
+   "enterAnAmount": {
+      "message": "עליך להזין סכום!"
+   },
+   "example": {
+      "message": "דוגמה"
+   },
+   "extensionUpdated": {
+      "message": "התוסף עודכן!"
+   },
+   "extensionUpdates": {
+      "message": "עדכוני התוסף"
+   },
+   "extraFeatures": {
+      "message": "אפשרויות נוספות"
+   },
+   "extraFeaturesPopup1": {
+      "message": "לקח לי זמן רב לפתח את האפשרויות הנוספות הללו."
+   },
+   "extraFeaturesPopup2": {
+      "message": "בכדי לבטל את החסימה של אפשרויות אלה, יש לתרום כל סכום כדי לתמוך בעבודתי."
+   },
+   "failureWithInAppPurchase": {
+      "message": "העסקה בוטלה או שאירעה בעיה. נסה את Paypal במקום זאת?"
+   },
+   "failureWithPayPalPurchase": {
+      "message": "העסקה בוטלה או שאירעה שגיאה. נסה 1$ במקום זאת?"
+   },
+   "feedback": {
+      "message": "משוב"
+   },
+   "font": {
+      "message": "גופן"
+   },
+   "grabEntirePage": {
+      "message": "לכוד את כל העמוד"
+   },
+   "grabEntireScreen": {
+      "message": "לכוד את כל המסך"
+   },
+   "grabSelectedArea": {
+      "message": "לכוד אזור שנבחר"
+   },
+   "grabVisiblePart": {
+      "message": "לכוד את החלק הנראה בעמוד"
+   },
+   "grabWindow": {
+      "message": "לכוד את הדפדפן או החלון"
+   },
+   "help": {
+      "message": "עזרה"
+   },
+   "hideButtons": {
+      "message": "הסתרת כפתורים"
+   },
+   "hideToolbarInPopup": {
+      "message": "הסתרת סרגל הכלים בחלון האפשרויות"
+   },
+   "highlight": {
+      "message": "הדגשה"
+   },
+   "imageFormat": {
+      "message": "פורמט התמונה"
+   },
+   "justInstalled": {
+      "message": "ככל הנראה שרק התקנת את הרחבה זו או שקיים עדכון. אז תצטרך ל$1 את הלשונית הזו או לקחת את $2 במקום."
+   },
+   "justInstalled2": {
+      "message": "טעינה מחדש"
+   },
+   "justInstalled3": {
+      "message": "החלק הנראה של העמוד"
+   },
+   "large": {
+      "message": "גדול"
+   },
+   "lineWeight": {
+      "message": "עובי הקו"
+   },
+   "link": {
+      "message": "קישור"
+   },
+   "linkCopied": {
+      "message": "הקישור הועתק."
+   },
+   "makeThisAMonthlyContribution": {
+      "message": "הפוך זאת לתרומה חודשית"
+   },
+   "makeThisAMonthlyContributionTooltip": {
+      "message": "עזור לשמור על התמיכה שלי ועדכונים עתידיים"
+   },
+   "minimumAmount": {
+      "message": "$1 יש לתרום לפחות"
+   },
+   "myPreference": {
+      "message": "ההעדפה שלי"
+   },
+   "name": {
+      "message": "הסבר ושלח צילום מסך"
+   },
+   "none": {
+      "message": "ללא"
+   },
+   "normal": {
+      "message": "רגיל"
+   },
+   "ok": {
+      "message": "אישור"
+   },
+   "open": {
+      "message": "פתח"
+   },
+   "openEditor": {
+      "message": "פתח עורך"
+   },
+   "openFile": {
+      "message": "...פתח"
+   },
+   "openFromClipboard": {
+      "message": "לכוד את לוח הגזירים"
+   },
+   "openFromClipboardAndCrop": {
+      "message": "לכוד את לוח הגזירים וחתוך"
+   },
+   "openInGoogleDrive": {
+      "message": "פתח ב־Google Drive"
+   },
+   "option": {
+      "message": "אפשרות"
+   },
+   "options": {
+      "message": "אפשרויות"
+   },
+   "or": {
+      "message": "או"
+   },
+   "orPayUsing_": {
+      "message": "באפשרותך לשלם באמצעות"
+   },
+   "otherAmount": {
+      "message": "סכום אחר"
+   },
+   "otherExtensions": {
+      "message": "נסו אפליקציות פופולריות נוספות שלי!"
+   },
+   "pagesFromOtherExtensions": {
+      "message": "עמודים מתוספים אחרים"
+   },
+   "pagesThatStartWith": {
+      "message": "עמודים שמתחילים ב"
+   },
+   "particularPages2": {
+      "message": "עמודים מסוימים"
+   },
+   "paste": {
+      "message": "הדבק"
+   },
+   "paste2": {
+      "message": "לתוך דואר אלקטרוני או כל מדיה חברתית אחרת"
+   },
+   "popupMenu": {
+      "message": "הסתרת אפשרויות בחלון האפשרויות של התוסף"
+   },
+   "popupWindow": {
+      "message": "פתיחת חלון אפשרויות התוסף"
+   },
+   "presetButtonAction": {
+      "message": "בחירת פעולת כפתור התוסף בעת לחיצה"
+   },
+   "processing": {
+      "message": "מעבד"
+   },
+   "redo": {
+      "message": "הבא"
+   },
+   "removeDonationLink": {
+      "message": "הסר קישור לתרומה"
+   },
+   "removeHeaderFooter": {
+      "message": "הסרת כותרת עליונה וכותרת תחתונה (זכויות יוצרים)"
+   },
+   "removeMenuItems": {
+      "message": "הסרת אפשרויות מהירות בקליק־ימני בעכבר"
+   },
+   "removeMenuItemsToolTip": {
+      "message": "לכידת מסך על־ידי לחיצה על קליק־ימני בעכבר על גבי עמוד האינטרנט ובחירת אפשרות ללכידה"
+   },
+   "removeToolbarInPopup": {
+      "message": "הסרת סרגל הכלים בחלון האפשרויות"
+   },
+   "restart": {
+      "message": "איפוס"
+   },
+   "rightClickImage": {
+      "message": ".יש ללחוץ קליק־ימני בעכבר על תמונה בכדי להעתיק או לשמור אותה"
+   },
+   "save": {
+      "message": "שמור"
+   },
+   "saveImageAs": {
+      "message": "שמור תמונה בשם..."
+   },
+   "saveImageAsAFile": {
+      "message": "שמירה בשם"
+   },
+   "saveImageAsDesc": {
+      "message": "יש ללחוץ קליק־ימני על התמונה ולבחור $1"
+   },
+   "saveToGoogleDrive": {
+      "message": "שמירה ב־Google Drive"
+   },
+   "search": {
+      "message": "חפש"
+   },
+   "seeUpdates": {
+      "message": "ראה עדכונים"
+   },
+   "selectionTool": {
+      "message": "בחר"
+   },
+   "semiTransparent": {
+      "message": "שקוף למחצה"
+   },
+   "share": {
+      "message": "שיתוף"
+   },
+   "shareButtons": {
+      "message": "כפתורי שיתוף"
+   },
+   "shareableLink": {
+      "message": "קישור לשיתוף"
+   },
+   "size": {
+      "message": "גודל"
+   },
+   "small": {
+      "message": "קטן"
+   },
+   "supportExtension": {
+      "message": "כדי לתמוך בתוסף"
+   },
+   "thankYouForYourContribution": {
+      "message": "האפשרויות כעת פתוחות לשימושך, תודה רבה לך על התרומה."
+   },
+   "theresAProblem": {
+      "message": "יש לנו בעיה"
+   },
+   "tip": {
+      "message": "טיפ"
+   },
+   "title": {
+      "message": "כותרת"
+   },
+   "tryAgain": {
+      "message": "אנא נסה שנית"
+   },
+   "tryAgainLater": {
+      "message": "נא נסה שוב מאוחר יותר"
+   },
+   "undo": {
+      "message": "הקודם"
+   },
+   "upload": {
+      "message": "העלה"
+   },
+   "uploadImage": {
+      "message": "העלאת התמונה"
+   },
+   "uploading": {
+      "message": "מעלה"
+   },
+   "useUploadButton": {
+      "message": "השתמש בכפתור \u003Cb>$1\u003C/b> כדי לקבל קישור"
+   },
+   "viewUploadedFiles": {
+      "message": "הצג קבצים שהועלו"
+   },
+   "wantALink": {
+      "message": "אני מעדיף קישור"
+   },
+   "white": {
+      "message": "לבן"
+   },
+   "writeText": {
+      "message": "כתיבת טקסט"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "LAST_ITEM_DO_NOT_REMOVE": {
+      "message": "DO NOT REMOVE"
+   },
+   "currencyCode": {
+      "message": "EUR"
+   },
+   "currencySymbol": {
+      "message": "€"
+   },
+   "description": {
+      "message": "Λήψη στιγμιότυπου από οποιοδήποτε τμήμα μιας ιστοσελίδας. Μετά μπορείς να προσθέσεις επεξηγήσεις με βέλη, ή κείμενο"
+   },
+   "minimumDonation": {
+      "message": "0.50"
+   },
+   "minimumDonationForGoogleCheckout": {
+      "message": "0.50"
+   },
+   "name": {
+      "message": "Επεξήγηση και αποστολή στιγμιοτύπων οθόνης"
+   }
+}

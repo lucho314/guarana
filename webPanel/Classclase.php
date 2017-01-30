@@ -50,7 +50,7 @@ class Classclase {
         $query = "INSERT INTO `clase` (`usuario_instructor_id`, `usuario_alumno_id`,fecha) VALUES ($this->profesorId,$this->alumnoId,CURRENT_DATE);";
         mysqli_query($this->conexion, $query);
         $this->claseId = mysqli_insert_id($this->conexion);
-        mysql_close($this->conexion);
+        mysqli_close($this->conexion);
     }
 
     function getClaseId() {
@@ -71,7 +71,7 @@ class Classclase {
     }
 
     function getClase($id) {
-        $query = "SELECT * FROM clase WHERE id=" . $id;
+        $query = "SELECT clase.*, TIMEDIFF(clase.fin,clase.inicio)as diferencia FROM clase WHERE id=" . $id;
         $resultado = mysqli_query($this->conexion, $query);
         while ($data = mysqli_fetch_assoc($resultado)) {
             $arreglo["data"][] = $data;
@@ -122,6 +122,26 @@ class Classclase {
         return $arreglo;
     }
 
+    function getHoras($claseId) {
+        $query = "SELECT fecha, hora, forma_cambio from hora WHERE clase_id=$claseId";
+        $resultado = mysqli_query($this->conexion, $query);
+        while ($data = mysqli_fetch_assoc($resultado)) {
+            $arreglo["data"][] = $data;
+        }
+        mysqli_free_result($resultado);
+        return $arreglo;
+    }
+
+    function getClimas($claseId) {
+        $query = "SELECT metar,hora,forma_cambio FROM clima WHERE clase_id=$claseId";
+        $resultado = mysqli_query($this->conexion, $query);
+        while ($data = mysqli_fetch_assoc($resultado)) {
+            $arreglo["data"][] = $data;
+        }
+        mysqli_free_result($resultado);
+        return $arreglo;
+    }
+
     function generarFalla() {
         $instrumentoId = $_POST['instrumentoId'];
         $eventoId = $_POST['eventoId'];
@@ -135,6 +155,48 @@ class Classclase {
         }
         echo json_encode($informacion);
         mysqli_close($this->conexion);
+    }
+
+    function cambioHora() {
+        $claseId = $_POST['claseId'];
+        $tipoCambio = $_POST['tipoCambio'];
+        $gmt = $_POST['gmt'];
+        $gmtArray = explode(" ", $gmt);
+        $query = "INSERT INTO `hora` (`id`, `fecha`, `hora`, `forma_cambio`, `clase_id`) VALUES (NULL, '$gmtArray[0]', '" . $gmtArray[1] . "', '$tipoCambio', '$claseId')";
+        $resultado = mysqli_query($this->conexion, $query);
+        if ($resultado) {
+            $informacion['respuesta'] = "BIEN";
+        } else {
+            $informacion['respuesta'] = "error";
+        }
+        echo json_encode($informacion);
+        mysqli_close($this->conexion);
+    }
+
+    function setClima() {
+        $claseId = $_POST['claseId'];
+        $metar = mb_convert_encoding($_POST['metar'], "ISO-8859-1", "UTF-8");
+        $formaCambio = $_POST['formaCambio'];
+        $query = "INSERT INTO `clima` (`id`, `metar`, `hora`, `forma_cambio`, `clase_id`) VALUES (NULL, '$metar', CURRENT_TIME, '$formaCambio', '$claseId');";
+        $resultado = mysqli_query($this->conexion, $query);
+        if ($resultado) {
+            $informacion['respuesta'] = "BIEN";
+        } else {
+            $informacion['respuesta'] = "error";
+        }
+        echo json_encode($informacion);
+        mysqli_close($this->conexion);
+    }
+
+    function flightHistory() {
+        $target_path = "Flight_History/";
+        $name = "simulacion_" . $_POST['claseId'] . '.jpg';
+        $target_path = $target_path . $name;
+        if (move_uploaded_file($_FILES['uploadedfile']['tmp_name'], $target_path)) {
+            echo "El archivo " . basename($_FILES['uploadedfile']['name']) . " ha sido subido";
+        } else {
+            echo "Ha ocurrido un error, trate de nuevo!";
+        }
     }
 
 }

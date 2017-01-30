@@ -1,18 +1,18 @@
 <?php
- if (!isset($_POST['nuevaSimulacion'])) {
-  die(header("Location: clases.php"));
-  }
+if (!isset($_POST['nuevaSimulacion'])) {
+    die(header("Location: clases.php"));
+}
 
-  include 'Classclase.php';
-  $clase = new Classclase();
-  $clase->nuevaSimulacion();
-  $id = $clase->getClaseId();
- 
+include 'Classclase.php';
+$clase = new Classclase();
+$clase->nuevaSimulacion();
+$id = $clase->getClaseId();
+
 include 'cabecera.php';
 include 'lib/variables.php';
 ?>
 <link href="css/jquery.fancybox.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox-buttons.css?v=1.0.5" />
+<link rel="stylesheet" type="text/css" href="css/jquery.fancybox-buttons.css?v=1.0.5" />
 <div class="row" style="background: #111111">
     <div class="col-md-2">
         <div id="boton-iniciar" style="margin-top: 11%">
@@ -26,7 +26,7 @@ include 'lib/variables.php';
             </button>
         </div>
         <div id="caja_hora">
-            <font id="hora">00:00:00</font>
+            <font id="cronometro">00:00:00</font>
         </div>
     </div> 
 
@@ -38,8 +38,6 @@ include 'lib/variables.php';
     </div>
 
 </div>
-
-
 
 <!--modal-->
 <div class="row">
@@ -84,7 +82,7 @@ include 'lib/variables.php';
                             </div>
                             <div class="form-group">
                                 <label for="Comentario" class="col-sm-2 control-label">Comentario</label>
-                                <div class="col-sm-8"><textarea id="Comentario" name="comentario" type="text" class="form-control"  autofocus></textarea></div>				
+                                <div class="col-sm-8"><textarea id="comentario" name="comentario" type="text" class="form-control"  autofocus></textarea></div>				
                             </div>
 
                             <div class="modal-footer">
@@ -92,15 +90,10 @@ include 'lib/variables.php';
 
                             </div>
                         </form>
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
-
     </div>
 </div>
 <!-- fin modal-->
@@ -111,7 +104,6 @@ include 'lib/variables.php';
 
 </div>
 </div>
-<button id="captura">presionar</button>
 <?php
 include 'pie.php';
 echo $nro;
@@ -121,37 +113,21 @@ echo $nro;
 <script src="js/jquery.mousewheel-3.0.6.pack.js"></script>
 <script src="js/jquery.fancybox.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>
-<script type="text/javascript" src="/js/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="js/jquery.fancybox-buttons.js?v=1.0.5"></script>
 
 <script>
     var time;
 
     $(function () {
-        $("#fallas").prop("href", 'acciones/fallas.php');
+        $("#fallas").prop("href", 'acciones/fallas.php?claseId=<?= $id ?>');
         $("#mapa").prop("href", '<?= $nro ?>/mapa.html#Map');
         $("#time").prop("href", '<?= $nro ?>/time.html#Environment/Date & Time')
         $('#posicion').prop("href", 'acciones/posicion.php');
         $('#posicion-aterrizaje').prop("href", 'acciones/posicionAterrizar.php');
+        $('#hora').prop("href", 'acciones/horaHoy.php?claseId=<?= $id ?>');
+        $('#clima').prop("href", 'acciones/climatologia.php?claseId=<?= $id ?>');
+        $("#captura").prop("href", 'acciones/subirCaptura.php?claseId=<?= $id ?>');
     })
-
-
-
-
-
-    $('#captura').click(function () {
-        alert('hola');
-        html2canvas('#panel', {
-            onrendered: function (canvas) {
-                var a = document.createElement('a');
-                // toDataURL defaults to png, so we need to request a jpeg, then convert for file download.
-                a.href = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
-                a.download = 'somefilename.jpg';
-                a.click();
-            }
-        });
-    })
-
-
 
     $('#iniciar').click(function () {
         var id =<?= $id ?>;
@@ -161,29 +137,19 @@ echo $nro;
         $.post('Classclase.php', {id: id, function: 'iniciarSimulacion'}, function () {
             actualizarReloj();
         });
+        setHoraInicio();
     });
 
     $('#finalizar').click(function () {
-        var id =<?= $id ?>;
-        $.post('Classclase.php', {id: id, function: 'finalizarSimulacion'}, function (data) {
-            clearTimeout(time);
-            $('#id').val(data["data"][0].id);
-            $('#instructor').val(data["data"][0].usuario_instructor_id);
-            $('#alumno').val(data["data"][0].usuario_alumno_id);
-            $('#fecha').val(data["data"][0].fecha);
-            $('#inicio').val(data["data"][0].inicio);
-            $('#fin').val(data["data"][0].fin);
-            var inicio = data["data"][0].inicio;
-            var fin = data["data"][0].fin;
-            $('#duracion').val(calcularDuracion(inicio, fin));
-            $('#modal').click();
+        clearTimeout(time);
+        $('#captura').click();
 
-        }, "json");
     });
 
 
     function actualizarReloj() {
-        var hora = $('#hora').text();
+        var hora = $('#cronometro').text();
+        //alert(hora);
         var res = hora.split(":");
         seg = res[2];
         min = res[1];
@@ -201,7 +167,7 @@ echo $nro;
             min = 00;
         }
 
-        $('#hora').text(hs + ":" + min + ":" + seg);
+        $('#cronometro').text(hs + ":" + min + ":" + seg);
         time = setTimeout("actualizarReloj()", 1000)
     }
 
@@ -228,11 +194,43 @@ echo $nro;
     }
 
     $('#form-detalle').submit(function () {
-        window.open('generaPDF.php');
+
+        var comentario = $('#comentario').val();
+        $.post('Classclase.php', {function: 'setComentario', comentario: comentario, id:<?= $id ?>})
+        window.open('detallePdf.php?claseId=<?= $id ?>');
     })
 
+    function setHoraInicio() {
+        $.getJSON("<?= $nro ?>/json/sim/time/gmt", function (data) {
+            //new Date(year, month, day, hours, minutes);
+            var hora = new Date(data.value);
+            hora.setHours(hora.getHours() - 3);
+            gmt = hora.getFullYear() + "-" + hora.getMonth() + "-" + hora.getDate() + " " + hora.getHours() + ":" + hora.getMinutes() + ":" + hora.getSeconds();
+            persistenciaCambioHora(gmt, 3);
+        })
+    }
 
+    function persistenciaCambioHora(gmt, tipoCambio) {
+        $.post('Classclase.php', {function: 'cambioHora', gmt: gmt, claseId:<?= $id ?>, tipoCambio: tipoCambio})
 
+    }
+
+    function finalizarSimulacion() {
+        var id =<?= $id ?>;
+        $.post('Classclase.php', {id: id, function: 'finalizarSimulacion'}, function (data) {
+            $('#id').val(data["data"][0].id);
+            $('#instructor').val(data["data"][0].usuario_instructor_id);
+            $('#alumno').val(data["data"][0].usuario_alumno_id);
+            $('#fecha').val(data["data"][0].fecha);
+            $('#inicio').val(data["data"][0].inicio);
+            $('#fin').val(data["data"][0].fin);
+            duracion = data["data"][0].diferencia;
+            duracion = duracion.split(".");
+            $('#duracion').val(duracion[0]);
+            $('#modal').click();
+
+        }, "json");
+    }
 
 
 </script>

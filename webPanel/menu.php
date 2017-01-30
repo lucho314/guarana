@@ -24,12 +24,14 @@
                         <a class="fancybox fancybox.iframe" id="posicion-aterrizaje" href="#">Seter posicion de aterrizaje</a>
                     </li>
                     <li>
-                        <a class="fancybox fancybox.iframe" href="acciones/climatologia.php">Clima</a>
+                        <a class="fancybox fancybox.iframe" id="clima">Clima</a>
                     </li>
                     <li>
-                        <a class="fancybox fancybox.iframe" id="time" href="#">Hora</a>
+                        <a class="fancybox fancybox.iframe" id="hora" href="#">Hora</a>
                     </li>
-
+                    <li style="display: none">
+                        <a class="fancybox fancybox.iframe" id="captura" href="#">Captura</a>
+                    </li>
                 </ul>
             </li>
         </ul>
@@ -40,19 +42,6 @@
                 <ul class="dropdown-menu">
                     <li>
                         <a href="usuarios.php?tipo=2">Mis alumnos</a>
-                    </li>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                    <li class="divider">
-                    </li>
-                    <li>
-                        <a href="#">Separated link</a>
-                    </li>
-                    <li class="divider">
-                    </li>
-                    <li>
-                        <a href="#">One more separated link</a>
                     </li>
                 </ul>
             </li>
@@ -65,19 +54,6 @@
                     <li>
                         <a href="usuarios.php?tipo=1">Lista</a>
                     </li>
-                    <li>
-                        <a href="#"></a>
-                    </li>
-                    <li class="divider">
-                    </li>
-                    <li>
-                        <a href="#">Separated link</a>
-                    </li>
-                    <li class="divider">
-                    </li>
-                    <li>
-                        <a href="#">One more separated link</a>
-                    </li>
                 </ul>
             </li>
         </ul>
@@ -85,9 +61,7 @@
 
 
         <ul class="nav navbar-nav navbar-right">
-            <li>
-                <a href="#">Mis datos</a>
-            </li>
+         
 
             <li>
                 <a href="aut_logout.php">Cerrar</a>
