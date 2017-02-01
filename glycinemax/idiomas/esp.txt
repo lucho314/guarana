@@ -1,0 +1,15 @@
+-?salons------------------
+-?productos--------------
+descripcion,producto; 
+-?rubros---------
+descripcion,nombre del rubro;
+-?salons-----------------
+descripcion,nombre salon;
+-?alojamientos------------
+descripcion,nombre alojamiento;
+-?eventos------------------
+descripcion,nombre evento;
+-?viaticos_y_movilidads---------
+descripcion,detalle;
+-?comodin---------------------;
+cuit,Id Impositivo;

@@ -1,0 +1,59 @@
+-?comodin---------------------;
+
+###Generales;
+fecha,date;
+ 
+ 
+Movimientos,Transactions;
+Rubros,Category;
+Productos,Product;
+Proveedores,Providers;
+Alta_Proveedores,New_Providers;
+Listar_Proveedores,List_Providers;
+Listado,List;
+Colaboradores,Collaborators;
+Alta_Colaborador,New_Collaborator;
+Listar_Colaboradores,List_Collaborators;
+tipo_movimiento, movement_type;
+
+ 
+##Stock,Stock;
+producto,product;	
+disponibles,available;
+costo,cost;
+margen,markup;
+
+
+##Eventos,Events;
+Salones,Salons;
+Salón,Salon;
+Nuevo_salón,New_Salon;
+Nuevo_salon,New_Salon;
+Alta_salon,New_Salon;
+Listar_salones,List_Salons;
+
+
+
+
+#MenuSuperior
+GESTION,MANAGEMENT;
+EVENTOS,EVENTS_;
+MEDIOS,MEDIA_;
+REPORTES,REPORTS_;
+CONFIGURACIONES,CONFIGURATIONS_;
+
+
+Salir,Exit;
+
+-?productos--------------
+descripcion,product; 
+-?rubros---------
+descripcion,category name;
+-?salons-----------------
+descripcion,new lounge;
+-?alojamientos------------
+descripcion,accommodation name;
+-?eventos------------------
+descripcion,event name;
+-?viaticos_y_movilidads---------
+descripcion,detalle;

@@ -1,0 +1,4 @@
+$(function(){
+    
+    $('#capacidad').addClass('int');
+})
