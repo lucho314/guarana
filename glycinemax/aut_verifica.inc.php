@@ -21,7 +21,7 @@ $db_conexion = mysql_connect("$sql_host", "$sql_usuario", "$sql_pass") or die(he
 mysql_select_db("$sql_db");
 
 // realizamos la consulta a la BD para chequear datos del Usuario.
- $sql_usuario = "SELECT id,usuario,pass,nivel_acceso FROM $sql_tabla WHERE usuario='".$_POST['user']."'";
+ $sql_usuario = "SELECT * FROM $sql_tabla WHERE usuario='".$_POST['user']."'";
 $usuario_consulta = mysql_query($sql_usuario) or die(header ("Location:  user_mal.php"));
 
  if ($_POST['user']=='' AND $_POST['pass']=='') {
@@ -88,6 +88,7 @@ $usuario_consulta = mysql_query($sql_usuario) or die(header ("Location:  user_ma
     //definimos usuario_password con el password del usuario de la sesi�n actual (formato md5 encriptado)
     $_SESSION['usuario_password'] = $usuario_datos['pass'];
 
+    $_SESSION['afiliado_id']=$usuario_datos['afiliado_id'];
 
     // Hacemos una llamada a si mismo (scritp) para que queden disponibles
     // las variables de session en el array asociado $HTTP_...

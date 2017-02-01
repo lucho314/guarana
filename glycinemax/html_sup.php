@@ -1,16 +1,14 @@
 <?php
-//require("aut_verifica.inc.php"); 
-$nivel_acceso=2; 
-if ($nivel_acceso < $_SESSION['usuario_nivel']){
-header ("Location: index.php");
-exit;
-}
-elseif ($_SESSION['usuario_nivel']==='2') {
-header ("Location: movimientos_colaborador.php");
-}
+require("aut_verifica.inc.php");
 
+
+
+
+if ($_SESSION['usuario_nivel'] != '1' and !$afiliado) {
+    header("Location: familiars.php");
+}
 ?>
- 
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
     <?php
@@ -19,18 +17,18 @@ header ("Location: movimientos_colaborador.php");
     include_once('lib/funciones.php');
     $ventananueva = LimpiarXSS($_POST['ventananueva']);
 
-    /*$lang = $_COOKIE["LangArabidopsis"];
-    print_r($_COOKIE);
-    echo "<br>".$lang;*/
-/*
-Extraemos los modulos que tiene habilitado el usuario logueado
- */ 
+    /* $lang = $_COOKIE["LangArabidopsis"];
+      print_r($_COOKIE);
+      echo "<br>".$lang; */
+    /*
+      Extraemos los modulos que tiene habilitado el usuario logueado
+     */
 
     $usuario_id = $_SESSION['usuario_id'];
     //echo "ID Usuario: ".$usuario_id;
-    
+
     $sql = "SELECT modulo_id FROM usuario_modulos WHERE usuario_id=" . $usuario_id;
-    
+
     $query = mysql_query($sql);
     while ($row = mysql_fetch_array($query)) {
         $sql = "SELECT descripcion FROM modulos WHERE id=" . $row[0];
@@ -39,28 +37,28 @@ Extraemos los modulos que tiene habilitado el usuario logueado
             $modulos[] = $row1[0];
         }
     }
-/*-------------------fin modulos--------------------------------*/
+    /* -------------------fin modulos-------------------------------- */
 
     function build_friendly_names($field) {
         $idioma = $_COOKIE["LangArabidopsis"];
 
-           $tabla='menu';  
-           $largo = strlen($tabla);
-           $largo_comodin=strlen('comodin');
-            $fichero = file_get_contents('idiomas/'.$idioma.'.txt', true);
-            $prueb = explode("-?", $fichero);
-            foreach ($prueb as $val) {
-                substr($val, 0, $largo);
-                if (substr($val, 0, $largo) === $tabla || substr($val, 0, $largo_comodin)==='comodin') {
-                    $linea = explode(';', $val);
-                    foreach ($linea as $lin) {
-                        $linea_array = $string = explode(",", $lin);
-                        if (strpos($linea_array[0], $field) !== FALSE) {
-                            $field = $linea_array[1];
-                        }
+        $tabla = 'menu';
+        $largo = strlen($tabla);
+        $largo_comodin = strlen('comodin');
+        $fichero = file_get_contents('idiomas/' . $idioma . '.txt', true);
+        $prueb = explode("-?", $fichero);
+        foreach ($prueb as $val) {
+            substr($val, 0, $largo);
+            if (substr($val, 0, $largo) === $tabla || substr($val, 0, $largo_comodin) === 'comodin') {
+                $linea = explode(';', $val);
+                foreach ($linea as $lin) {
+                    $linea_array = $string = explode(",", $lin);
+                    if (strpos($linea_array[0], $field) !== FALSE) {
+                        $field = $linea_array[1];
                     }
                 }
             }
+        }
         return mb_convert_encoding(ucwords(str_replace('_', ' ', $field)), 'AUTO', 'UTF-8');
     }
     ?>
@@ -71,9 +69,9 @@ Extraemos los modulos que tiene habilitado el usuario logueado
         <!--   <link type="text/css" rel="stylesheet" href="estilos.css"> -->
         <!--<link rel="stylesheet" href="menu.css">-->
         <!--<link rel="stylesheet" href="viejos/style.css">-->
-        
 
-     
+
+
         <script src="js/jquery-1.10.2.js"></script>
         <script src="js/jquery-ui.js"></script>
         <link rel="stylesheet" href="css/jquery-ui.css">
@@ -115,8 +113,8 @@ Extraemos los modulos que tiene habilitado el usuario logueado
                 pos.posLeft = x;
                 pos.visibility = '';
             }
-            
-                   </script>
+
+        </script>
 
 
 
@@ -148,7 +146,7 @@ Extraemos los modulos que tiene habilitado el usuario logueado
 
 
         <!--LIBRERIAS SELECT HORA-->
-        
+
         <script type="text/javascript" src="js/jquery.timepicker.js"></script>
         <link rel="stylesheet" type="text/css" href="css/jquery.timepicker.css" />
 
@@ -185,25 +183,25 @@ Extraemos los modulos que tiene habilitado el usuario logueado
         </script>
         <link rel="stylesheet" href="bootstrap-3.3.6/css/bootstrap.min.css">
         <link rel="stylesheet" href="DataTables-1.10.12/media/css/jquery.dataTables.min.css">
-         <link rel="stylesheet" href="DataTables-1.10.12/media/css/buttons.dataTables.min.css">
-         
-         
+        <link rel="stylesheet" href="DataTables-1.10.12/media/css/buttons.dataTables.min.css">
 
-	<script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/dataTables.buttons.min.js">
-	</script>
-	<script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/jszip.min.js">
-	</script>
-         <script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/pdfmake.min.js">
-	</script>
-	<script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/vfs_fonts.js">
-	</script>
-	<script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/buttons.html5.min.js">
-	</script>
-         
-         
-         
-       
-        
+
+
+        <script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/dataTables.buttons.min.js">
+        </script>
+        <script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/jszip.min.js">
+        </script>
+        <script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/pdfmake.min.js">
+        </script>
+        <script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/vfs_fonts.js">
+        </script>
+        <script type="text/javascript" language="javascript" src="DataTables-1.10.12/pluggin/buttons.html5.min.js">
+        </script>
+
+
+
+
+
         <script src="bootstrap-3.3.6/js/bootstrap.min.js" ></script>
         <!-- Fin Datatable y estilos -->
 
@@ -239,9 +237,9 @@ Extraemos los modulos que tiene habilitado el usuario logueado
                                         <td width="300" align="left">
                                             <p style="text-decoration: blink;">
                                                 <img src="images/tips.jpg" align="right">
-    <?php
-    include_once('tips.php');
-    ?>
+                                                <?php
+                                                include_once('tips.php');
+                                                ?>
                                             </p>
                                         </td>
                                     </tr>
@@ -253,33 +251,32 @@ Extraemos los modulos que tiene habilitado el usuario logueado
 
                         <tr>
                             <td bgcolor="Black" colspan="2">
-    <?php
-    include_once('menu.php');
-    ?>
+                                <?php
+                                include_once('menu.php');
+                                ?>
                             </td>
                         </tr>
 
 
 
-    <?php
-}
-?>
+                        <?php
+                    }
+                    ?>
 
-  <link rel="stylesheet" type="text/css" href="css/jquery-ui.theme.min.css" />
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-  <link rel="stylesheet" href="/resources/demos/style.css">
+                    <link rel="stylesheet" type="text/css" href="css/jquery-ui.theme.min.css" />
+                    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+                    <link rel="stylesheet" href="/resources/demos/style.css">
 
                     <tr>
 
                         <td width="200" valign="top">
-<?php include_once 'calendario.php'; 
-if(isset($_GET['alerta']))
-{
-    echo "<script>$(function () { alert('".$_GET['alerta']."')
+                            <?php
+                            include_once 'calendario.php';
+                            if (isset($_GET['alerta'])) {
+                                echo "<script>$(function () { alert('" . $_GET['alerta'] . "')
 }) </script>";
-}
-
-?>     
+                            }
+                            ?>     
                         </td>
                         <td align="center" valign="top">
                             <br>
