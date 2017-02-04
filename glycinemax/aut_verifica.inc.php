@@ -1,6 +1,7 @@
 <?php
 // Motor autentificaci�n usuarios.
 // Cargar datos conexion y otras variables.
+
 require ("aut_config.inc.php");
 // chequear p�gina que lo llama para devolver errores a dicha p�gina.
 $url = explode("?",$_SERVER['HTTP_REFERER']);

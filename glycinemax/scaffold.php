@@ -13,7 +13,7 @@ class Scaffold {
    */
 	public $db_host = 'localhost';
 	public $db_user = 'root';
-        public $db_password = ''; 
+        public $db_password = 'shinw1sa'; 
 	public $db_name = 'glycinemax';        
       
 	/**
@@ -774,7 +774,7 @@ class Scaffold {
                     <td align="center">
                           '.$input_maestro.'
                           <input type="hidden" name="campo" id="campo" value="'.$this->table.'_id">
-			  <input type="submit" value="Agregar registro '.$this->filter[1].'" /></td></tr>'
+			  <input type="submit" value="Agregar registro" /></td></tr>'
 		 		. '</table>'
 		 		. '</form>';
 		 		//. '<a href="'.$_SERVER['PHP_SELF'].'">Volver al listado</a>';
@@ -882,8 +882,8 @@ class Scaffold {
 				$page .= '<tr>';
 				// reviso las claves foraneas..
 				if(substr($field->name, -3) == '_id'){
-					if ($field->name==$this->filter[0]) {
-                                            $page .= '<input type="hidden"  name="'.$this->filter[0].'" id="'.$this->filter[1].'" />';
+                                        if ($field->name==$this->filter[0]) {
+                                            $page .= '<input type="hidden"  name="'.$this->filter[0].'" value="'.$this->filter[1].'" />';
                                         }else{
                                             $page .= $this->build_foreign_key_dropdowns($field->name, $row[$i]);
                                         }                                    
