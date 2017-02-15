@@ -6,16 +6,16 @@ class Scaffold {
 
 // configuracion
 	
-      /*   public $db_host = 'localhost';
-	public $db_user = 'arabidopsis';
-	public $db_password = 'Shinw1sa_'; 
-	public $db_name = 'pymeser_arabidopsis';
-   */
-	public $db_host = 'localhost';
+        public $db_host = 'localhost';
 	public $db_user = 'root';
-        public $db_password = 'shinw1sa'; 
-	public $db_name = 'glycinemax';        
-      
+	public $db_password = ''; 
+	public $db_name = 'glycinemax';
+   /*
+	public $db_host = 'localhost';
+	public $db_user = 'aefip';
+        public $db_password = 'Nr0y1z*5'; 
+	public $db_name = 'sistema_aefip';         
+      */
 	/**
 	Los siguientes arrays contienen los campos de las fk que estan relacionados con tablas que no llevan el mismo nombre.
 	*/

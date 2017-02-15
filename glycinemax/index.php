@@ -4,7 +4,6 @@ if (isset($_GET['cuil'])) {
     $cuil = $_GET['cuil'];
     $sql = "UPDATE usuarios SET activo =1 WHERE descripcion LIKE  '%$cuil'";
     mysql_query($sql);
-
 }
 ?>
 
@@ -144,14 +143,17 @@ if (isset($_GET['cuil'])) {
 
     $('#form-registro').submit(function (event) {
         event.preventDefault();
-        datos=$(this).serialize();
+        datos = $(this).serialize();
         if (comparaContra()) {
 
-            $.post('send_mail_afiliado.php',datos, function (data) {
+            $.post('send_mail_afiliado.php', datos, function (data) {
                 console.log(data);
-                alert('SE ENVIO UN MAIL A SU CORREO PARA CONFIRMAR LA CUENTA. REVISE SU BANDEJA DE ENTRADA.')
-
-            }).fail(function () {
+                if (data.error) {
+                    alert(data.error);
+                } else {
+                    alert('SE ENVIO UN MAIL A SU CORREO PARA CONFIRMAR LA CUENTA. REVISE SU BANDEJA DE ENTRADA.')
+                }
+            },'json').fail(function () {
                 alert("error");
             })
 
@@ -185,12 +187,12 @@ if (isset($_GET['cuil'])) {
     $('#nom_usuario').change(function () {
         verificaExistente();
     })
-    
-    $('#iniciar').click(function(){
+
+    $('#iniciar').click(function () {
         $('#login').show();
         $('#registro').hide();
     })
-    $('#registrarse').click(function(){
+    $('#registrarse').click(function () {
         $('#login').hide();
         $('#registro').show();
     })
